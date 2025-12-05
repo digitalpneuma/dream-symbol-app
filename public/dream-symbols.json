@@ -1,0 +1,7477 @@
+[
+  {
+    "symbol": "ONE",
+    "meaning": "Beginning: First-in time, rank, order, or importance; new.",
+    "category": "Numbers",
+    "keywords": [
+      "beginning",
+      "new",
+      "first"
+    ]
+  },
+  {
+    "symbol": "TWO",
+    "meaning": "Divide: Judge; separate; discern; subdivide.",
+    "category": "Numbers",
+    "keywords": [
+      "divide",
+      "judge",
+      "separate",
+      "discern"
+    ]
+  },
+  {
+    "symbol": "THREE",
+    "meaning": "Conform: Obey; copy; imitate; likeness; tradition; the Trinity.",
+    "category": "Numbers",
+    "keywords": [
+      "conform",
+      "obey",
+      "copy",
+      "tradition",
+      "trinity"
+    ]
+  },
+  {
+    "symbol": "FOUR",
+    "meaning": "Reign: Rule (over the world); Kingdom; creation (including things in Heaven and earth); world.",
+    "category": "Numbers",
+    "keywords": [
+      "reign",
+      "rule",
+      "kingdom",
+      "creation",
+      "world"
+    ]
+  },
+  {
+    "symbol": "FIVE",
+    "meaning": "Serve: Works; service; bondage (including debt, sickness, phobias, etc.); taxes; prison; sin; motion.",
+    "category": "Numbers",
+    "keywords": [
+      "serve",
+      "works",
+      "service",
+      "bondage",
+      "sin",
+      "debt"
+    ]
+  },
+  {
+    "symbol": "SIX",
+    "meaning": "Image: Man; flesh; carnal; idol; form.",
+    "category": "Numbers",
+    "keywords": [
+      "image",
+      "man",
+      "flesh",
+      "carnal",
+      "idol"
+    ]
+  },
+  {
+    "symbol": "SEVEN",
+    "meaning": "Complete: All; finished; rest.",
+    "category": "Numbers",
+    "keywords": [
+      "complete",
+      "finished",
+      "rest"
+    ]
+  },
+  {
+    "symbol": "EIGHT",
+    "meaning": "Put Off (as in putting off \"the old man,\" i.e., the works of the flesh): Sanctify; manifest; reveal; die; death. By implication, new beginning.",
+    "category": "Numbers",
+    "keywords": [
+      "put off",
+      "sanctify",
+      "reveal",
+      "death",
+      "new beginning"
+    ]
+  },
+  {
+    "symbol": "NINE",
+    "meaning": "Harvest: Fruit; fruitfulness; fruition.",
+    "category": "Numbers",
+    "keywords": [
+      "harvest",
+      "fruit",
+      "fruitfulness"
+    ]
+  },
+  {
+    "symbol": "TEN",
+    "meaning": "Measure (for the purpose of accepting or rejecting that which is measured): Try or trial; test or to be tested; temptation.",
+    "category": "Numbers",
+    "keywords": [
+      "measure",
+      "try",
+      "trial",
+      "test",
+      "temptation",
+      "acceptance",
+      "rejection"
+    ]
+  },
+  {
+    "symbol": "ELEVEN",
+    "meaning": "End: Finish; last; stop.",
+    "category": "Numbers",
+    "keywords": [
+      "end",
+      "finish",
+      "last",
+      "stop"
+    ]
+  },
+  {
+    "symbol": "TWELVE",
+    "meaning": "Joined: United; govern; government; oversight.",
+    "category": "Numbers",
+    "keywords": [
+      "joined",
+      "united",
+      "govern",
+      "government",
+      "oversight"
+    ]
+  },
+  {
+    "symbol": "THIRTEEN",
+    "meaning": "Rebel: Rebellion; revolution; rejection.",
+    "category": "Numbers",
+    "keywords": [
+      "rebel",
+      "rebellion",
+      "revolution",
+      "rejection"
+    ]
+  },
+  {
+    "symbol": "FOURTEEN",
+    "meaning": "Double: Re-create; reproduce; disciple; servant; bond slave (employee).",
+    "category": "Numbers",
+    "keywords": [
+      "double",
+      "re-create",
+      "reproduce",
+      "servant",
+      "employee"
+    ]
+  },
+  {
+    "symbol": "FIFTEEN",
+    "meaning": "Free: Grace; liberty; sin covered; honour.",
+    "category": "Numbers",
+    "keywords": [
+      "free",
+      "grace",
+      "liberty",
+      "honour"
+    ]
+  },
+  {
+    "symbol": "SIXTEEN",
+    "meaning": "Spirit: Free-spirited; without boundaries; without limitation; without law (and therefore without sin); salvation.",
+    "category": "Numbers",
+    "keywords": [
+      "spirit",
+      "free-spirited",
+      "salvation"
+    ]
+  },
+  {
+    "symbol": "SEVENTEEN",
+    "meaning": "Incomplete: Immature; undeveloped; unfinished; childish; naive; a babe in Christ.",
+    "category": "Numbers",
+    "keywords": [
+      "incomplete",
+      "immature",
+      "unfinished",
+      "childish",
+      "babe in Christ"
+    ]
+  },
+  {
+    "symbol": "EIGHTEEN",
+    "meaning": "Put On: Judgment; destruction; captivity; over-come; put on (the Spirit of) Christ.",
+    "category": "Numbers",
+    "keywords": [
+      "put on",
+      "judgment",
+      "destruction",
+      "captivity",
+      "put on Christ"
+    ]
+  },
+  {
+    "symbol": "NINETEEN",
+    "meaning": "Barren: Ashamed; repentant; selflessness; without self-righteousness.",
+    "category": "Numbers",
+    "keywords": [
+      "barren",
+      "ashamed",
+      "repentant",
+      "selflessness"
+    ]
+  },
+  {
+    "symbol": "TWENTY",
+    "meaning": "Holy: Tried and approved (or unholy: tried and found wanting).",
+    "category": "Numbers",
+    "keywords": [
+      "holy",
+      "tried",
+      "approved",
+      "unholy",
+      "wanting"
+    ]
+  },
+  {
+    "symbol": "FORTY",
+    "meaning": "Testing: Trial; temptation.",
+    "category": "Numbers",
+    "keywords": [
+      "testing",
+      "trial",
+      "temptation"
+    ]
+  },
+  {
+    "symbol": "FIFTY",
+    "meaning": "Pentecost: Liberty; freedom; jubilee.",
+    "category": "Numbers",
+    "keywords": [
+      "pentecost",
+      "liberty",
+      "freedom",
+      "jubilee"
+    ]
+  },
+  {
+    "symbol": "SEVENTY-FIVE",
+    "meaning": "The number of Separation: Cleansing; purifying.",
+    "category": "Numbers",
+    "keywords": [
+      "separation",
+      "cleansing",
+      "purifying"
+    ]
+  },
+  {
+    "symbol": "HUNDRED",
+    "meaning": "Fullness: Full measure; full recompense; full reward; etc.",
+    "category": "Numbers",
+    "keywords": [
+      "fullness",
+      "full measure",
+      "recompense",
+      "reward"
+    ]
+  },
+  {
+    "symbol": "THOUSAND",
+    "meaning": "Maturity: Full stature; mature service; mature judgment; etc.",
+    "category": "Numbers",
+    "keywords": [
+      "maturity",
+      "full stature",
+      "mature service",
+      "judgment"
+    ]
+  },
+  {
+    "symbol": "ADULTERY",
+    "meaning": "Sin: Idolatry; pornography. Evil covenant; breaking or violating covenant relationship.",
+    "category": "Actions / People",
+    "keywords": [
+      "sin",
+      "idolatry",
+      "pornography",
+      "covenant",
+      "relationship"
+    ]
+  },
+  {
+    "symbol": "AIRPLANE",
+    "meaning": "Life, Travel, or Traveling Ministry: Team ministry. Small airplane =Personal ministry. Flying or soaring = Movedby the Spirit; ministering in the gifts of the Spirit. Flying too low=Insufficient power (prayer) or preparation (training). Airplane Crash = Failure; church or ministry split; personal disaster (a failed marriage, business venture, etc.). Fighter Jet = Warfare ministry.",
+    "category": "Travel / Calling",
+    "keywords": [
+      "life",
+      "travel",
+      "ministry",
+      "team",
+      "personal ministry"
+    ]
+  },
+  {
+    "symbol": "AIRPORT",
+    "meaning": "Base or Port for Traveling Ministry or a Large Church: A base for multiple traveling ministries that come in and out of the base. Natural interpretation or personal travel.",
+    "category": "Travel / Calling",
+    "keywords": [
+      "life",
+      "travel",
+      "ministry",
+      "team",
+      "personal ministry"
+    ]
+  },
+  {
+    "symbol": "ALLIGATOR",
+    "meaning": "Ancient: Evil out of the past; Leviathan; danger; destruction; evil spirit.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "ancient",
+      "evil",
+      "past",
+      "leviathan",
+      "danger",
+      "destruction",
+      "evil spirit"
+    ]
+  },
+  {
+    "symbol": "AMBER",
+    "meaning": "The Glory of God: Caution; yield.",
+    "category": "Colors / States",
+    "keywords": [
+      "glory of God",
+      "caution",
+      "yield"
+    ]
+  },
+  {
+    "symbol": "ANCHOR",
+    "meaning": "Hold Steady: Keep in place; a heavy load.",
+    "category": "Objects / Stability",
+    "keywords": [
+      "hold steady",
+      "keep in place",
+      "heavy load"
+    ]
+  },
+  {
+    "symbol": "ANKLES",
+    "meaning": "Faith, Support: Weak ankles = Weak faith; unsupported; undependable.",
+    "category": "Body / State",
+    "keywords": [
+      "faith",
+      "support",
+      "weak faith"
+    ]
+  },
+  {
+    "symbol": "ANT",
+    "meaning": "Industrious: Wise; diligent; nuisance.",
+    "category": "Animals / Traits",
+    "keywords": [
+      "industrious",
+      "wise",
+      "diligent",
+      "nuisance"
+    ]
+  },
+  {
+    "symbol": "ANTIQUES",
+    "meaning": "Past: Inherited from our forefathers (good or evil). Inheritance; memories.",
+    "category": "Objects / Time",
+    "keywords": [
+      "past",
+      "inherited",
+      "forefathers",
+      "inheritance",
+      "memories"
+    ]
+  },
+  {
+    "symbol": "APPLES",
+    "meaning": "Fruit: Words; temptation; appreciation (as in \"an apple for the teacher\"); fruit of the Spirit.",
+    "category": "Food / Fruit",
+    "keywords": [
+      "fruit",
+      "words",
+      "temptation",
+      "fruit of the Spirit"
+    ]
+  },
+  {
+    "symbol": "ARM",
+    "meaning": "Strength or Weakness: Saviour; deliverer; helper; aid; reaching out.",
+    "category": "Body / State",
+    "keywords": [
+      "strength",
+      "weakness",
+      "saviour",
+      "deliverer",
+      "helper",
+      "aid"
+    ]
+  },
+  {
+    "symbol": "ARRESTED",
+    "meaning": "Stopped: Illegal; unauthorized; penalty; wrong; judgment.",
+    "category": "Actions / Events",
+    "keywords": [
+      "stopped",
+      "illegal",
+      "penalty",
+      "wrong",
+      "judgment"
+    ]
+  },
+  {
+    "symbol": "ARROWS",
+    "meaning": "Words: Accusations; slander; attack; gossip; prayer; deliverance. Quiver = Heart; safe place; hidden.",
+    "category": "Objects / Negative",
+    "keywords": [
+      "bow",
+      "arrows",
+      "accusation"
+    ]
+  },
+  {
+    "symbol": "ASHES",
+    "meaning": "Memories (that which has been reduced to ashes remains only in memory): Repentance; ruin; destruction.",
+    "category": "Objects / State",
+    "keywords": [
+      "memories",
+      "repentance",
+      "ruin",
+      "destruction"
+    ]
+  },
+  {
+    "symbol": "ATTIC",
+    "meaning": "Mind: Thought; attitude; memories stored.",
+    "category": "Places / Mind",
+    "keywords": [
+      "mind",
+      "thought",
+      "attitude",
+      "memories"
+    ]
+  },
+  {
+    "symbol": "AUTOMOBILE",
+    "meaning": "Life: Person; ministry. New car = New ministry or new way of life. Automobile breakdown = Problem; sickness; trouble; opposition; hindrance. Limousine = Important; pride. CONVERTIBLE (with the Top up) – Covered: Protected covering or covenant. CONVERTIBLE (with the Top down) – Uncovered: Everything revealed; open, nothing hidden; a self-righteous or unsaved person; “living in the fast lane.”",
+    "category": "Travel / Calling",
+    "keywords": [
+      "life",
+      "person",
+      "ministry",
+      "new car",
+      "problem",
+      "hindrance"
+    ]
+  },
+  {
+    "symbol": "AUTO WRECK OR CRASH",
+    "meaning": "Strife; defeat; failure: Contention; conflict; confrontation; mistake or sin in ministry.",
+    "category": "Travel / Calling",
+    "keywords": [
+      "life",
+      "person",
+      "ministry",
+      "new car",
+      "problem",
+      "hindrance"
+    ]
+  },
+  {
+    "symbol": "AUTUMN",
+    "meaning": "End: Completion; change; repentance.",
+    "category": "Time / Season",
+    "keywords": [
+      "end",
+      "completion",
+      "change",
+      "repentance"
+    ]
+  },
+  {
+    "symbol": "BABY",
+    "meaning": "New: Beginning; new idea; new work (church); dependent; helpless; innocent; sin; natural baby.",
+    "category": "People / State",
+    "keywords": [
+      "new",
+      "beginning",
+      "new idea",
+      "helpless",
+      "innocent",
+      "sin"
+    ]
+  },
+  {
+    "symbol": "BACK (BACKYARD OR BACKDOOR)",
+    "meaning": "Past: Previous event or experience (good or evil); that which is behind (in time: for example, your past sins or the sins of your forefathers).",
+    "category": "Places / Time",
+    "keywords": [
+      "past",
+      "previous event",
+      "sins",
+      "forefathers"
+    ]
+  },
+  {
+    "symbol": "BACKWARD (as in DIRECTION)",
+    "meaning": "Retreat: Reverse; demote; into your past; regress; backslide.",
+    "category": "Direction / Action",
+    "keywords": [
+      "retreat",
+      "reverse",
+      "demote",
+      "past",
+      "backslide"
+    ]
+  },
+  {
+    "symbol": "BAKER",
+    "meaning": "Instigator: One who cooks up (and serves) ideas; originator; Christ; Satan; minister; self.",
+    "category": "People / Role",
+    "keywords": [
+      "instigator",
+      "originator",
+      "Christ",
+      "Satan",
+      "minister"
+    ]
+  },
+  {
+    "symbol": "BANK",
+    "meaning": "Secure: Dependable; safe; reward reserved in heaven; the Church. A place of power; storehouse.",
+    "category": "Places / Resource",
+    "keywords": [
+      "secure",
+      "dependable",
+      "safe",
+      "reward",
+      "church",
+      "storehouse",
+      "power"
+    ]
+  },
+  {
+    "symbol": "BARBERSHOP",
+    "meaning": "Church: A place of removal of old covenants of sin, occult, or religion.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "church",
+      "removal",
+      "old covenants",
+      "sin",
+      "occult"
+    ]
+  },
+  {
+    "symbol": "BARN",
+    "meaning": "Storehouse: Church; relating to the work of the ministry, provision; large work.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "storehouse",
+      "church",
+      "ministry",
+      "provision",
+      "large work"
+    ]
+  },
+  {
+    "symbol": "BASEBALL GAME",
+    "meaning": "Worship: Play; sports; team ministry.",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "worship",
+      "play",
+      "sports",
+      "team ministry"
+    ]
+  },
+  {
+    "symbol": "BASEMENT",
+    "meaning": "Soul: Carnal nature; lust; discouragement or depression; refuge; hidden; forgotten; secret sin; stored.",
+    "category": "Places / Mind",
+    "keywords": [
+      "soul",
+      "carnal nature",
+      "lust",
+      "depression",
+      "refuge",
+      "secret sin"
+    ]
+  },
+  {
+    "symbol": "BAT",
+    "meaning": "Witchcraft: Flighty; unstable. Blind or poor vision.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "witchcraft",
+      "flighty",
+      "unstable",
+      "blind",
+      "poor vision"
+    ]
+  },
+  {
+    "symbol": "BATHING",
+    "meaning": "Cleansing: Sanctification; repentance.",
+    "category": "Actions / State",
+    "keywords": [
+      "cleansing",
+      "sanctification",
+      "repentance"
+    ]
+  },
+  {
+    "symbol": "BATHROOM",
+    "meaning": "Deliverance or Cleansing: Prayer of repentance; confession of offenses or sins to another person.",
+    "category": "Places / Action",
+    "keywords": [
+      "deliverance",
+      "cleansing",
+      "prayer of repentance",
+      "confession"
+    ]
+  },
+  {
+    "symbol": "BATTERY",
+    "meaning": "Power: Strength; prayer; motivation.",
+    "category": "Objects / Resource",
+    "keywords": [
+      "power",
+      "strength",
+      "prayer",
+      "motivation"
+    ]
+  },
+  {
+    "symbol": "BEAR",
+    "meaning": "Destroyer: Destruction; an evil curse (through inheritance or personal sin, including financial loss or hardship); economic loss; danger; opposition; Russia.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "destroyer",
+      "destruction",
+      "evil curse",
+      "financial loss",
+      "opposition",
+      "Russia"
+    ]
+  },
+  {
+    "symbol": "BEARD",
+    "meaning": "Covering: Humanity, relating to the heart. Rough, unshaven face = Spiritual neglect or uncleanness; coarse or harsh personality.",
+    "category": "Body / State",
+    "keywords": [
+      "covering",
+      "humanity",
+      "heart",
+      "spiritual neglect",
+      "uncleanness"
+    ]
+  },
+  {
+    "symbol": "BEAUTY SHOP",
+    "meaning": "Church: Preparation; vanity; holiness.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "church",
+      "preparation",
+      "vanity",
+      "holiness"
+    ]
+  },
+  {
+    "symbol": "BEAVER",
+    "meaning": "Industrious: Busy; diligent; clever; ingenious; Canada.",
+    "category": "Animals / Traits",
+    "keywords": [
+      "industrious",
+      "busy",
+      "diligent",
+      "clever",
+      "Canada"
+    ]
+  },
+  {
+    "symbol": "BED",
+    "meaning": "Rest: Salvation; meditation; intimacy; peace; covenant or an evil covenant; self-made conditions.",
+    "category": "Places / State",
+    "keywords": [
+      "rest",
+      "salvation",
+      "meditation",
+      "intimacy",
+      "peace",
+      "covenant"
+    ]
+  },
+  {
+    "symbol": "BEDROOM",
+    "meaning": "Rest: Place of intimacy; private place.",
+    "category": "Places / State",
+    "keywords": [
+      "rest",
+      "intimacy",
+      "private place"
+    ]
+  },
+  {
+    "symbol": "BEES",
+    "meaning": "Chastisement or Offense: Stinging words; affliction; busybody; busy; gossip. Honeybees = cross-pollination.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "chastisement",
+      "offense",
+      "stinging words",
+      "affliction",
+      "gossip"
+    ]
+  },
+  {
+    "symbol": "BELLS",
+    "meaning": "Sign indicating: (1) Change (as in \"the times are changing\"). (2) God's presence (as in \"church bells\"). (3) Marriage (Wedding bells).",
+    "category": "Objects / Events",
+    "keywords": [
+      "change",
+      "God's presence",
+      "marriage",
+      "wedding bells"
+    ]
+  },
+  {
+    "symbol": "BELLY",
+    "meaning": "Spirit: Desire; lust; heart; feelings; selfishness; self-worship; sickness. Centre (as in \"the belly of a ship\" or the \"belly of the whale\", or \"inside\").",
+    "category": "Body / State",
+    "keywords": [
+      "spirit",
+      "desire",
+      "lust",
+      "heart",
+      "selfishness",
+      "sickness",
+      "centre"
+    ]
+  },
+  {
+    "symbol": "BESTIALITY",
+    "meaning": "Inordinate Lust: Unnatural, deviant sexual acts; obscene.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "inordinate lust",
+      "unnatural",
+      "deviant sexual acts",
+      "obscene"
+    ]
+  },
+  {
+    "symbol": "BIBLE",
+    "meaning": "Word: Law; holy; solid; stand; first; final.",
+    "category": "Objects / Word",
+    "keywords": [
+      "word",
+      "law",
+      "holy",
+      "solid",
+      "final"
+    ]
+  },
+  {
+    "symbol": "BICYCLE",
+    "meaning": "Works: Works of the flesh; working out life's difficulties. Bicycle built for two = Working together; a couple in ministry.",
+    "category": "Travel / Action",
+    "keywords": [
+      "works",
+      "works of the flesh",
+      "working together",
+      "ministry"
+    ]
+  },
+  {
+    "symbol": "BIKINI",
+    "meaning": "Uncovered: Carnal; seduction; temptation; insufficient covering.",
+    "category": "Clothing / Negative",
+    "keywords": [
+      "uncovered",
+      "carnal",
+      "seduction",
+      "temptation",
+      "insufficient covering"
+    ]
+  },
+  {
+    "symbol": "BILLS/DEBTS",
+    "meaning": "Curse: Penalty; obligation; responsibility.",
+    "category": "Objects / State",
+    "keywords": [
+      "curse",
+      "penalty",
+      "obligation",
+      "responsibility"
+    ]
+  },
+  {
+    "symbol": "BINGO",
+    "meaning": "Winner or Correct: Sudden victory; correct answer, idea.",
+    "category": "Actions / Event",
+    "keywords": [
+      "winner",
+      "correct",
+      "sudden victory",
+      "correct idea"
+    ]
+  },
+  {
+    "symbol": "BINOCULARS",
+    "meaning": "Insight: Understanding; prophetic vision; future event; looking ahead.",
+    "category": "Objects / Vision",
+    "keywords": [
+      "insight",
+      "understanding",
+      "prophetic vision",
+      "future event"
+    ]
+  },
+  {
+    "symbol": "BIRD",
+    "meaning": "Spirit: Holy Spirit; demon; man; gossip; message. Dirty or unclean (as in \"a dirty bird\").",
+    "category": "Animals / Spirit",
+    "keywords": [
+      "spirit",
+      "Holy Spirit",
+      "demon",
+      "man",
+      "gossip",
+      "message",
+      "unclean"
+    ]
+  },
+  {
+    "symbol": "BLACK",
+    "meaning": "Lack: Sin; ignorance; grief; mourning; gloomy; evil; famine; burned.",
+    "category": "Colors / State",
+    "keywords": [
+      "lack",
+      "sin",
+      "ignorance",
+      "grief",
+      "evil",
+      "famine"
+    ]
+  },
+  {
+    "symbol": "BLACK TIE",
+    "meaning": "Formal or important. If evil, shows ranking spirits.",
+    "category": "Clothing / State",
+    "keywords": [
+      "formal",
+      "important",
+      "ranking spirits"
+    ]
+  },
+  {
+    "symbol": "BLACK AND WHITE",
+    "meaning": "Either Good or Bad; plain and simple. No gray area.",
+    "category": "Colors / State",
+    "keywords": [
+      "good",
+      "bad",
+      "plain",
+      "simple",
+      "no gray area"
+    ]
+  },
+  {
+    "symbol": "BLACKJACK",
+    "meaning": "Gambling; high risk; evil game.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "gambling",
+      "high risk",
+      "evil game"
+    ]
+  },
+  {
+    "symbol": "BLEEDING",
+    "meaning": "Wounded: Hurt (bodily or emotionally); spiritually dying; gossip; unclean (e.g., the woman with the issue of blood).",
+    "category": "Body / State",
+    "keywords": [
+      "wounded",
+      "hurt",
+      "dying",
+      "gossip",
+      "unclean"
+    ]
+  },
+  {
+    "symbol": "BLIND",
+    "meaning": "Ignorance: Unseeing; without understanding; unlearned; foolish; self-justification and self-righteousness.",
+    "category": "State / Negative",
+    "keywords": [
+      "ignorance",
+      "unseeing",
+      "without understanding",
+      "self-righteousness"
+    ]
+  },
+  {
+    "symbol": "BLOOD",
+    "meaning": "Life: Covenant; murder; defiled; unclean; pollution; purging; testimony; witness; guilt.",
+    "category": "Body / State",
+    "keywords": [
+      "life",
+      "covenant",
+      "murder",
+      "unclean",
+      "purging",
+      "testimony",
+      "guilt"
+    ]
+  },
+  {
+    "symbol": "BLOOD TRANSFUSION",
+    "meaning": "Change: Regeneration; new life; salvation.",
+    "category": "Actions / State",
+    "keywords": [
+      "change",
+      "regeneration",
+      "new life",
+      "salvation"
+    ]
+  },
+  {
+    "symbol": "BLUE",
+    "meaning": "Spiritual: Spiritual gift; divine revelation; heavenly visitation; depressed (as in \"singing the blues\"); a baby boy.",
+    "category": "Colors / Spirit",
+    "keywords": [
+      "spiritual",
+      "spiritual gift",
+      "divine revelation",
+      "depressed",
+      "baby boy"
+    ]
+  },
+  {
+    "symbol": "BOAR",
+    "meaning": "Persecutor: Hostile to virtue; vicious; vengeful; danger; wild; attack.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "persecutor",
+      "vicious",
+      "vengeful",
+      "danger",
+      "attack"
+    ]
+  },
+  {
+    "symbol": "BOAT",
+    "meaning": "Ministry: Life; person; recreation; spare time. Large ship = The Church. Small boat = Personal ministry. Sailboat = Moved by the Spirit. Powerboat = Powerful ministry or fast progress. Battleship = Spiritual warfare; rescue. Shipwreck = Church split; ministry failure; error or accident. Rowboat = striving; power of self; works.",
+    "category": "Travel / Calling",
+    "keywords": [
+      "ministry",
+      "life",
+      "church",
+      "personal ministry",
+      "recreation"
+    ]
+  },
+  {
+    "symbol": "BODY ODOUR",
+    "meaning": "Uncleanness: Bad attitude; filthiness of the flesh; rejected.",
+    "category": "Body / State",
+    "keywords": [
+      "uncleanness",
+      "bad attitude",
+      "filthiness of the flesh",
+      "rejected"
+    ]
+  },
+  {
+    "symbol": "BOMB",
+    "meaning": "Power: Holy Spirit outpouring; miracle power; sudden destruction.",
+    "category": "Objects / Power",
+    "keywords": [
+      "power",
+      "Holy Spirit outpouring",
+      "miracle power",
+      "sudden destruction"
+    ]
+  },
+  {
+    "symbol": "BONES",
+    "meaning": "Spirit: Condition of the heart; death; that which is eternal; structure.",
+    "category": "Body / State",
+    "keywords": [
+      "spirit",
+      "heart",
+      "death",
+      "eternal",
+      "structure"
+    ]
+  },
+  {
+    "symbol": "BOOK",
+    "meaning": "Record: Word of God; heart of man; witness; remembrance; conscience; education; knowledge. Book of life. Open book = Life revealed; transparent.",
+    "category": "Objects / Word",
+    "keywords": [
+      "record",
+      "Word of God",
+      "witness",
+      "knowledge",
+      "Book of life",
+      "life revealed"
+    ]
+  },
+  {
+    "symbol": "BOOTS",
+    "meaning": "Hard Work of ministry: Army boots = Warfare. Cowboy boots = Wild ride; pioneer work.",
+    "category": "Clothing / Ministry",
+    "keywords": [
+      "hard work",
+      "ministry",
+      "warfare",
+      "pioneer work"
+    ]
+  },
+  {
+    "symbol": "BOW/ARROWS",
+    "meaning": "Words: Accusations; slander; attack; gossip; prayer; deliverance. Quiver = Heart; safe place; hidden.",
+    "category": "Objects / Words",
+    "keywords": [
+      "words",
+      "accusations",
+      "slander",
+      "attack",
+      "gossip",
+      "prayer",
+      "deliverance"
+    ]
+  },
+  {
+    "symbol": "BOWL",
+    "meaning": "Vessel: Doctrine; tradition or person.",
+    "category": "Objects / Vessel",
+    "keywords": [
+      "vessel",
+      "doctrine",
+      "tradition",
+      "person"
+    ]
+  },
+  {
+    "symbol": "BOXING",
+    "meaning": "Striving: Preaching; deliverance; trial; tribulation. Contest; competition; fighting; strife.",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "striving",
+      "preaching",
+      "deliverance",
+      "trial",
+      "competition",
+      "strife"
+    ]
+  },
+  {
+    "symbol": "BRAKES",
+    "meaning": "Stop: Hindrance; resist; wait. Brakes failing = Not able to discontinue a bad habit or change a tradition; no resistance to temptation.",
+    "category": "Objects / Action",
+    "keywords": [
+      "stop",
+      "hindrance",
+      "resist",
+      "wait",
+      "bad habit",
+      "tradition",
+      "temptation"
+    ]
+  },
+  {
+    "symbol": "BRASS",
+    "meaning": "Word: Word of God; judgment; hypocrisy; self-justification; fake; man's tradition; word of man.",
+    "category": "Objects / Word",
+    "keywords": [
+      "word",
+      "Word of God",
+      "judgment",
+      "hypocrisy",
+      "man's tradition"
+    ]
+  },
+  {
+    "symbol": "BREAD",
+    "meaning": "Life or Word: Doctrine; covenant; substance; provision.",
+    "category": "Food / Word",
+    "keywords": [
+      "life",
+      "word",
+      "doctrine",
+      "covenant",
+      "provision"
+    ]
+  },
+  {
+    "symbol": "BRIDE",
+    "meaning": "Church: Covenant; natural marriage when naturally interpreted.",
+    "category": "People / Covenant",
+    "keywords": [
+      "church",
+      "covenant",
+      "marriage"
+    ]
+  },
+  {
+    "symbol": "BRIDGE",
+    "meaning": "Support or Way: Faith; trial; joined; connections; intercession; standing in the gap. Unifying (as in \"building bridges\").",
+    "category": "Objects / Connection",
+    "keywords": [
+      "support",
+      "way",
+      "faith",
+      "trial",
+      "joined",
+      "connections",
+      "intercession",
+      "unifying"
+    ]
+  },
+  {
+    "symbol": "BRIERS",
+    "meaning": "Snare: Obstacle; hindrance; trial; wicked person; rejected; cursed. Uncomfortable place.",
+    "category": "Plants / Negative",
+    "keywords": [
+      "snare",
+      "obstacle",
+      "hindrance",
+      "trial",
+      "wicked person",
+      "cursed"
+    ]
+  },
+  {
+    "symbol": "BROOM",
+    "meaning": "Cleaning or Witchcraft: Clean house.",
+    "category": "Objects / Action",
+    "keywords": [
+      "cleaning",
+      "witchcraft",
+      "clean house"
+    ]
+  },
+  {
+    "symbol": "BROTHER",
+    "meaning": "Self: Natural or spiritual brother; someone he reminds you of. Close friend; fellow member of church.",
+    "category": "People / Relationship",
+    "keywords": [
+      "self",
+      "brother",
+      "friend",
+      "church member"
+    ]
+  },
+  {
+    "symbol": "BROTHER-IN-LAW",
+    "meaning": "Fellow Minister: Someone he reminds you of; problem relationship; partner; oneself; he may represent himself.",
+    "category": "People / Relationship",
+    "keywords": [
+      "fellow minister",
+      "problem relationship",
+      "partner",
+      "oneself"
+    ]
+  },
+  {
+    "symbol": "BROWN",
+    "meaning": "Dead (as dead grass is brown): Repented; born again; without spirit.",
+    "category": "Colors / State",
+    "keywords": [
+      "dead",
+      "repented",
+      "born again",
+      "without spirit"
+    ]
+  },
+  {
+    "symbol": "BUBBLE GUM",
+    "meaning": "Childish: Foolishness; silliness; immaturity; sticky; rebellion.",
+    "category": "Objects / State",
+    "keywords": [
+      "childish",
+      "foolishness",
+      "immaturity",
+      "rebellion"
+    ]
+  },
+  {
+    "symbol": "BULL",
+    "meaning": "Persecution: Spiritual warfare; opposition; accusation; slander; threat; economic increase.",
+    "category": "Animals / Warfare",
+    "keywords": [
+      "persecution",
+      "spiritual warfare",
+      "opposition",
+      "accusation",
+      "economic increase"
+    ]
+  },
+  {
+    "symbol": "BULLETS",
+    "meaning": "Words: Accusations; warfare; attack.",
+    "category": "Objects / Warfare",
+    "keywords": [
+      "words",
+      "accusations",
+      "warfare",
+      "attack"
+    ]
+  },
+  {
+    "symbol": "BUS",
+    "meaning": "Church: School bus = Teaching or youth/children's ministry. Passenger or tour bus = Trip; journey. Team ministry; Christians; sight-seers.",
+    "category": "Travel / Ministry",
+    "keywords": [
+      "church",
+      "teaching",
+      "children's ministry",
+      "team ministry",
+      "trip",
+      "journey"
+    ]
+  },
+  {
+    "symbol": "BUS STATION",
+    "meaning": "Church: Ministry location.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "church",
+      "ministry location"
+    ]
+  },
+  {
+    "symbol": "BUTTER",
+    "meaning": "Works: Doing the Word or will of God. Deceptive motives; words; smooth talker; deceiver.",
+    "category": "Food / Words",
+    "keywords": [
+      "works",
+      "Word of God",
+      "will of God",
+      "deceptive motives",
+      "deceiver"
+    ]
+  },
+  {
+    "symbol": "BUTTERFLY",
+    "meaning": "Freedom: Flight (flitting about); fragile; temporary glory; move. Cocoon = Metamorphosis; transformation; change. New beginnings; something not yet revealed.",
+    "category": "Animals / State",
+    "keywords": [
+      "freedom",
+      "fragile",
+      "temporary glory",
+      "transformation",
+      "new beginnings"
+    ]
+  },
+  {
+    "symbol": "BUZZARD",
+    "meaning": "Vulture: Scavenger, something dying.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "vulture",
+      "scavenger",
+      "dying"
+    ]
+  },
+  {
+    "symbol": "CAFETERIA",
+    "meaning": "Service: Church; people or work; teaching; ministry of helps.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "service",
+      "church",
+      "teaching",
+      "ministry of helps"
+    ]
+  },
+  {
+    "symbol": "CALENDAR",
+    "meaning": "Time: Date; event; appointment. Refer to Numbers for symbolic interpretation.",
+    "category": "Objects / Time",
+    "keywords": [
+      "time",
+      "date",
+      "event",
+      "appointment",
+      "numbers"
+    ]
+  },
+  {
+    "symbol": "CALF",
+    "meaning": "Increase: Prosperity; idolatry, false worship; stubbornness; children of the Kingdom.",
+    "category": "Animals / State",
+    "keywords": [
+      "increase",
+      "prosperity",
+      "idolatry",
+      "false worship",
+      "stubbornness"
+    ]
+  },
+  {
+    "symbol": "CAMEL",
+    "meaning": "Endurance: Long journey; contention.",
+    "category": "Animals / Travel",
+    "keywords": [
+      "endurance",
+      "long journey",
+      "contention"
+    ]
+  },
+  {
+    "symbol": "CAPITAL",
+    "meaning": "Important: First in order; emphasis; government.",
+    "category": "Places / Authority",
+    "keywords": [
+      "important",
+      "government",
+      "authority"
+    ]
+  },
+  {
+    "symbol": "CAR",
+    "meaning": "Ministry: Life. New car = New life or ministry. Antique car = Valuable or old-fashioned. Race car = Fast/powerful ministry.",
+    "category": "Travel / Calling",
+    "keywords": [
+      "ministry",
+      "life",
+      "new car",
+      "valuable",
+      "powerful ministry"
+    ]
+  },
+  {
+    "symbol": "CARDS",
+    "meaning": "Facts: Honesty (as in “putting all your cards on the table”); truth; expose or reveal; dishonesty; underhanded dealing; cheating; wisdom (as in “knowing when to hold and when to\nfold”).",
+    "category": "Objects / State",
+    "keywords": [
+      "facts",
+      "honesty",
+      "truth",
+      "expose",
+      "dishonesty",
+      "cheating",
+      "wisdom"
+    ]
+  },
+  {
+    "symbol": "CARNIVAL",
+    "meaning": "Worldly: Festivity; party spirit; exhibitionism; divination; competition.",
+    "category": "Places / Negative",
+    "keywords": [
+      "worldly",
+      "festivity",
+      "party spirit",
+      "divination",
+      "competition"
+    ]
+  },
+  {
+    "symbol": "CARPENTER",
+    "meaning": "Builder: Preacher; evangelist; labourer; Christ.",
+    "category": "People / Role",
+    "keywords": [
+      "builder",
+      "preacher",
+      "evangelist",
+      "labourer",
+      "Christ"
+    ]
+  },
+  {
+    "symbol": "CAT",
+    "meaning": "Self-willed: Witchcraft. Not trainable (unteachable spirit); predator; unclean spirit. Sneaky, crafty; deception. Personal pet = Something precious.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "self-willed",
+      "witchcraft",
+      "unteachable",
+      "predator",
+      "unclean spirit",
+      "deception"
+    ]
+  },
+  {
+    "symbol": "CHAIR",
+    "meaning": "Rest or Position: Place; quietness; position of authority. Type of chair would define rank or position of authority.",
+    "category": "Objects / State",
+    "keywords": [
+      "rest",
+      "position",
+      "quietness",
+      "authority",
+      "rank"
+    ]
+  },
+  {
+    "symbol": "CHECK/CHEQUE",
+    "meaning": "Faith: Provision; trust. Bad check = Fraud; deception; hypocrisy; lack of faith or prayer. When the amount is known, refer to numbers for symbolic meaning.",
+    "category": "Objects / State",
+    "keywords": [
+      "faith",
+      "provision",
+      "trust",
+      "fraud",
+      "deception",
+      "hypocrisy",
+      "lack of faith"
+    ]
+  },
+  {
+    "symbol": "CHEESE",
+    "meaning": "Works: Doing (or not doing) the Word or will of God.",
+    "category": "Food / Works",
+    "keywords": [
+      "works",
+      "Word of God",
+      "will of God"
+    ]
+  },
+  {
+    "symbol": "CHEWING",
+    "meaning": "Meditate: Receiving wisdom and understanding. Chewing bubble gum = Childishness; foolishness. Chewing tough meat = Hard saying or difficult work.",
+    "category": "Actions / Mind",
+    "keywords": [
+      "meditate",
+      "wisdom",
+      "understanding",
+      "childishness",
+      "difficult work"
+    ]
+  },
+  {
+    "symbol": "CHICKEN",
+    "meaning": "Fear: Unclean; cowardliness. Chick = Defenseless; innocent. Baby or babe in the Lord.",
+    "category": "Animals / State",
+    "keywords": [
+      "fear",
+      "unclean",
+      "cowardliness",
+      "defenseless",
+      "innocent",
+      "babe in the Lord"
+    ]
+  },
+  {
+    "symbol": "CHOCOLATE/CANDY",
+    "meaning": "Treats: Blessings; feel good but without strength; teaching or discipline (candy-coated) that has no nutritional value or substance, but only makes the one who\npartakes feel good temporarily.",
+    "category": "Food / State",
+    "keywords": [
+      "treats",
+      "blessings",
+      "no strength",
+      "candy-coated",
+      "no substance"
+    ]
+  },
+  {
+    "symbol": "CHOKING",
+    "meaning": "Hindrance: Stumbling over something (as in \"hard to swallow\"); hatred or anger (as in \"I could choke him!\"); unfruitful (as in \"the thorns sprang up and choked them\")",
+    "category": "Actions / Negative",
+    "keywords": [
+      "hindrance",
+      "hard to swallow",
+      "hatred",
+      "anger",
+      "unfruitful"
+    ]
+  },
+  {
+    "symbol": "CHRISTMAS",
+    "meaning": "Gift: Season of rejoicing; spiritual gifts; a surprise; good will; benevolence; commercialism. Spiritual birthing. Visitation of God.",
+    "category": "Time / Event",
+    "keywords": [
+      "gift",
+      "rejoicing",
+      "spiritual gifts",
+      "surprise",
+      "good will",
+      "spiritual birthing"
+    ]
+  },
+  {
+    "symbol": "CHURCH BUILDING",
+    "meaning": "Church: Congregation; may represent one's own church or ministry.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "church",
+      "congregation",
+      "ministry"
+    ]
+  },
+  {
+    "symbol": "CIGARETTES (SMOKING)",
+    "meaning": "Pride: Dangerous; hazardous to your health, rebellion.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "pride",
+      "dangerous",
+      "hazardous",
+      "rebellion"
+    ]
+  },
+  {
+    "symbol": "CITY",
+    "meaning": "A Church: Natural place; a call. Reference to what a city may be known for or by. Example: Philadelphia = City of Brotherly Love. Pensacola = Revivals; seaside resort.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "church",
+      "natural place",
+      "call",
+      "city reputation"
+    ]
+  },
+  {
+    "symbol": "CLOCK",
+    "meaning": "Time: Late; early; delay. Grandfather clock = Past (see significant and specific numbers for symbolism).",
+    "category": "Objects / Time",
+    "keywords": [
+      "time",
+      "late",
+      "early",
+      "delay",
+      "past"
+    ]
+  },
+  {
+    "symbol": "CLOSET",
+    "meaning": "Private: Personal; prayer; secret sin (as in \"skeletons in the closet\"); something hidden.",
+    "category": "Places / State",
+    "keywords": [
+      "private",
+      "personal",
+      "prayer",
+      "secret sin",
+      "hidden"
+    ]
+  },
+  {
+    "symbol": "CLOTHING",
+    "meaning": "Covering: Righteousness; spirit. Dirty clothes = Unrighteousness; self-righteousness; uncleanness.",
+    "category": "Clothing / State",
+    "keywords": [
+      "covering",
+      "righteousness",
+      "spirit",
+      "unrighteousness",
+      "uncleanness"
+    ]
+  },
+  {
+    "symbol": "CLOUDS",
+    "meaning": "Change or Covering: Trouble; distress; threatening; thoughts (of trouble); confusion; hidden; covered. White Clouds = Good change; glory; revival; refreshing on the way.",
+    "category": "Weather / State",
+    "keywords": [
+      "change",
+      "covering",
+      "trouble",
+      "confusion",
+      "hidden",
+      "glory",
+      "revival"
+    ]
+  },
+  {
+    "symbol": "CLOWN",
+    "meaning": "Fool: Foolish works of the flesh; the \"old man\"; childish; mischief. Crying clown = laughing on the outside, crying on the inside.",
+    "category": "People / Negative",
+    "keywords": [
+      "fool",
+      "foolish works",
+      "old man",
+      "childish",
+      "mischief",
+      "crying clown"
+    ]
+  },
+  {
+    "symbol": "COAT",
+    "meaning": "Covering: Anointing; authority; protection.",
+    "category": "Clothing / Authority",
+    "keywords": [
+      "covering",
+      "anointing",
+      "authority",
+      "protection"
+    ]
+  },
+  {
+    "symbol": "COFFEE",
+    "meaning": "Bitter or Stimulant: Desire for revenge; bitter memories.",
+    "category": "Food / State",
+    "keywords": [
+      "bitter",
+      "stimulant",
+      "revenge",
+      "bitter memories"
+    ]
+  },
+  {
+    "symbol": "COMPASS",
+    "meaning": "Directions: Help to find your way; finding your path; Holy Spirit your guide; getting your bearings.",
+    "category": "Objects / Guidance",
+    "keywords": [
+      "directions",
+      "find your way",
+      "path",
+      "Holy Spirit guide"
+    ]
+  },
+  {
+    "symbol": "CORD",
+    "meaning": "To Connect: Bound up cord of three strands = Strong bond.",
+    "category": "Objects / Connection",
+    "keywords": [
+      "connect",
+      "bound up",
+      "strong bond"
+    ]
+  },
+  {
+    "symbol": "CORNUCOPIA (HORN OF PLENTY)",
+    "meaning": "Abundance: Abundance without measure or limitation; goodness without end; blessed.",
+    "category": "Objects / Resource",
+    "keywords": [
+      "abundance",
+      "without limitation",
+      "goodness",
+      "blessed"
+    ]
+  },
+  {
+    "symbol": "COUCH",
+    "meaning": "Rest: At ease; unconcerned; lazy.",
+    "category": "Objects / State",
+    "keywords": [
+      "rest",
+      "at ease",
+      "unconcerned",
+      "lazy"
+    ]
+  },
+  {
+    "symbol": "COUNTRY",
+    "meaning": "Isolated: Quiet; peaceful; restful. Nation: Reference to what that country may be known for or by. Example: U.S.A. = Freedom.",
+    "category": "Places / State",
+    "keywords": [
+      "isolated",
+      "peaceful",
+      "nation",
+      "country reputation",
+      "freedom"
+    ]
+  },
+  {
+    "symbol": "COURTHOUSE",
+    "meaning": "Judgment: Trial; persecution; justice; legal matter.",
+    "category": "Places / Events",
+    "keywords": [
+      "judgment",
+      "trial",
+      "persecution",
+      "justice",
+      "legal matter"
+    ]
+  },
+  {
+    "symbol": "COW",
+    "meaning": "Prosperity (Cash Cow): Wealth. Heifer = Prize or rebellious woman.",
+    "category": "Animals / Resource",
+    "keywords": [
+      "prosperity",
+      "cash cow",
+      "wealth",
+      "rebellious woman"
+    ]
+  },
+  {
+    "symbol": "CRIMSON",
+    "meaning": "Blood Atonement: Sacrifice of death.",
+    "category": "Colors / State",
+    "keywords": [
+      "blood atonement",
+      "sacrifice of death"
+    ]
+  },
+  {
+    "symbol": "CROCODILE",
+    "meaning": "Ancient: Evil out of the past; Leviathan; danger; destruction; evil spirit.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "ancient",
+      "evil",
+      "past",
+      "leviathan",
+      "danger",
+      "destruction",
+      "evil spirit"
+    ]
+  },
+  {
+    "symbol": "CROSSROADS",
+    "meaning": "Decision: Confusion; choice; job change; career change; geographic move.",
+    "category": "Places / Action",
+    "keywords": [
+      "decision",
+      "confusion",
+      "choice",
+      "change"
+    ]
+  },
+  {
+    "symbol": "CROOKED",
+    "meaning": "Twisted: Spiritually distorted; out of alignment; unrighteous; unbiblical; doctrinal error.",
+    "category": "State / Negative",
+    "keywords": [
+      "twisted",
+      "spiritually distorted",
+      "unrighteous",
+      "doctrinal error"
+    ]
+  },
+  {
+    "symbol": "CROW/RAVEN",
+    "meaning": "Confusion: Outspoken person, usually operating under the influence of a spirit of envy or strife; God's minister of justice or provision.",
+    "category": "Animals / Spirit",
+    "keywords": [
+      "confusion",
+      "outspoken",
+      "envy",
+      "strife",
+      "minister of justice",
+      "provision"
+    ]
+  },
+  {
+    "symbol": "CROWN",
+    "meaning": "Authority or Reward: Rule; honour; glory; power; promotion.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "authority",
+      "reward",
+      "rule",
+      "honour",
+      "glory",
+      "power",
+      "promotion"
+    ]
+  },
+  {
+    "symbol": "CRYING",
+    "meaning": "Sadness: Compassion; grief; repentance; sorrow.",
+    "category": "Actions / Emotion",
+    "keywords": [
+      "sadness",
+      "compassion",
+      "grief",
+      "repentance",
+      "sorrow"
+    ]
+  },
+  {
+    "symbol": "CRYING OUT",
+    "meaning": "Calling for Help: Praying earnestly.",
+    "category": "Actions / Emotion",
+    "keywords": [
+      "calling for help",
+      "praying earnestly"
+    ]
+  },
+  {
+    "symbol": "CRYSTAL BALL",
+    "meaning": "Vision: Future; prediction; divination; fortune telling; witchcraft; sorcery.",
+    "category": "Objects / Vision",
+    "keywords": [
+      "vision",
+      "future",
+      "prediction",
+      "divination",
+      "witchcraft"
+    ]
+  },
+  {
+    "symbol": "CURTAIN",
+    "meaning": "Hidden: Divided; separated; hindrance to revelation.",
+    "category": "Objects / State",
+    "keywords": [
+      "hidden",
+      "divided",
+      "separated",
+      "hindrance to revelation"
+    ]
+  },
+  {
+    "symbol": "DAM",
+    "meaning": "Reserve: Source of (or potential for) great power; block; restriction; hindrance; a way over an obstacle.",
+    "category": "Objects / State",
+    "keywords": [
+      "reserve",
+      "power",
+      "block",
+      "restriction",
+      "hindrance",
+      "obstacle"
+    ]
+  },
+  {
+    "symbol": "DANCING",
+    "meaning": "Worship: Idolatry; prophesying; joy; romance; seduction; lewdness.",
+    "category": "Actions / Emotion",
+    "keywords": [
+      "worship",
+      "idolatry",
+      "prophesying",
+      "joy",
+      "seduction",
+      "lewdness"
+    ]
+  },
+  {
+    "symbol": "DAUGHTER",
+    "meaning": "Child: Natural or spiritual; wife (see ONE'S CHILDREN)",
+    "category": "People / Relationship",
+    "keywords": [
+      "child",
+      "natural daughter",
+      "spiritual daughter",
+      "wife"
+    ]
+  },
+  {
+    "symbol": "DAY",
+    "meaning": "Light: Knowledge; truth; manifest; good; evil revealed.",
+    "category": "Time / State",
+    "keywords": [
+      "light",
+      "knowledge",
+      "truth",
+      "manifest",
+      "evil revealed"
+    ]
+  },
+  {
+    "symbol": "DEAD-END ROAD OR STREET",
+    "meaning": "Change directions: Stop; repent; certain failure; no advancement possible (as in \"a dead-end job\")",
+    "category": "Places / Action",
+    "keywords": [
+      "change directions",
+      "stop",
+      "repent",
+      "failure",
+      "no advancement"
+    ]
+  },
+  {
+    "symbol": "DEATH",
+    "meaning": "Termination: Repentance; loss; sorrow; failure; separation; the end of a relationship; physical death, when naturally interpreted",
+    "category": "State / Event",
+    "keywords": [
+      "termination",
+      "repentance",
+      "loss",
+      "sorrow",
+      "failure",
+      "separation",
+      "physical death"
+    ]
+  },
+  {
+    "symbol": "DEED",
+    "meaning": "Ownership: Authority; power; rights.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "ownership",
+      "authority",
+      "power",
+      "rights"
+    ]
+  },
+  {
+    "symbol": "DEER",
+    "meaning": "Graceful: Swift; sure-footed; agile; timid. Buck = Regal; rule. Antlers = Power, authority.",
+    "category": "Animals / Traits",
+    "keywords": [
+      "graceful",
+      "swift",
+      "timid",
+      "regal",
+      "power",
+      "authority"
+    ]
+  },
+  {
+    "symbol": "DEN",
+    "meaning": "Comfortable Place: Family place; safe place. Evil place (den of iniquity) where sin occurs.",
+    "category": "Places / State",
+    "keywords": [
+      "comfortable place",
+      "safe place",
+      "den of iniquity",
+      "sin"
+    ]
+  },
+  {
+    "symbol": "DESERT",
+    "meaning": "Barren: Unproductive; dry; spiritual wasteland; without hope.",
+    "category": "Places / State",
+    "keywords": [
+      "barren",
+      "unproductive",
+      "dry",
+      "spiritual wasteland",
+      "without hope"
+    ]
+  },
+  {
+    "symbol": "DESSERT",
+    "meaning": "Finishing Touch: Special treat (\"icing on the cake\"); topping things off.",
+    "category": "Food / Event",
+    "keywords": [
+      "finishing touch",
+      "special treat",
+      "topping things off"
+    ]
+  },
+  {
+    "symbol": "DETOUR",
+    "meaning": "Change in Direction: Alter your course; temporary change; new course of action.",
+    "category": "Actions / Travel",
+    "keywords": [
+      "change in direction",
+      "alter your course",
+      "new course of action"
+    ]
+  },
+  {
+    "symbol": "DIAMOND",
+    "meaning": "Hard: Unchangeable; hard-hearted; eternal (as in \"a diamond is forever\"). Gift of the Spirit; something valuable or precious.",
+    "category": "Objects / State",
+    "keywords": [
+      "hard",
+      "unchangeable",
+      "eternal",
+      "Gift of the Spirit",
+      "valuable",
+      "precious"
+    ]
+  },
+  {
+    "symbol": "DISH",
+    "meaning": "See POT/PAN/BOWN",
+    "category": "Objects / Vessel",
+    "keywords": [
+      "vessel",
+      "doctrine",
+      "tradition",
+      "truth",
+      "person"
+    ]
+  },
+  {
+    "symbol": "DITCH",
+    "meaning": "Habit or Snare: Religious tradition; addiction; lust; passion; sin; rut.",
+    "category": "Places / Negative",
+    "keywords": [
+      "habit",
+      "snare",
+      "religious tradition",
+      "addiction",
+      "sin",
+      "rut"
+    ]
+  },
+  {
+    "symbol": "DIVORCE",
+    "meaning": "Broken Covenant: Sin; alone; defeat; separate; division; split.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "broken covenant",
+      "sin",
+      "defeat",
+      "separate",
+      "division",
+      "split"
+    ]
+  },
+  {
+    "symbol": "DOCTOR",
+    "meaning": "Healer: Authority; Christ; preacher; medical doctor.",
+    "category": "People / Role",
+    "keywords": [
+      "healer",
+      "authority",
+      "Christ",
+      "preacher",
+      "medical doctor"
+    ]
+  },
+  {
+    "symbol": "DOG",
+    "meaning": "Strife: Contention; offense; unclean spirit. Personal pet = Something precious, or a friend. Dog wagging tail = Friendly; acceptance. Tucked tail = Guilt; shame; cowardly. Biting Pet = Rewarding evil for good (as in “biting the hand that feeds you”); betrayal; unthankful. Barking dog = Warning; incessant nuisance; annoyance. Dog trailing game = Persistent; obsession. Rabid dog = Single-minded pursuit of evil; contagious evil; persecution; great danger. BULLDOG – Unyielding: Stubborn, obstinate; tenacious; dangerous. WATCHDOG – Watchman: Elder; minister (good or bad); alert; beware.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "strife",
+      "contention",
+      "offense",
+      "unclean spirit",
+      "friend",
+      "friendly"
+    ]
+  },
+  {
+    "symbol": "DOMINOES",
+    "meaning": "Continuous: Chain reaction.",
+    "category": "Objects / Event",
+    "keywords": [
+      "continuous",
+      "chain reaction"
+    ]
+  },
+  {
+    "symbol": "DONKEY",
+    "meaning": "Obnoxious: Self-willed; stubborn; unyielding; tenacious.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "obnoxious",
+      "self-willed",
+      "stubborn",
+      "unyielding"
+    ]
+  },
+  {
+    "symbol": "DOOR",
+    "meaning": "Entrance: Christ; enter; authority; go; way; avenue; mouth. Open = Opportunity. Closed = Stop; seal; safe.",
+    "category": "Objects / Opportunity",
+    "keywords": [
+      "entrance",
+      "Christ",
+      "authority",
+      "way",
+      "opportunity",
+      "closed",
+      "safe"
+    ]
+  },
+  {
+    "symbol": "DOVE",
+    "meaning": "Holy Spirit: Gentle; peace.",
+    "category": "Animals / Spirit",
+    "keywords": [
+      "Holy Spirit",
+      "gentle",
+      "peace"
+    ]
+  },
+  {
+    "symbol": "DOWN",
+    "meaning": "Demotion (Spiritual or Natural): Backslide; falling away; humility; indication of mood; depression.",
+    "category": "Direction / State",
+    "keywords": [
+      "demotion",
+      "backslide",
+      "humility",
+      "depression"
+    ]
+  },
+  {
+    "symbol": "DRESS",
+    "meaning": "Covering: Protection. Discern the type of dress for further clarification.",
+    "category": "Clothing / Protection",
+    "keywords": [
+      "covering",
+      "protection",
+      "dress type"
+    ]
+  },
+  {
+    "symbol": "DRIVER",
+    "meaning": "Control: Self; Christ; pastor; teacher; Satan; the emphasis may be on the nature of the driver (careless, careful, frantic, confident, selfish, rude, kind, etc.). Passenger = Self; church member; family member. When a school bus driver represents a teacher, his passengers usually represent his students.",
+    "category": "People / Role",
+    "keywords": [
+      "control",
+      "self",
+      "Christ",
+      "pastor",
+      "teacher",
+      "Satan",
+      "driver nature"
+    ]
+  },
+  {
+    "symbol": "DROUGHT",
+    "meaning": "Blessing Drying Up: Blessing withheld; wilderness experience; without God's presence.",
+    "category": "Weather / State",
+    "keywords": [
+      "blessing drying up",
+      "blessing withheld",
+      "wilderness",
+      "without God's presence"
+    ]
+  },
+  {
+    "symbol": "DROWNING",
+    "meaning": "Overcome: Self-pity; depression; temptation; backslidden; excessive debt. (see FLOOD)",
+    "category": "Actions / Negative",
+    "keywords": [
+      "overcome",
+      "self-pity",
+      "depression",
+      "temptation",
+      "backslidden",
+      "excessive debt"
+    ]
+  },
+  {
+    "symbol": "DRUGS",
+    "meaning": "Influence: Spell; sorcery; witchcraft; control; medicine; healing.",
+    "category": "Objects / State",
+    "keywords": [
+      "influence",
+      "spell",
+      "sorcery",
+      "witchcraft",
+      "control",
+      "medicine",
+      "healing"
+    ]
+  },
+  {
+    "symbol": "DRUNK",
+    "meaning": "Influenced: Under a spell; controlled; addicted; fool; unchangeable; stubborn; rebellious; selfish; self-indulgent; out of control.",
+    "category": "State / Negative",
+    "keywords": [
+      "influenced",
+      "under a spell",
+      "controlled",
+      "addicted",
+      "stubborn",
+      "rebellious",
+      "out of control"
+    ]
+  },
+  {
+    "symbol": "DYNAMITE",
+    "meaning": "Power: Miracle; potential; danger; destruction.",
+    "category": "Objects / Power",
+    "keywords": [
+      "power",
+      "miracle",
+      "potential",
+      "danger",
+      "destruction"
+    ]
+  },
+  {
+    "symbol": "EAGLE",
+    "meaning": "Leader: Prophet; powerful; great vision; minister; fierce predator; sorcerer. America. Free; independent.",
+    "category": "Animals / Role",
+    "keywords": [
+      "leader",
+      "prophet",
+      "powerful",
+      "great vision",
+      "minister",
+      "predator",
+      "America",
+      "free"
+    ]
+  },
+  {
+    "symbol": "EARTHQUAKE",
+    "meaning": "Upheaval: Change, thus repentance; trial; God's judgment; disaster; trauma; shock; shaking.",
+    "category": "Events / Change",
+    "keywords": [
+      "upheaval",
+      "change",
+      "repentance",
+      "God's judgment",
+      "disaster",
+      "shaking"
+    ]
+  },
+  {
+    "symbol": "EAST",
+    "meaning": "Beginning: Law of Moses (therefore blessed or cursed); birth; first; anticipate; sun rising; beginning.",
+    "category": "Direction / Time",
+    "keywords": [
+      "beginning",
+      "Law of Moses",
+      "birth",
+      "anticipate",
+      "sun rising"
+    ]
+  },
+  {
+    "symbol": "EATING",
+    "meaning": "Partake: Participate; experience; outworking; covenant; agreement; friendship; fellowship; devour; consume.",
+    "category": "Actions / Relationship",
+    "keywords": [
+      "partake",
+      "participate",
+      "experience",
+      "covenant",
+      "agreement",
+      "fellowship",
+      "consume"
+    ]
+  },
+  {
+    "symbol": "ECHO",
+    "meaning": "Repetition: Gossip; accusation; voice of many; mocking; mimic.",
+    "category": "Objects / Words",
+    "keywords": [
+      "repetition",
+      "gossip",
+      "accusation",
+      "mocking",
+      "mimic"
+    ]
+  },
+  {
+    "symbol": "EGG",
+    "meaning": "Promise: Promising new thought; plan; potential; revelation; fragile. Rotten egg = Bad person (as in “he’s a bad egg”); a person who breaks promises; bad company; bad idea; uncertainty (as in “don’t count your eggs [chickens] before they hatch”); without promise.",
+    "category": "Food / State",
+    "keywords": [
+      "promise",
+      "new thought",
+      "potential",
+      "revelation",
+      "fragile",
+      "bad person",
+      "bad idea"
+    ]
+  },
+  {
+    "symbol": "ELECTRICITY",
+    "meaning": "Power: Holy Spirit or sorcery. Power Lines = Spiritual power; dangerous obstacle when flying.",
+    "category": "Objects / Power",
+    "keywords": [
+      "power",
+      "Holy Spirit",
+      "sorcery",
+      "spiritual power",
+      "obstacle"
+    ]
+  },
+  {
+    "symbol": "ELEPHANT",
+    "meaning": "Invincible or Thick-skinned: Not easily offended; powerful, large; good memory. Elephant ears = Extra sensitive hearing. Baby elephant = Potential for greatness (the beginning of something large). White elephant = Unusable item; unsalable; unwanted.",
+    "category": "Animals / Traits",
+    "keywords": [
+      "invincible",
+      "thick-skinned",
+      "powerful",
+      "good memory",
+      "unusable",
+      "unwanted"
+    ]
+  },
+  {
+    "symbol": "ELEVATOR",
+    "meaning": "Changing Position: Going into the spiritual realm; elevated. Going up = Promotion. Going down = Demotion or trial; backsliding.",
+    "category": "Objects / State",
+    "keywords": [
+      "changing position",
+      "spiritual realm",
+      "promotion",
+      "demotion",
+      "trial",
+      "backsliding"
+    ]
+  },
+  {
+    "symbol": "EMPLOYEE",
+    "meaning": "Servant: Fellow employee = Self; another employee, or the actual employee.",
+    "category": "People / Role",
+    "keywords": [
+      "servant",
+      "self",
+      "employee"
+    ]
+  },
+  {
+    "symbol": "EMPLOYER",
+    "meaning": "Authority: Pastor; Christ; Satan; someone he or she resembles, in position, action, or character; actual employer when naturally interpreted.",
+    "category": "People / Role",
+    "keywords": [
+      "authority",
+      "pastor",
+      "Christ",
+      "Satan",
+      "employer"
+    ]
+  },
+  {
+    "symbol": "EXPLOSION",
+    "meaning": "Sudden: Sudden expansion or increase; swift change; destruction.",
+    "category": "Events / Change",
+    "keywords": [
+      "sudden",
+      "expansion",
+      "increase",
+      "swift change",
+      "destruction"
+    ]
+  },
+  {
+    "symbol": "EYEGLASSES",
+    "meaning": "Magnify: Clarity; vision; enhance. If broken or lost = Lack of vision. Sunglasses = Protect the vision; shielded; screen. If negative = Dark; haughty; pride. Rose colour = Looking for the best. If negative = Avoiding reality.",
+    "category": "Objects / Vision",
+    "keywords": [
+      "magnify",
+      "clarity",
+      "vision",
+      "lack of vision",
+      "protection",
+      "shielded"
+    ]
+  },
+  {
+    "symbol": "EYES",
+    "meaning": "Desire (Good or Evil): Covetousness; passion; lust; revelation; understanding; the windows of the soul. Winking = Deceitfulness or cunning; hiding true desire.",
+    "category": "Body / State",
+    "keywords": [
+      "desire",
+      "covetousness",
+      "lust",
+      "revelation",
+      "understanding",
+      "deceitfulness"
+    ]
+  },
+  {
+    "symbol": "FACE",
+    "meaning": "Heart: Sad; glad; mad; bad; etc.; the same as another person (when one looks into the mirror of another person’s heart, he sees his own heart’s reflection); before or against another person (as in “get out of my face!”); the actual person’s face. False face = Hiding truth; trying to be someone else; hypocrite.",
+    "category": "Body / State",
+    "keywords": [
+      "heart",
+      "emotion",
+      "reflection",
+      "hiding truth",
+      "hypocrite"
+    ]
+  },
+  {
+    "symbol": "FACTORY",
+    "meaning": "Production: Getting things done; the Kingdom of God; the Church; the “world”; the motions of sin. Idle factory = Not busy; not reaching full potential; natural workplace (when applicable).",
+    "category": "Places / Ministry",
+    "keywords": [
+      "production",
+      "Kingdom of God",
+      "Church",
+      "world",
+      "sin",
+      "not busy",
+      "potential"
+    ]
+  },
+  {
+    "symbol": "FAIR",
+    "meaning": "Festival: Feast; celebrate; socialize. Honest or dishonest judgment. Worldly; flesh.",
+    "category": "Events / State",
+    "keywords": [
+      "festival",
+      "celebrate",
+      "socialize",
+      "judgment",
+      "worldly",
+      "flesh"
+    ]
+  },
+  {
+    "symbol": "FALCON",
+    "meaning": "Hunter: Minister; leader; predator.",
+    "category": "Animals / Role",
+    "keywords": [
+      "hunter",
+      "minister",
+      "leader",
+      "predator"
+    ]
+  },
+  {
+    "symbol": "FALL",
+    "meaning": "Ministry: A personal setback. Accident; repentance; end.",
+    "category": "Events / State",
+    "keywords": [
+      "ministry",
+      "setback",
+      "accident",
+      "repentance",
+      "end"
+    ]
+  },
+  {
+    "symbol": "FALLING",
+    "meaning": "Unsupported: Loss of support; trial; succumb; backsliding.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "unsupported",
+      "loss of support",
+      "trial",
+      "backsliding"
+    ]
+  },
+  {
+    "symbol": "FAMILY",
+    "meaning": "Relatives: Spiritual family or natural family.",
+    "category": "People / Relationship",
+    "keywords": [
+      "relatives",
+      "spiritual family",
+      "natural family"
+    ]
+  },
+  {
+    "symbol": "FARM/FARMER",
+    "meaning": "Labourer: Preacher; pastor; Christ; minister. Farm = Field of labour: an area of ministry; the Kingdom of God; the Church. The sower = The Son of Man. (See BARN and GARDENER)",
+    "category": "Places / Ministry",
+    "keywords": [
+      "labourer",
+      "preacher",
+      "pastor",
+      "minister",
+      "field of labour",
+      "Kingdom of God",
+      "Church"
+    ]
+  },
+  {
+    "symbol": "FATHER",
+    "meaning": "Authority: God; author; originator; source; inheritance; tradition; custom; Satan; natural father; spiritual covering.",
+    "category": "People / Authority",
+    "keywords": [
+      "authority",
+      "God",
+      "author",
+      "source",
+      "inheritance",
+      "tradition",
+      "Satan",
+      "spiritual covering"
+    ]
+  },
+  {
+    "symbol": "FATHER-IN-LAW",
+    "meaning": "Law: An authoritative relationship based upon law (as in “Moses’ Law” or “church government”); legalism; problem (authoritative) relationship; he may represent himself; teacher (spiritual).",
+    "category": "People / Relationship",
+    "keywords": [
+      "law",
+      "authoritative relationship",
+      "legalism",
+      "problem relationship",
+      "teacher"
+    ]
+  },
+  {
+    "symbol": "FEATHERS",
+    "meaning": "Covering: Spirit; safe place; a place of comfort; victory; weightless. Wet feathers = Offense (as in “madder then a wet hen”). Feather in your cap = Symbolizing your victory; award; reward.",
+    "category": "Objects / State",
+    "keywords": [
+      "covering",
+      "spirit",
+      "safe place",
+      "comfort",
+      "victory",
+      "award",
+      "reward"
+    ]
+  },
+  {
+    "symbol": "FEET",
+    "meaning": "Heart: Walk; way; journey; call to ministry; offence; stubborn (when unmovable); rebellion (when kicking); sin. Lame feet = Sin/wound that affects the Christian life or ministry; unbelief or error; doubt. Diseased feet = Offense (toward God or man). Barefoot = Without preparation; without understanding; without protection; without salvation; novice (as in “tenderfoot”); easily offended (as in tender feet).",
+    "category": "Body / State",
+    "keywords": [
+      "heart",
+      "walk",
+      "way",
+      "ministry",
+      "sin",
+      "offence",
+      "rebellion",
+      "unbelief"
+    ]
+  },
+  {
+    "symbol": "FENCE",
+    "meaning": "Boundaries: Barrier; obstacles; religious traditions; doctrines; inhibitions. Protection; safety net.",
+    "category": "Objects / Limits",
+    "keywords": [
+      "boundaries",
+      "barrier",
+      "obstacles",
+      "traditions",
+      "protection",
+      "safety"
+    ]
+  },
+  {
+    "symbol": "FIELD",
+    "meaning": "World: God's work; harvest; opportunity; mixed multitude. Area; scope of authority; inheritance.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "world",
+      "God's work",
+      "harvest",
+      "opportunity",
+      "authority",
+      "inheritance"
+    ]
+  },
+  {
+    "symbol": "FINGER",
+    "meaning": "Work, Feeling, or Grip; Sensitivity; discernment; conviction. Work, as in HANDS. Pointing Finger = Accusation; direction (as in “he went that way”); instruction. Cutting off fingers = Limiting authority or power.",
+    "category": "Body / State",
+    "keywords": [
+      "work",
+      "feeling",
+      "grip",
+      "discernment",
+      "accusation",
+      "direction",
+      "authority",
+      "power"
+    ]
+  },
+  {
+    "symbol": "FIRE",
+    "meaning": "Passion: Power; purify; cleanse; purge; refine; revival; anger; strife; desire; lust; zeal; trial; gossip. Fireplace = Heart.",
+    "category": "Elements / State",
+    "keywords": [
+      "passion",
+      "power",
+      "purify",
+      "cleanse",
+      "revival",
+      "anger",
+      "lust",
+      "trial",
+      "heart"
+    ]
+  },
+  {
+    "symbol": "FISH",
+    "meaning": "Spirit or Soul: Person (good or bad); a person’s character or motive (as in “something sure smells fishy about him”).",
+    "category": "Animals / Spirit",
+    "keywords": [
+      "spirit",
+      "soul",
+      "person",
+      "character",
+      "motive"
+    ]
+  },
+  {
+    "symbol": "FISHING",
+    "meaning": "Hope: Witnessing; evangelizing; preaching. Expectation of harvest; patience.",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "hope",
+      "witnessing",
+      "evangelizing",
+      "preaching",
+      "harvest",
+      "patience"
+    ]
+  },
+  {
+    "symbol": "FLASHLIGHT",
+    "meaning": "Personal Revelation; understanding; guidance.",
+    "category": "Objects / Vision",
+    "keywords": [
+      "personal revelation",
+      "understanding",
+      "guidance"
+    ]
+  },
+  {
+    "symbol": "FLEA",
+    "meaning": "Insignificant: Nuisance, irritant; elusive; small hindrance. Ineffective; lacking power or strength.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "insignificant",
+      "nuisance",
+      "small hindrance",
+      "ineffective",
+      "lacking power"
+    ]
+  },
+  {
+    "symbol": "FLOOD",
+    "meaning": "Overwhelm: Temptation; sin; judgment; depression; overcome. Disaster; cleansing or purging of evil.",
+    "category": "Events / State",
+    "keywords": [
+      "overwhelm",
+      "temptation",
+      "sin",
+      "judgment",
+      "depression",
+      "disaster",
+      "cleansing"
+    ]
+  },
+  {
+    "symbol": "FLOWERS",
+    "meaning": "Glory: Gift; romance; springtime. Death; funeral; mourning. Bulb = Blossom; stages of growth.",
+    "category": "Plants / Events",
+    "keywords": [
+      "glory",
+      "gift",
+      "romance",
+      "springtime",
+      "death",
+      "mourning"
+    ]
+  },
+  {
+    "symbol": "FLY",
+    "meaning": "Unclean: Corruption; demon; curse; nuisance.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "unclean",
+      "corruption",
+      "demon",
+      "curse",
+      "nuisance"
+    ]
+  },
+  {
+    "symbol": "FLYING",
+    "meaning": "Soaring: Getting in the Spirit. Spiritual journey = Spiritual high; freedom.",
+    "category": "Actions / Spirit",
+    "keywords": [
+      "soaring",
+      "getting in the Spirit",
+      "spiritual journey",
+      "freedom"
+    ]
+  },
+  {
+    "symbol": "FOG",
+    "meaning": "Confusion or Temporary: Clouded issues or thoughts; obscurity; uncertainty. Protection; out of sight; covering.",
+    "category": "Weather / State",
+    "keywords": [
+      "confusion",
+      "temporary",
+      "uncertainty",
+      "obscurity",
+      "protection",
+      "covering"
+    ]
+  },
+  {
+    "symbol": "FOOD",
+    "meaning": "Work: Word of God; foundational truth; teaching.Spiritual food for babies in the Lord. Solid food = Work of God; teaching for the mature. Fat = Excess; abundance; fat in the Spirit; the anointing. Different foods will give further clarity: MEAT – For the Mature. MILK – For the Babe. VEGETABLES – Healthy. DESSERT – Treat or Finish.",
+    "category": "Food / Word",
+    "keywords": [
+      "work",
+      "Word of God",
+      "teaching",
+      "spiritual food",
+      "foundational truth",
+      "mature"
+    ]
+  },
+  {
+    "symbol": "FOOTBALL GAME",
+    "meaning": "Ministry, Life, Work: Worship; team ministry; competition. Note different aspects of the game (run, pass, score, penalty etc.) – may provide clearer direction.",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "ministry",
+      "life",
+      "work",
+      "worship",
+      "team ministry",
+      "competition"
+    ]
+  },
+  {
+    "symbol": "FOREIGN",
+    "meaning": "Alien: Not of God; of the flesh; demonic. Not of this world (therefore heavenly). Different culture; stranger. Foreigner = Unrelated; different; strange; unusual; doesn't fit.",
+    "category": "State / Spiritual",
+    "keywords": [
+      "alien",
+      "not of God",
+      "flesh",
+      "demonic",
+      "heavenly",
+      "strange",
+      "foreigner"
+    ]
+  },
+  {
+    "symbol": "FOREST",
+    "meaning": "Hiding Place: A group of people standing together; confusion. (see TREE)",
+    "category": "Places / State",
+    "keywords": [
+      "hiding place",
+      "group of people",
+      "confusion"
+    ]
+  },
+  {
+    "symbol": "FORK IN THE RIVER OR ROAD",
+    "meaning": "Time or Place of Decision or Change.",
+    "category": "Places / Action",
+    "keywords": [
+      "decision",
+      "change",
+      "time",
+      "place"
+    ]
+  },
+  {
+    "symbol": "FOUNDATION",
+    "meaning": "Base: Establish; stable or unstable (when shaky); the Gospel; sound doctrine; church government. Beginning or early in project or work of ministry.",
+    "category": "Objects / Ministry",
+    "keywords": [
+      "base",
+      "establish",
+      "Gospel",
+      "sound doctrine",
+      "church government",
+      "beginning"
+    ]
+  },
+  {
+    "symbol": "FOX",
+    "meaning": "Subtlety: Deception; cunning; a con man; false prophet; wicked leader; hidden sin or motive.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "subtlety",
+      "deception",
+      "cunning",
+      "con man",
+      "false prophet",
+      "hidden sin"
+    ]
+  },
+  {
+    "symbol": "FRIEND",
+    "meaning": "Self: The character or circumstance of one’s friend reveals something about one’s self. Sometimes one friend represents another (look for another with the same name, initials, hair colour, job, or trade, or one with similar traits, character, talents, personality, features, circumstances); actual friend when naturally interpreted.",
+    "category": "People / Relationship",
+    "keywords": [
+      "self",
+      "character",
+      "circumstance",
+      "reflection",
+      "friend"
+    ]
+  },
+  {
+    "symbol": "FROG",
+    "meaning": "Demon: Witchcraft; curse; evil words; puffed up.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "demon",
+      "witchcraft",
+      "curse",
+      "evil words",
+      "puffed up"
+    ]
+  },
+  {
+    "symbol": "FRONT (FRONTYARD or FRONT PORCH)",
+    "meaning": "Future: In the presence of; a prophecy of future events; immediately ahead. Sitting on porch = Rest, comfort, patience; waiting in expectation.",
+    "category": "Places / Time",
+    "keywords": [
+      "future",
+      "prophecy",
+      "immediately ahead",
+      "rest",
+      "waiting in expectation"
+    ]
+  },
+  {
+    "symbol": "FRUIT",
+    "meaning": "Productive: Results; glory; of ministry life.",
+    "category": "Food / Result",
+    "keywords": [
+      "productive",
+      "results",
+      "glory",
+      "ministry life"
+    ]
+  },
+  {
+    "symbol": "GARBAGE (DUMP)",
+    "meaning": "Rejected: Filth; hell; evil; vile; corruption. A place to leave your past sins or relationships that are not productive.",
+    "category": "Places / Negative",
+    "keywords": [
+      "rejected",
+      "filth",
+      "hell",
+      "evil",
+      "corruption",
+      "leave past sins"
+    ]
+  },
+  {
+    "symbol": "GARDENER",
+    "meaning": "The Lord: Pastor, the enemy. Working with; caring for our life or our mind or heart or thoughts.",
+    "category": "People / Role",
+    "keywords": [
+      "the Lord",
+      "pastor",
+      "enemy",
+      "caring for life",
+      "heart",
+      "thoughts"
+    ]
+  },
+  {
+    "symbol": "GAS FUMES",
+    "meaning": "Deception: Deceiving spirit; evil motive; leaking information; envy; false accusations; slander; danger.",
+    "category": "Objects / Negative",
+    "keywords": [
+      "deception",
+      "deceiving spirit",
+      "evil motive",
+      "slander",
+      "danger"
+    ]
+  },
+  {
+    "symbol": "GASOLINE",
+    "meaning": "Fuel: Prayer; gossip; energy; power.",
+    "category": "Objects / Power",
+    "keywords": [
+      "fuel",
+      "prayer",
+      "gossip",
+      "energy",
+      "power"
+    ]
+  },
+  {
+    "symbol": "GIANT",
+    "meaning": "Strongman: Champion; challenge; obstacle; trouble; spiritual warfare; hindrance; battle; foe or opponent; demonic stronghold.",
+    "category": "People / Warfare",
+    "keywords": [
+      "strongman",
+      "champion",
+      "obstacle",
+      "spiritual warfare",
+      "hindrance",
+      "demonic stronghold"
+    ]
+  },
+  {
+    "symbol": "GLOVES",
+    "meaning": "Protection: Safe; careful. White gloves = Clean; holy hands. Black or dirty gloves = Evil works; sin, secret sin; evil intention.",
+    "category": "Clothing / State",
+    "keywords": [
+      "protection",
+      "safe",
+      "clean",
+      "holy hands",
+      "evil works",
+      "secret sin"
+    ]
+  },
+  {
+    "symbol": "GOAT",
+    "meaning": "Sinner: Unbelief; stubborn; unyielding; strife; argumentative; negative person; scapegoat (blamed for another's wrong doing). Sheep and goats = Mingled field.",
+    "category": "Animals / People",
+    "keywords": [
+      "sinner",
+      "unbelief",
+      "stubborn",
+      "strife",
+      "negative person",
+      "scapegoat"
+    ]
+  },
+  {
+    "symbol": "GOLD",
+    "meaning": "Glory or wisdom: Truth; something precious; righteous; glory of God. Self-glorification; greed; provision; power.",
+    "category": "Objects / State",
+    "keywords": [
+      "glory",
+      "wisdom",
+      "truth",
+      "precious",
+      "righteous",
+      "glory of God",
+      "provision",
+      "power"
+    ]
+  },
+  {
+    "symbol": "GOLF",
+    "meaning": "Worship: Competition; individual sport; challenging field of ministry. For more clarification note aspects of game: Teeing off (driving) = Start. Holing out = Finish. Penalty = Out of bounds; etc.",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "worship",
+      "competition",
+      "individual sport",
+      "ministry",
+      "challenge"
+    ]
+  },
+  {
+    "symbol": "GOVERNOR",
+    "meaning": "Ruler: Christ; authority; covering (spiritual or natural).",
+    "category": "People / Authority",
+    "keywords": [
+      "ruler",
+      "Christ",
+      "authority",
+      "covering"
+    ]
+  },
+  {
+    "symbol": "GRANDCHILD",
+    "meaning": "Heir: Oneself; inherited blessing or iniquity; one's spiritual legacy; generational blessing or curse.",
+    "category": "People / Relationship",
+    "keywords": [
+      "heir",
+      "oneself",
+      "inherited blessing",
+      "spiritual legacy",
+      "generational blessing",
+      "curse"
+    ]
+  },
+  {
+    "symbol": "GRANDMOTHER",
+    "meaning": "Past: Spiritual inheritance (good or evil). Self-examination for inherited traits, faults, or sins.",
+    "category": "People / Relationship",
+    "keywords": [
+      "past",
+      "spiritual inheritance",
+      "self-examination",
+      "inherited traits",
+      "sins"
+    ]
+  },
+  {
+    "symbol": "GRANDFATHER",
+    "meaning": "Past: Spiritual inheritance (good or evil). Spiritual authority and wisdom or tradition. Self-examination for inherited traits, faults, or sins. Could be your father or himself in the natural.",
+    "category": "People / Relationship",
+    "keywords": [
+      "past",
+      "spiritual inheritance",
+      "spiritual authority",
+      "tradition",
+      "self-examination"
+    ]
+  },
+  {
+    "symbol": "GRAPES",
+    "meaning": "Fruit: The Spirit of promise; fruit of the Spirit; promise of wrath.",
+    "category": "Food / Fruit",
+    "keywords": [
+      "fruit",
+      "Spirit of promise",
+      "fruit of the Spirit",
+      "wrath"
+    ]
+  },
+  {
+    "symbol": "GRASS",
+    "meaning": "Flesh: The Word of God. High grass = Needing care; freedom or liberty. Temporary; here today, gone tomorrow. DRIED GRASS – Death: Repentance; spiritual drought. GREEN GRASS – Life: Self-renewal. MOWED GRASS – Chastisement: Repentance; correction; crucifying flesh. Sickness; financial need or distress; emotional and mental depression or anguish. Preparation for blessing or revival (the rain falls on the mowed grass).",
+    "category": "Plants / State",
+    "keywords": [
+      "flesh",
+      "Word of God",
+      "needing care",
+      "freedom",
+      "temporary"
+    ]
+  },
+  {
+    "symbol": "GRASSHOPPER",
+    "meaning": "Smallness of Size: Multitude to destroy. Locust = Devourer; pestilence; plague.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "devour",
+      "plague",
+      "small"
+    ]
+  },
+  {
+    "symbol": "GRAVEL PIT/QUARRY",
+    "meaning": "Source: The Word of God; abundant supply. Redemption; reclaiming.",
+    "category": "Places / Resource",
+    "keywords": [
+      "source",
+      "Word of God",
+      "abundant supply",
+      "redemption"
+    ]
+  },
+  {
+    "symbol": "GRAVEL ROAD",
+    "meaning": "Way: God's Word and way.",
+    "category": "Places / Way",
+    "keywords": [
+      "way",
+      "God's Word",
+      "God's way"
+    ]
+  },
+  {
+    "symbol": "GRAVEYARD",
+    "meaning": "Hidden: Out of the past; curse; evil inheritance; hypocrisy; death; demon; witchcraft; fear.",
+    "category": "Places / Negative",
+    "keywords": [
+      "hidden",
+      "past",
+      "curse",
+      "evil inheritance",
+      "hypocrisy",
+      "death",
+      "witchcraft",
+      "fear"
+    ]
+  },
+  {
+    "symbol": "GREEN",
+    "meaning": "Life: Mortal; flesh; carnal; envy; inexperienced; immature; renewal.",
+    "category": "Colors / State",
+    "keywords": [
+      "life",
+      "mortal",
+      "flesh",
+      "carnal",
+      "envy",
+      "immature",
+      "renewal"
+    ]
+  },
+  {
+    "symbol": "GREY",
+    "meaning": "Not Defined: Unclear (as in “the grey area between right and wrong”); vague; not specific; hazy; deceived; deception; hidden; crafty; false doctrine. Heaviness; depressing; double-minded.",
+    "category": "Colors / State",
+    "keywords": [
+      "not defined",
+      "unclear",
+      "deception",
+      "false doctrine",
+      "depressing",
+      "double-minded"
+    ]
+  },
+  {
+    "symbol": "GREY HAIR",
+    "meaning": "Wisdom: Age; aging.",
+    "category": "Body / State",
+    "keywords": [
+      "wisdom",
+      "age",
+      "aging"
+    ]
+  },
+  {
+    "symbol": "GROOM",
+    "meaning": "The Lord: Husband; new covenant relationship. Natural marriage.",
+    "category": "People / Covenant",
+    "keywords": [
+      "the Lord",
+      "husband",
+      "new covenant relationship",
+      "marriage"
+    ]
+  },
+  {
+    "symbol": "GROUND FLOOR",
+    "meaning": "First floor: Starting or young work; entry-level opportunity; foundation.",
+    "category": "Places / Beginning",
+    "keywords": [
+      "first floor",
+      "starting work",
+      "entry-level",
+      "foundation"
+    ]
+  },
+  {
+    "symbol": "GUNS/BULLETS",
+    "meaning": "Words: Accusations; slander; gossip; power. Broken or inoperative gun = Without authority or ability or power. For further clarity, the size, style, and colour of the gun will tell you more about the purpose and the power. Examples: Starter pistol = Start the race. Double-barrel shotgun = Double blessing, anointing, power, or authority. Powerful couple in ministry.",
+    "category": "Objects / Warfare",
+    "keywords": [
+      "words",
+      "accusations",
+      "slander",
+      "gossip",
+      "power",
+      "without authority"
+    ]
+  },
+  {
+    "symbol": "HAIL",
+    "meaning": "Judgment: Punishment; destruction; bombardment; spiritual attack.",
+    "category": "Weather / Warfare",
+    "keywords": [
+      "judgment",
+      "punishment",
+      "destruction",
+      "spiritual attack"
+    ]
+  },
+  {
+    "symbol": "HAIR",
+    "meaning": "Covering: Covenant; humanity; the old (sinful) nature; tradition; power; strength. Long-haired man = Defiance; rebellion. Long-haired woman = Glory; beauty. Letting hair down = Informal; relaxed; intimate. Shaving = Putting away the filthiness or nature of the flesh. Hair growing back out = Restoration; restoring the covenant of strength.",
+    "category": "Body / State",
+    "keywords": [
+      "covering",
+      "covenant",
+      "old nature",
+      "tradition",
+      "power",
+      "strength",
+      "rebellion",
+      "glory"
+    ]
+  },
+  {
+    "symbol": "HAIRCUT",
+    "meaning": "Putting Away Tradition or Bad Habits: Repenting of bad attitudes. Removing or breaking covenants or religious traditions. Repentance; correction.",
+    "category": "Actions / Change",
+    "keywords": [
+      "putting away tradition",
+      "bad habits",
+      "repentance",
+      "breaking covenants",
+      "correction"
+    ]
+  },
+  {
+    "symbol": "HAMMER",
+    "meaning": "Force: Word of God; preaching; evil words; destruction. Building; strengthening; shaping.",
+    "category": "Objects / Action",
+    "keywords": [
+      "force",
+      "Word of God",
+      "preaching",
+      "evil words",
+      "destruction",
+      "building",
+      "shaping"
+    ]
+  },
+  {
+    "symbol": "HANDS",
+    "meaning": "Works: Deeds (good or evil); labour; service; idolatry; spiritual warfare. Raised hands = Worship; surrender. Clenched fist = Fighting or anger. Two people shaking hands = Covenant; agreement. Hands trembling = Weakness or fear. Hands outstretched, palms up = Helplessness. Hands covering face = Grief; guilt; shame; laughter. (Other self-explanatory uses of hands include: waving good-bye; begging; prayer (clasped together); calling someone to “come” or to “follow.”",
+    "category": "Body / Action",
+    "keywords": [
+      "works",
+      "deeds",
+      "labour",
+      "service",
+      "spiritual warfare",
+      "worship",
+      "surrender",
+      "anger"
+    ]
+  },
+  {
+    "symbol": "HARLOT",
+    "meaning": "Seduction: The worldly church; adultery; fornication; temptation; snare; unclean person.",
+    "category": "People / Negative",
+    "keywords": [
+      "seduction",
+      "worldly church",
+      "adultery",
+      "fornication",
+      "temptation",
+      "unclean person"
+    ]
+  },
+  {
+    "symbol": "HAT",
+    "meaning": "Covering: Protection; thought; attitude; diversity (as in \"wearing many different hats\"). Type of hat can help clarify purpose or authority.",
+    "category": "Clothing / Authority",
+    "keywords": [
+      "covering",
+      "protection",
+      "thought",
+      "attitude",
+      "diversity",
+      "authority"
+    ]
+  },
+  {
+    "symbol": "HAWK",
+    "meaning": "Predator: Sorcerer; evil spirit; leader; scavenger; a person who is for war.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "predator",
+      "sorcerer",
+      "evil spirit",
+      "leader",
+      "scavenger",
+      "war"
+    ]
+  },
+  {
+    "symbol": "HAY",
+    "meaning": "To Bundle: Prepare (as in “make hay while the sun shines”); harvest; gather people; carnality; death.",
+    "category": "Objects / Event",
+    "keywords": [
+      "bundle",
+      "prepare",
+      "harvest",
+      "gather people",
+      "carnality",
+      "death"
+    ]
+  },
+  {
+    "symbol": "HEAD",
+    "meaning": "Authority: God; Christ; covering; government; husband; pastor; employer; power; first in order.",
+    "category": "Body / Authority",
+    "keywords": [
+      "authority",
+      "God",
+      "Christ",
+      "government",
+      "husband",
+      "pastor",
+      "power",
+      "first"
+    ]
+  },
+  {
+    "symbol": "HEAT",
+    "meaning": "Power: Zeal; passion. Turn up the heat = Increase the power.",
+    "category": "Elements / State",
+    "keywords": [
+      "power",
+      "zeal",
+      "passion",
+      "increase the power"
+    ]
+  },
+  {
+    "symbol": "HELICOPTER",
+    "meaning": "Ministry: Individual; the Church; versatile; small traveling ministry; short-term ministry trips. Hovering = No forward motion; lack of progress.",
+    "category": "Travel / Ministry",
+    "keywords": [
+      "ministry",
+      "church",
+      "versatile",
+      "traveling ministry",
+      "no forward motion"
+    ]
+  },
+  {
+    "symbol": "HEN",
+    "meaning": "Protection: Gossip.",
+    "category": "Animals / State",
+    "keywords": [
+      "protection",
+      "gossip"
+    ]
+  },
+  {
+    "symbol": "HIGHWAY",
+    "meaning": "Way: The Christian faith; truth; way of life; way of error. Under construction = In preparation; change; hindrance. Crossroads = Change of direction; place of decision. Type of road or traffic conditions can provide further insight.",
+    "category": "Places / Way",
+    "keywords": [
+      "way",
+      "Christian faith",
+      "truth",
+      "error",
+      "preparation",
+      "change",
+      "decision"
+    ]
+  },
+  {
+    "symbol": "HIPS (LOINS)",
+    "meaning": "Mind: Truth; joint; reproduction.",
+    "category": "Body / State",
+    "keywords": [
+      "mind",
+      "truth",
+      "reproduction"
+    ]
+  },
+  {
+    "symbol": "HOG",
+    "meaning": "Unclean: Unkempt; lazy; backslidden.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "unclean",
+      "unkempt",
+      "lazy",
+      "backslidden"
+    ]
+  },
+  {
+    "symbol": "HOMOSEXUAL ACTS",
+    "meaning": "Rebellion: Unnatural; disobedience; wives not obeying their husbands; husbands not bearing their responsibility of headship properly (wimp); ungodly relationships or covenants.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "rebellion",
+      "unnatural",
+      "disobedience",
+      "ungodly relationships",
+      "covenants"
+    ]
+  },
+  {
+    "symbol": "HONEY",
+    "meaning": "Power: Holy Spirit anointing and enlightenment; wisdom; knowledge; pleasant experience.",
+    "category": "Food / Spirit",
+    "keywords": [
+      "power",
+      "Holy Spirit anointing",
+      "wisdom",
+      "knowledge",
+      "pleasant experience"
+    ]
+  },
+  {
+    "symbol": "HORNET",
+    "meaning": "Affliction: Stinging, biting words; slander; strife; curse (becasue of sin); persecution; trouble; offense; demonic spirits.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "affliction",
+      "stinging words",
+      "slander",
+      "strife",
+      "curse",
+      "persecution",
+      "demonic spirits"
+    ]
+  },
+  {
+    "symbol": "HORNS",
+    "meaning": "Authority: Power; ability; king; anointing.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "authority",
+      "power",
+      "ability",
+      "king",
+      "anointing"
+    ]
+  },
+  {
+    "symbol": "HORSE",
+    "meaning": "Work: Flesh; age; strength; vehicle (as in “horse and rider”); grace.",
+    "category": "Animals / State",
+    "keywords": [
+      "work",
+      "flesh",
+      "strength",
+      "vehicle",
+      "grace"
+    ]
+  },
+  {
+    "symbol": "HOSPITAL",
+    "meaning": "BLACK HORSE – Famine: Bad times; evil. RED HORSE – Persecution: Anger; danger; opposition. KICKING/LIFTING HEEL – Threatening: Betrayal; rebellion; persecution. QUARTER HORSE – Strong: Good times; fast; agility.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "care",
+      "church",
+      "healing",
+      "mercy",
+      "wounded",
+      "sick",
+      "retreat center"
+    ]
+  },
+  {
+    "symbol": "HOTEL",
+    "meaning": "Public Place for Rest or Business: Church; public gathering; travel; business travel.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "rest",
+      "business",
+      "church",
+      "public gathering",
+      "travel"
+    ]
+  },
+  {
+    "symbol": "HOURGLASS",
+    "meaning": "Running Out of Time: Last days; hurry.",
+    "category": "Objects / Time",
+    "keywords": [
+      "running out of time",
+      "last days",
+      "hurry"
+    ]
+  },
+  {
+    "symbol": "HOUSE",
+    "meaning": "Person, Family or Individual: Church. Naturally interpreted, it means a dwelling place. Heart; ministry; safe place; identity; roots. Different rooms, parts, and condition of the house can have specific meaning: NEW HOUSE – New Life (as in salvation): Change; revival; new move (natural or spiritual). OLD HOUSE – Past: Inheritance, e.g., one’s grandfather’s or grandmother’s religion, ways, or temperament; established tradition. In bad condition = Our sins or the sins of our forefathers. Needing revival (when in need of repair or remodeling); untended; neglect; unusable; ruin. ATTIC – Memories: Strange; attitude; mind. BASEMENT – Past: Hidden; stored. Foundation level. BATHROOM – Deliverance or Cleansing: Prayer of repentance. BEDROOM – Rest: Place of intimacy; private place. DOORS – Authority: Way; avenue. FAMILY ROOM – Reveal: Fellowship; comfortable; casual; relax. FIREPLACE – Heart. KITCHEN – Heart. LIVING ROOM – Formal: Hospitality; revealed; truth. ROOF – Covering: Pastor; protection. WINDOWS – Revealed: Vision; prophecy; revelation.",
+    "category": "Places / People",
+    "keywords": [
+      "person",
+      "family",
+      "church",
+      "heart",
+      "ministry",
+      "safe place",
+      "identity",
+      "roots"
+    ]
+  },
+  {
+    "symbol": "HOUSE TRAILER",
+    "meaning": "Temporary: Place; situation; relationship.",
+    "category": "Travel / State",
+    "keywords": [
+      "temporary",
+      "place",
+      "situation",
+      "relationship"
+    ]
+  },
+  {
+    "symbol": "HUNTING",
+    "meaning": "Evangelizing: Seeking; provision; work.",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "evangelizing",
+      "seeking",
+      "provision",
+      "work"
+    ]
+  },
+  {
+    "symbol": "HUSBAND",
+    "meaning": "Authority: God or Christ; pastor; partner; natural husband; Satan, if evil or mean.",
+    "category": "People / Authority",
+    "keywords": [
+      "authority",
+      "God",
+      "Christ",
+      "pastor",
+      "partner",
+      "Satan"
+    ]
+  },
+  {
+    "symbol": "ICE",
+    "meaning": "Danger: Warning; slippery condition, solid; frozen in place spiritually.",
+    "category": "Elements / State",
+    "keywords": [
+      "danger",
+      "warning",
+      "slippery",
+      "solid",
+      "frozen spiritually"
+    ]
+  },
+  {
+    "symbol": "INDIAN",
+    "meaning": "First: Firstborn; chief; fierce; savvy; native; rebellion; warrior.",
+    "category": "People / Role",
+    "keywords": [
+      "first",
+      "firstborn",
+      "chief",
+      "fierce",
+      "native",
+      "rebellion",
+      "warrior"
+    ]
+  },
+  {
+    "symbol": "INSURANCE",
+    "meaning": "Faith: Protection; prepared; safe; covered; confidence; future provision for one's family.",
+    "category": "Objects / State",
+    "keywords": [
+      "faith",
+      "protection",
+      "prepared",
+      "safe",
+      "confidence",
+      "future provision"
+    ]
+  },
+  {
+    "symbol": "INTERSECTION",
+    "meaning": "Crossroad: Decision; hindrance; proceed with care.",
+    "category": "Places / Action",
+    "keywords": [
+      "crossroad",
+      "decision",
+      "hindrance",
+      "care"
+    ]
+  },
+  {
+    "symbol": "IRON",
+    "meaning": "Strength: Powerful; invincible; stronghold; stubborn.",
+    "category": "Objects / State",
+    "keywords": [
+      "strength",
+      "powerful",
+      "invincible",
+      "stronghold",
+      "stubborn"
+    ]
+  },
+  {
+    "symbol": "IRONING",
+    "meaning": "Change: Sanctification; instruction in righteousness; God's discipline; correction; repentance; working out problem relationships; reconciliation.",
+    "category": "Actions / Change",
+    "keywords": [
+      "change",
+      "sanctification",
+      "God's discipline",
+      "repentance",
+      "problem relationships",
+      "reconciliation"
+    ]
+  },
+  {
+    "symbol": "JESTER",
+    "meaning": "Fool: Clown; joy; entertainment; worldly.",
+    "category": "People / Role",
+    "keywords": [
+      "fool",
+      "clown",
+      "joy",
+      "entertainment",
+      "worldly"
+    ]
+  },
+  {
+    "symbol": "JEWELRY",
+    "meaning": "Treasure: Desire; precious; God's gifts; idolatry; self-glorification; pride; precious person; gifted person; truth.",
+    "category": "Objects / State",
+    "keywords": [
+      "treasure",
+      "desire",
+      "precious",
+      "God's gifts",
+      "idolatry",
+      "pride",
+      "gifted person",
+      "truth"
+    ]
+  },
+  {
+    "symbol": "JOGGING",
+    "meaning": "Staying in condition: Working; striving; preparing.",
+    "category": "Actions / State",
+    "keywords": [
+      "staying in condition",
+      "working",
+      "striving",
+      "preparing"
+    ]
+  },
+  {
+    "symbol": "JUDGE",
+    "meaning": "Authority: God; conscience; minister; Satan, if evil authority.",
+    "category": "People / Authority",
+    "keywords": [
+      "authority",
+      "God",
+      "conscience",
+      "minister",
+      "Satan"
+    ]
+  },
+  {
+    "symbol": "JUNKYARD",
+    "meaning": "Ruined: Waste; wrecked; lost souls; corruption.",
+    "category": "Places / Negative",
+    "keywords": [
+      "ruined",
+      "waste",
+      "wrecked",
+      "lost souls",
+      "corruption"
+    ]
+  },
+  {
+    "symbol": "KANGAROO",
+    "meaning": "To Jump: Predisposition; hopping around; jump to a conclusion; Australia. Pouch = Safe place.",
+    "category": "Animals / Action",
+    "keywords": [
+      "jump",
+      "hopping around",
+      "jump to conclusion",
+      "Australia",
+      "safe place"
+    ]
+  },
+  {
+    "symbol": "KEY",
+    "meaning": "Authority: Power; wisdom; understanding; ability; important or indispensable. Keystone or cornerstone = Christ.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "authority",
+      "power",
+      "wisdom",
+      "understanding",
+      "ability",
+      "Christ"
+    ]
+  },
+  {
+    "symbol": "KICKING",
+    "meaning": "Attack: Rebellion; conflict.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "attack",
+      "rebellion",
+      "conflict"
+    ]
+  },
+  {
+    "symbol": "KISS",
+    "meaning": "Agreement: Covenant; enticement; betrayal; covenant breaker; deception; seduction; friend; relationship; intimacy.",
+    "category": "Actions / Relationship",
+    "keywords": [
+      "agreement",
+      "covenant",
+      "betrayal",
+      "deception",
+      "seduction",
+      "intimacy"
+    ]
+  },
+  {
+    "symbol": "KITCHEN",
+    "meaning": "Heart: Intent; motive; plans; passion; preparation; ambition; affliction.",
+    "category": "Places / State",
+    "keywords": [
+      "heart",
+      "intent",
+      "motive",
+      "plans",
+      "passion",
+      "preparation",
+      "ambition"
+    ]
+  },
+  {
+    "symbol": "KNEES",
+    "meaning": "Submission: Obey; worship; serve; stubborn; unyielding; prayer; surrender; begging.",
+    "category": "Body / Action",
+    "keywords": [
+      "submission",
+      "obey",
+      "worship",
+      "stubborn",
+      "prayer",
+      "surrender"
+    ]
+  },
+  {
+    "symbol": "KNIVES",
+    "meaning": "Words: Revelation; truth; sharp or angry rebuke; accusations; gossip.",
+    "category": "Objects / Words",
+    "keywords": [
+      "words",
+      "revelation",
+      "truth",
+      "angry rebuke",
+      "accusations",
+      "gossip"
+    ]
+  },
+  {
+    "symbol": "LADDER",
+    "meaning": "Ascend or Descend: Enable; way of escape; way of entrance. Steps upward = Promotion. Steps downward = Demotion; trial.",
+    "category": "Objects / State",
+    "keywords": [
+      "ascend",
+      "descend",
+      "way of escape",
+      "promotion",
+      "demotion",
+      "trial"
+    ]
+  },
+  {
+    "symbol": "LAMB",
+    "meaning": "Jesus: Young believer; innocence; naive.",
+    "category": "Animals / People",
+    "keywords": [
+      "Jesus",
+      "young believer",
+      "innocence",
+      "naive"
+    ]
+  },
+  {
+    "symbol": "LAWYER",
+    "meaning": "Advocate: Holy Spirit; Christ; defender of freedom; helper; counselor; defense; authority; minister; intercessor; legalistic minister; devil's advocate; accuser.",
+    "category": "People / Role",
+    "keywords": [
+      "advocate",
+      "Holy Spirit",
+      "Christ",
+      "counselor",
+      "minister",
+      "accuser"
+    ]
+  },
+  {
+    "symbol": "LEAVEN",
+    "meaning": "Spirit (Good or Evil): Attitude; sin; false doctrine; hypocrisy; self-justification; pride, zeal.",
+    "category": "Objects / Spirit",
+    "keywords": [
+      "spirit",
+      "attitude",
+      "sin",
+      "false doctrine",
+      "hypocrisy",
+      "pride",
+      "zeal"
+    ]
+  },
+  {
+    "symbol": "LEAVES",
+    "meaning": "Words or healing: Covering; covenant; testimony; temporary; self-justification.",
+    "category": "Plants / State",
+    "keywords": [
+      "words",
+      "healing",
+      "covering",
+      "covenant",
+      "testimony",
+      "temporary"
+    ]
+  },
+  {
+    "symbol": "LEFT",
+    "meaning": "Spiritual: Weakness (of man); God's strength or ability demonstrated through man's weakness; rejection. Left Turn = Spiritual change.",
+    "category": "Direction / State",
+    "keywords": [
+      "spiritual",
+      "weakness",
+      "God's strength",
+      "rejection",
+      "spiritual change"
+    ]
+  },
+  {
+    "symbol": "LEGS",
+    "meaning": "Support: Spirit; strength; work stable. Legs on a table = Support; stability; in covenant.",
+    "category": "Body / State",
+    "keywords": [
+      "support",
+      "spirit",
+      "strength",
+      "stability",
+      "covenant"
+    ]
+  },
+  {
+    "symbol": "LEMON",
+    "meaning": "Fruit: Bitter; sour; bad deal; crabby.",
+    "category": "Food / State",
+    "keywords": [
+      "fruit",
+      "bitter",
+      "sour",
+      "bad deal",
+      "crabby"
+    ]
+  },
+  {
+    "symbol": "LEOPARD",
+    "meaning": "Powerful Leader: Predator; permanent; unchanging evil person; danger.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "powerful leader",
+      "predator",
+      "unchanging evil person",
+      "danger"
+    ]
+  },
+  {
+    "symbol": "LIBRARY",
+    "meaning": "Knowledge: Education; learning; research; school; teaching ministry; doctrine; legalistic.",
+    "category": "Places / Knowledge",
+    "keywords": [
+      "knowledge",
+      "education",
+      "learning",
+      "teaching ministry",
+      "doctrine",
+      "legalistic"
+    ]
+  },
+  {
+    "symbol": "LICE",
+    "meaning": "Shame: Guilt; accusation; affliction; nuisance, problem with covering.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "shame",
+      "guilt",
+      "accusation",
+      "affliction",
+      "nuisance",
+      "covering problem"
+    ]
+  },
+  {
+    "symbol": "LICENSE",
+    "meaning": "Authority: Approval; registered; government. To permit; to allow.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "authority",
+      "approval",
+      "registered",
+      "government",
+      "permit",
+      "allow"
+    ]
+  },
+  {
+    "symbol": "LIGHT",
+    "meaning": "Manifest: Revealed; exposed. Turning the lights out = Closing; finish; end.",
+    "category": "Elements / State",
+    "keywords": [
+      "manifest",
+      "revealed",
+      "exposed",
+      "closing",
+      "finish",
+      "end"
+    ]
+  },
+  {
+    "symbol": "LIGHTNING",
+    "meaning": "Power: Instant miracle; judgment; destruction; knowledge.",
+    "category": "Events / Power",
+    "keywords": [
+      "power",
+      "instant miracle",
+      "judgment",
+      "destruction",
+      "knowledge"
+    ]
+  },
+  {
+    "symbol": "LION",
+    "meaning": "Christ: King; regal; bold; power; Satan; religious tradition; destroying spirit.",
+    "category": "Animals / Role",
+    "keywords": [
+      "Christ",
+      "King",
+      "power",
+      "Satan",
+      "religious tradition",
+      "destroying spirit"
+    ]
+  },
+  {
+    "symbol": "LIPS",
+    "meaning": "Words: Seduction; speech.",
+    "category": "Body / Words",
+    "keywords": [
+      "words",
+      "seduction",
+      "speech"
+    ]
+  },
+  {
+    "symbol": "LIVING ROOM",
+    "meaning": "Revealed: Everyday or current affairs; that which is manifest; truth exposed.",
+    "category": "Places / State",
+    "keywords": [
+      "revealed",
+      "current affairs",
+      "manifest",
+      "truth exposed"
+    ]
+  },
+  {
+    "symbol": "LIZARD/SALAMANDER",
+    "meaning": "Early Stages: Immature; Leviathan spirit; worldly.",
+    "category": "Animals / State",
+    "keywords": [
+      "early stages",
+      "immature",
+      "Leviathan spirit",
+      "worldly"
+    ]
+  },
+  {
+    "symbol": "LOST",
+    "meaning": "Lose: Confused; in need of direction; lacking; unsaved; soul lost through sin. Lost = Truth lost through tradition; gift lost through neglect. Found = Revelations or gifts received from God; receiving revelation knowledge.",
+    "category": "State / Spiritual",
+    "keywords": [
+      "lose",
+      "confused",
+      "unsaved",
+      "truth lost",
+      "revelations",
+      "gifts received"
+    ]
+  },
+  {
+    "symbol": "LUMBER",
+    "meaning": "Building Project: Building materials; temporary; temporal; carnal.",
+    "category": "Objects / State",
+    "keywords": [
+      "building project",
+      "building materials",
+      "temporary",
+      "carnal"
+    ]
+  },
+  {
+    "symbol": "MAGGOT",
+    "meaning": "Corruption: Filthiness of the flesh; evil; rot; spoil; devourer.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "corruption",
+      "filthiness of the flesh",
+      "evil",
+      "devourer"
+    ]
+  },
+  {
+    "symbol": "MAN",
+    "meaning": "Angel, Oneself, or Demon: God's messenger; person with evil intent; danger. Kind Stranger = Jesus; a minister of mercy; helper; Holy Spirit.",
+    "category": "People / Role",
+    "keywords": [
+      "angel",
+      "oneself",
+      "demon",
+      "messenger",
+      "evil intent",
+      "Jesus",
+      "Holy Spirit"
+    ]
+  },
+  {
+    "symbol": "MAP",
+    "meaning": "Directions: Word of God; correction; advice; location.",
+    "category": "Objects / Guidance",
+    "keywords": [
+      "directions",
+      "Word of God",
+      "correction",
+      "advice",
+      "location"
+    ]
+  },
+  {
+    "symbol": "MARRIAGE",
+    "meaning": "Covenant: The Church as the Bride of Christ; agreement; joined. Sexual intimacy = One in agreement. Interruption of intimacy = Interference or trouble in marriage or convenant relationship.",
+    "category": "Actions / Covenant",
+    "keywords": [
+      "covenant",
+      "Church",
+      "agreement",
+      "joined",
+      "intimacy",
+      "trouble"
+    ]
+  },
+  {
+    "symbol": "MECHANIC",
+    "meaning": "Minister: Christ; prophet; pastor; counselor; need for adjustment in theology, attitude, relationship, etc. Mechanic’s tools = Word of God; gifts of the Spirit; wisdom and knowledge.",
+    "category": "People / Role",
+    "keywords": [
+      "minister",
+      "Christ",
+      "pastor",
+      "counselor",
+      "adjustment",
+      "Word of God",
+      "gifts of the Spirit"
+    ]
+  },
+  {
+    "symbol": "MEDICINE",
+    "meaning": "Healing: Direction; correction; prescription; counselling.",
+    "category": "Objects / State",
+    "keywords": [
+      "healing",
+      "direction",
+      "correction",
+      "counselling"
+    ]
+  },
+  {
+    "symbol": "MICE",
+    "meaning": "Devourer: Curse; plague; timid.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "devourer",
+      "curse",
+      "plague",
+      "timid"
+    ]
+  },
+  {
+    "symbol": "MICROPHONE",
+    "meaning": "Voice: Authority; ministry; influence; amplify; increase, preach.",
+    "category": "Objects / Ministry",
+    "keywords": [
+      "voice",
+      "authority",
+      "ministry",
+      "influence",
+      "preach"
+    ]
+  },
+  {
+    "symbol": "MICROSCOPE",
+    "meaning": "Examine: Close examination; self-examination.",
+    "category": "Objects / Action",
+    "keywords": [
+      "examine",
+      "close examination",
+      "self-examination"
+    ]
+  },
+  {
+    "symbol": "MICROWAVE OVEN",
+    "meaning": "Instant: Quick work; sudden; impatience; convenience.",
+    "category": "Objects / Time",
+    "keywords": [
+      "instant",
+      "quick work",
+      "sudden",
+      "impatience",
+      "convenience"
+    ]
+  },
+  {
+    "symbol": "MILK",
+    "meaning": "A Work of Service: Foundational teaching; feeding or nurturing.",
+    "category": "Food / Ministry",
+    "keywords": [
+      "work of service",
+      "foundational teaching",
+      "nurturing"
+    ]
+  },
+  {
+    "symbol": "MIRROR",
+    "meaning": "Reflection: Looking at oneself; looking back; memory; past; vanity.",
+    "category": "Objects / State",
+    "keywords": [
+      "reflection",
+      "oneself",
+      "memory",
+      "past",
+      "vanity"
+    ]
+  },
+  {
+    "symbol": "MISCARRIAGE",
+    "meaning": "Abort: Failure; loss; repentance; unjust judgment.",
+    "category": "Events / Negative",
+    "keywords": [
+      "abort",
+      "failure",
+      "loss",
+      "repentance",
+      "unjust judgment"
+    ]
+  },
+  {
+    "symbol": "MISSILE",
+    "meaning": "Strong Attack: Power; spiritual warfare.",
+    "category": "Objects / Warfare",
+    "keywords": [
+      "strong attack",
+      "power",
+      "spiritual warfare"
+    ]
+  },
+  {
+    "symbol": "MONEY",
+    "meaning": "Power: Provision; wealth; natural talents and skills; spiritual riches; power; authority; covetousness.",
+    "category": "Objects / Resource",
+    "keywords": [
+      "power",
+      "provision",
+      "wealth",
+      "talents",
+      "spiritual riches",
+      "authority",
+      "covetousness"
+    ]
+  },
+  {
+    "symbol": "MONKEY",
+    "meaning": "Foolishness: Mischief; dishonesty; addiction.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "foolishness",
+      "mischief",
+      "dishonesty",
+      "addiction"
+    ]
+  },
+  {
+    "symbol": "MOON",
+    "meaning": "To Rule: To manifest the works of darkness; occult; false worship; persecution.",
+    "category": "Celestial / Negative",
+    "keywords": [
+      "to rule",
+      "works of darkness",
+      "occult",
+      "false worship",
+      "persecution"
+    ]
+  },
+  {
+    "symbol": "MOTEL",
+    "meaning": "Church/Ministry: Housing multiple ministries; temporary location, travel, rest.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "church",
+      "ministry",
+      "temporary location",
+      "travel",
+      "rest"
+    ]
+  },
+  {
+    "symbol": "MOTH",
+    "meaning": "Deterioration: Loss through deceit; secret or undetected trouble; corruption; destructive power; chastisement.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "deterioration",
+      "loss",
+      "deceit",
+      "secret trouble",
+      "corruption",
+      "destructive power"
+    ]
+  },
+  {
+    "symbol": "MOTHER",
+    "meaning": "Source: Church; spiritual or natural mother; love; kindness. Mother-in-law = Legalistic church; meddler; trouble; she may represent herself.",
+    "category": "People / Role",
+    "keywords": [
+      "source",
+      "church",
+      "spiritual mother",
+      "love",
+      "legalistic church",
+      "trouble"
+    ]
+  },
+  {
+    "symbol": "MOTOR",
+    "meaning": "Power: Motive; motivation; anointing; spirit; heart.",
+    "category": "Objects / Power",
+    "keywords": [
+      "power",
+      "motive",
+      "motivation",
+      "anointing",
+      "spirit",
+      "heart"
+    ]
+  },
+  {
+    "symbol": "MOTORCYCLE",
+    "meaning": "Personal Ministry: Independence; rebellion; selfish; pride; swift progress.",
+    "category": "Travel / Calling",
+    "keywords": [
+      "personal ministry",
+      "independence",
+      "rebellion",
+      "selfish",
+      "swift progress"
+    ]
+  },
+  {
+    "symbol": "MOUNTAIN",
+    "meaning": "Place of Prayer: Meditation; victory and revelation; obstacle; difficulty; challenge; kingdom (nation).",
+    "category": "Places / State",
+    "keywords": [
+      "place of prayer",
+      "meditation",
+      "victory",
+      "revelation",
+      "obstacle",
+      "difficulty",
+      "kingdom"
+    ]
+  },
+  {
+    "symbol": "MOVIE",
+    "meaning": "Message: Announcement. Content and characters will bring further clarity.",
+    "category": "Media / Message",
+    "keywords": [
+      "message",
+      "announcement",
+      "content",
+      "characters"
+    ]
+  },
+  {
+    "symbol": "MOVING",
+    "meaning": "Change: Can be literal; may represent church change, career or job change. A changing season or assignment; can be spiritual or natural.",
+    "category": "Actions / Change",
+    "keywords": [
+      "change",
+      "church change",
+      "job change",
+      "changing season",
+      "spiritual",
+      "natural"
+    ]
+  },
+  {
+    "symbol": "MUDDY ROAD, PATH, OR RIVER",
+    "meaning": "Flesh: Man's way; lust; passion; temptation; offense; strife; sin; need for caution; impassable; difficulty caused by the weakness of the flesh.",
+    "category": "Places / Negative",
+    "keywords": [
+      "flesh",
+      "man's way",
+      "lust",
+      "temptation",
+      "sin",
+      "caution",
+      "difficulty",
+      "weakness of the flesh"
+    ]
+  },
+  {
+    "symbol": "MULE",
+    "meaning": "Stubborn: Self-willed; tenacious; strong; also unbelief.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "stubborn",
+      "self-willed",
+      "tenacious",
+      "unbelief"
+    ]
+  },
+  {
+    "symbol": "MUSEUM",
+    "meaning": "Heritage: Past; tradition; church or ministry that is not active or moving forward.",
+    "category": "Places / Time",
+    "keywords": [
+      "heritage",
+      "past",
+      "tradition",
+      "inactive church",
+      "not moving forward"
+    ]
+  },
+  {
+    "symbol": "MUSIC",
+    "meaning": "Worship: Of God; of idols (idolatry); activity or action that proceeds from the heart. Playing Instruments = Prophesying, ministering in the gifts of the Spirit; worshiping.",
+    "category": "Actions / Spirit",
+    "keywords": [
+      "worship",
+      "idolatry",
+      "heart",
+      "prophesying",
+      "gifts of the Spirit"
+    ]
+  },
+  {
+    "symbol": "NAILS",
+    "meaning": "Words: Word of God or man; wisdom; vows; covenant; fasten; steadfast; permanent; unmovable; unchangeable; secure.",
+    "category": "Objects / Words",
+    "keywords": [
+      "words",
+      "Word of God",
+      "covenant",
+      "steadfast",
+      "permanent",
+      "secure"
+    ]
+  },
+  {
+    "symbol": "NAME",
+    "meaning": "Identity: Authority; reputation; the name’s meaning; a person with the same initials; a different person with the same name or similar personality, nature, character, or reputation; the actual person in the dream.",
+    "category": "State / People",
+    "keywords": [
+      "identity",
+      "authority",
+      "reputation",
+      "name's meaning",
+      "character",
+      "personality"
+    ]
+  },
+  {
+    "symbol": "NATION",
+    "meaning": "Characteristic: That for which the people are known, such as food or culture; personal memories of travel; call to; intercession for.",
+    "category": "Places / State",
+    "keywords": [
+      "characteristic",
+      "culture",
+      "travel memories",
+      "call to",
+      "intercession"
+    ]
+  },
+  {
+    "symbol": "NECK",
+    "meaning": "Will: Self-willed; stubborn; unbelief; authority; rule.",
+    "category": "Body / State",
+    "keywords": [
+      "will",
+      "self-willed",
+      "stubborn",
+      "unbelief",
+      "authority",
+      "rule"
+    ]
+  },
+  {
+    "symbol": "NEWSPAPER",
+    "meaning": "Announcement: Important event; public exposure; news; prophecy; gossip.",
+    "category": "Media / Message",
+    "keywords": [
+      "announcement",
+      "important event",
+      "public exposure",
+      "news",
+      "prophecy",
+      "gossip"
+    ]
+  },
+  {
+    "symbol": "NIGHT",
+    "meaning": "Darkness: Ignorance; hidden; unknown course of action; sin; power of evil.",
+    "category": "Time / State",
+    "keywords": [
+      "darkness",
+      "ignorance",
+      "hidden",
+      "sin",
+      "power of evil"
+    ]
+  },
+  {
+    "symbol": "NOISE",
+    "meaning": "Annoyance: Interference; disturbance; destruction. Certain sounds can bring more clarity.",
+    "category": "Sound / Negative",
+    "keywords": [
+      "annoyance",
+      "interference",
+      "disturbance",
+      "destruction"
+    ]
+  },
+  {
+    "symbol": "NORTH",
+    "meaning": "Spiritual: Judgment; Heaven or heavenly; spiritual warfare (\"as in, taking your inheritance\"); Canada.",
+    "category": "Direction / Spiritual",
+    "keywords": [
+      "spiritual",
+      "judgment",
+      "heavenly",
+      "spiritual warfare",
+      "Canada"
+    ]
+  },
+  {
+    "symbol": "NORTHERN LIGHTS",
+    "meaning": "Canada: Arctic; splendour; direction.",
+    "category": "Celestial / State",
+    "keywords": [
+      "Canada",
+      "arctic",
+      "splendour",
+      "direction"
+    ]
+  },
+  {
+    "symbol": "NOSE",
+    "meaning": "Busybody or Discern: Nosy; close victory or loss (\"by a nose.\"); meddling; strife; smell.",
+    "category": "Body / Action",
+    "keywords": [
+      "busybody",
+      "discern",
+      "nosy",
+      "close victory",
+      "meddling",
+      "strife"
+    ]
+  },
+  {
+    "symbol": "NOSEBLEED",
+    "meaning": "Strife: Trouble.",
+    "category": "Body / Negative",
+    "keywords": [
+      "strife",
+      "trouble"
+    ]
+  },
+  {
+    "symbol": "NUDITY",
+    "meaning": "Uncovered or Flesh: Self-justification and self-righteousness, impure; ashamed; stubborn; temptation; lust; seduction; exhibitionism; innocence; vulnerable; open (revealed); truth; honest; nature. Without spiritual covering.",
+    "category": "State / Negative",
+    "keywords": [
+      "uncovered",
+      "flesh",
+      "ashamed",
+      "temptation",
+      "lust",
+      "innocence",
+      "vulnerable",
+      "without spiritual covering"
+    ]
+  },
+  {
+    "symbol": "NUTS AND BOLTS",
+    "meaning": "Essential: Bottom line; indispensable; wisdom; to fasten; secure; unmovable; unyielding.",
+    "category": "Objects / State",
+    "keywords": [
+      "essential",
+      "bottom line",
+      "indispensable",
+      "secure",
+      "unmovable"
+    ]
+  },
+  {
+    "symbol": "OIL",
+    "meaning": "Anointing: Holy Spirit; healing; lubricate; loosen; ease; maintain. Dirty Oil = Unclean spirit; hate; lust; deception; slick; danger.",
+    "category": "Objects / Spirit",
+    "keywords": [
+      "anointing",
+      "Holy Spirit",
+      "healing",
+      "ease",
+      "unclean spirit",
+      "deception",
+      "danger"
+    ]
+  },
+  {
+    "symbol": "OLD MAN",
+    "meaning": "Carnal (as in \"put off the old man\"): Wisdom; weak; respect; tradition.",
+    "category": "People / State",
+    "keywords": [
+      "carnal",
+      "put off old man",
+      "wisdom",
+      "weak",
+      "tradition"
+    ]
+  },
+  {
+    "symbol": "ONE'S CHILDREN",
+    "meaning": "Oneself or Themselves: Character or behaviour reveals something about oneself (or something about one’s child if the dream is to be naturally interpreted). Sometimes children gathered together from different families from one’s own church represent the church members.",
+    "category": "People / Relationship",
+    "keywords": [
+      "oneself",
+      "themselves",
+      "character",
+      "behaviour",
+      "church members"
+    ]
+  },
+  {
+    "symbol": "ORANGE",
+    "meaning": "Danger: Great jeopardy; harm. Fiery orange = Power; force; energy; energetic; danger; intense.",
+    "category": "Colors / State",
+    "keywords": [
+      "danger",
+      "jeopardy",
+      "harm",
+      "power",
+      "energy",
+      "intense"
+    ]
+  },
+  {
+    "symbol": "OVEN",
+    "meaning": "Heart: Heat of passion; one's imagination \"cooking up\" good or evil; meditation; judgment.",
+    "category": "Objects / State",
+    "keywords": [
+      "heart",
+      "passion",
+      "imagination",
+      "meditation",
+      "judgment"
+    ]
+  },
+  {
+    "symbol": "OVERSLEEP",
+    "meaning": "Late: Missing an appointment or opportunity.",
+    "category": "Actions / Time",
+    "keywords": [
+      "late",
+      "missing appointment",
+      "missing opportunity"
+    ]
+  },
+  {
+    "symbol": "OWL",
+    "meaning": "Circumspect (Looking Around): Wisdom; demon; curse.",
+    "category": "Animals / State",
+    "keywords": [
+      "circumspect",
+      "wisdom",
+      "demon",
+      "curse"
+    ]
+  },
+  {
+    "symbol": "PAINTING",
+    "meaning": "Covering: Regenerate; remodel; renovate; love; covering up sin; doctrine; truth or deception. Artist’s painting = Words; illustrative message; eloquent; humorous; articulate; creative. Colours, subjects, and scenes bring further revelation and clarity.",
+    "category": "Actions / State",
+    "keywords": [
+      "covering",
+      "regenerate",
+      "remodel",
+      "truth",
+      "deception",
+      "words",
+      "creative"
+    ]
+  },
+  {
+    "symbol": "PARACHUTING",
+    "meaning": "Leave: Bail out; escape; flee; saved. Parachute = God's promises; salvation; faith; safety net; insurance.",
+    "category": "Actions / State",
+    "keywords": [
+      "leave",
+      "escape",
+      "saved",
+      "God's promises",
+      "salvation",
+      "safety net"
+    ]
+  },
+  {
+    "symbol": "PARASITES",
+    "meaning": "Ticks, Termites, Leeches: People or circumstances or things that distract, take energy or life from a person, ministry, or work; nuisance; hindrance; pest.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "distract",
+      "take energy",
+      "nuisance",
+      "hindrance",
+      "pest"
+    ]
+  },
+  {
+    "symbol": "PARK",
+    "meaning": "Rest: Peace; God's blessing; God's provision; leisure; vagrancy.",
+    "category": "Places / State",
+    "keywords": [
+      "rest",
+      "peace",
+      "God's blessing",
+      "provision",
+      "leisure"
+    ]
+  },
+  {
+    "symbol": "PARROT",
+    "meaning": "Mimic: Copy; mock; repeat. Prophet of God or false prophet.",
+    "category": "Animals / Words",
+    "keywords": [
+      "mimic",
+      "copy",
+      "mock",
+      "repeat",
+      "prophet",
+      "false prophet"
+    ]
+  },
+  {
+    "symbol": "PASTOR",
+    "meaning": "Shepherd: Spouse; protection; God; spiritual authority; covering; minister; Satan, when evil.",
+    "category": "People / Authority",
+    "keywords": [
+      "shepherd",
+      "spouse",
+      "protection",
+      "God",
+      "spiritual authority",
+      "minister",
+      "Satan"
+    ]
+  },
+  {
+    "symbol": "PATH",
+    "meaning": "Way: Life; private walk with God; gospel; salvation; error; misjudgement.",
+    "category": "Places / Way",
+    "keywords": [
+      "way",
+      "life",
+      "walk with God",
+      "gospel",
+      "salvation",
+      "error"
+    ]
+  },
+  {
+    "symbol": "PEN/PENCIL",
+    "meaning": "Tongue: Indelible words; covenant; agreement; contract; vow; publish; record; permanent; unforgettable; gossip.",
+    "category": "Objects / Words",
+    "keywords": [
+      "tongue",
+      "indelible words",
+      "covenant",
+      "record",
+      "permanent",
+      "gossip"
+    ]
+  },
+  {
+    "symbol": "PERFUME",
+    "meaning": "Influence: Seduction; enticement; temptation; persuasion; gossip; cover up evil.",
+    "category": "Objects / Negative",
+    "keywords": [
+      "influence",
+      "seduction",
+      "temptation",
+      "persuasion",
+      "gossip",
+      "cover up evil"
+    ]
+  },
+  {
+    "symbol": "PICKUP TRUCK",
+    "meaning": "Work: Personal ministry or natural work.",
+    "category": "Travel / Calling",
+    "keywords": [
+      "work",
+      "personal ministry",
+      "natural work"
+    ]
+  },
+  {
+    "symbol": "PICTURE",
+    "meaning": "Memory: Conscience; past experience; circumstance; imagination; a message within itself (as in “a picture is worth a thousand words”). Picture taken with an important person = Honour; promotion. Unusual picture frame = Attitude (as in “a peculiar frame of mind”); Old or antique frame = Time or age.",
+    "category": "Objects / State",
+    "keywords": [
+      "memory",
+      "conscience",
+      "past experience",
+      "imagination",
+      "message"
+    ]
+  },
+  {
+    "symbol": "PIE",
+    "meaning": "Whole: Business endeavours; part of the action. Fruit pie = Fruit; work of service.",
+    "category": "Food / Work",
+    "keywords": [
+      "whole",
+      "business endeavours",
+      "fruit",
+      "work of service"
+    ]
+  },
+  {
+    "symbol": "PIG",
+    "meaning": "Unclean Spirit: Ignorant; sexual sin; dirty; rude; glutton; unbeliever; lazy.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "unclean spirit",
+      "ignorant",
+      "sexual sin",
+      "glutton",
+      "unbeliever",
+      "lazy"
+    ]
+  },
+  {
+    "symbol": "PILLS",
+    "meaning": "Remedy: Medication; drugs; influence; bitter.",
+    "category": "Objects / State",
+    "keywords": [
+      "remedy",
+      "medication",
+      "drugs",
+      "influence",
+      "bitter"
+    ]
+  },
+  {
+    "symbol": "PILOT",
+    "meaning": "Minister: Traveling minister; daring.",
+    "category": "People / Role",
+    "keywords": [
+      "minister",
+      "traveling minister",
+      "daring"
+    ]
+  },
+  {
+    "symbol": "PINEAPPLE",
+    "meaning": "Fruit: Fruitful; prosperity; Hawaii.",
+    "category": "Food / State",
+    "keywords": [
+      "fruit",
+      "fruitful",
+      "prosperity",
+      "Hawaii"
+    ]
+  },
+  {
+    "symbol": "PINK",
+    "meaning": "Flesh: Sensual; sensuous; immoral; moral; chaste; a baby girl.",
+    "category": "Colors / State",
+    "keywords": [
+      "flesh",
+      "sensual",
+      "immoral",
+      "moral",
+      "chaste",
+      "baby girl"
+    ]
+  },
+  {
+    "symbol": "PIPE",
+    "meaning": "Dignified: Pride.",
+    "category": "Objects / State",
+    "keywords": [
+      "dignified",
+      "pride"
+    ]
+  },
+  {
+    "symbol": "PLATFORM",
+    "meaning": "Stage: Entertain; preach; highlight; leadership opportunity; launch; start.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "stage",
+      "preach",
+      "leadership opportunity",
+      "launch",
+      "start"
+    ]
+  },
+  {
+    "symbol": "PLAY",
+    "meaning": "Worship: Idolatry; covetousness; spiritual warfare; striving; competition. Different games and aspects of games or sports will give further revelation, meaning, and clarity.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "worship",
+      "idolatry",
+      "covetousness",
+      "spiritual warfare",
+      "competition"
+    ]
+  },
+  {
+    "symbol": "POLICE",
+    "meaning": "Authority: Natural or spiritual authority, good or evil; protection; angels or demons; an enforcer of a curse of the law.",
+    "category": "People / Authority",
+    "keywords": [
+      "authority",
+      "protection",
+      "angels",
+      "demons",
+      "enforcer of law"
+    ]
+  },
+  {
+    "symbol": "POND",
+    "meaning": "Refreshing: Natural; peaceful; place to evangelize (fish).",
+    "category": "Places / State",
+    "keywords": [
+      "refreshing",
+      "peaceful",
+      "evangelize"
+    ]
+  },
+  {
+    "symbol": "POOL",
+    "meaning": "Spiritual place: Church; ministry; home, family; refreshing or revival center; God’s blessings. Dirty or dry pool or pond = Corrupt or destitute spiritual condition; backslidden; unclean; hidden sin or heart condition. Water stirring = Healing; spiritual movement or activity.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "spiritual place",
+      "church",
+      "ministry",
+      "revival center",
+      "God's blessings",
+      "hidden sin",
+      "healing"
+    ]
+  },
+  {
+    "symbol": "PORCH",
+    "meaning": "Protection: Past; exposed; revealed. Front porch = Future. Side porch = Current. Back porch = Past.",
+    "category": "Places / Time",
+    "keywords": [
+      "protection",
+      "exposed",
+      "revealed",
+      "future",
+      "current",
+      "past"
+    ]
+  },
+  {
+    "symbol": "POSTAGE STAMP",
+    "meaning": "Seal: Authority; authorization.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "seal",
+      "authority",
+      "authorization"
+    ]
+  },
+  {
+    "symbol": "POT/PAN/BOWL/PLATE",
+    "meaning": "Vessel: Doctrine; tradition; truth or person.",
+    "category": "Objects / Vessel",
+    "keywords": [
+      "vessel",
+      "doctrine",
+      "tradition",
+      "truth",
+      "person"
+    ]
+  },
+  {
+    "symbol": "PREACHER",
+    "meaning": "Messenger: God's representative; spiritual authority (good or evil) God or Satan. Pastor's Wife = Church or member; covenant partner.",
+    "category": "People / Role",
+    "keywords": [
+      "messenger",
+      "God's representative",
+      "spiritual authority",
+      "God",
+      "Satan",
+      "covenant partner"
+    ]
+  },
+  {
+    "symbol": "PREGNANCY",
+    "meaning": "In Process: Sin or righteousness in process; desire; anticipation; expectancy; promise on the way. Labour pains = Trials; travail; soon.",
+    "category": "State / Time",
+    "keywords": [
+      "in process",
+      "sin",
+      "righteousness",
+      "promise on the way",
+      "trials",
+      "soon"
+    ]
+  },
+  {
+    "symbol": "PRISON",
+    "meaning": "Bondage: Strong emotion; addiction; destructive behaviours and habits.",
+    "category": "Places / Negative",
+    "keywords": [
+      "bondage",
+      "strong emotion",
+      "addiction",
+      "destructive behaviours"
+    ]
+  },
+  {
+    "symbol": "PRISONERS",
+    "meaning": "Lost Souls: Stubborn sinners; persecuted saints; person in bondage or need of deliverance.",
+    "category": "People / State",
+    "keywords": [
+      "lost souls",
+      "stubborn sinners",
+      "persecuted saints",
+      "bondage",
+      "deliverance"
+    ]
+  },
+  {
+    "symbol": "PUMPKIN",
+    "meaning": "Witchcraft: Deception; snare; witch; trick.",
+    "category": "Plants / Negative",
+    "keywords": [
+      "witchcraft",
+      "deception",
+      "snare",
+      "witch",
+      "trick"
+    ]
+  },
+  {
+    "symbol": "PURPLE",
+    "meaning": "Royal: Rule (good or evil); majestic; noble.",
+    "category": "Colors / Authority",
+    "keywords": [
+      "royal",
+      "rule",
+      "majestic",
+      "noble"
+    ]
+  },
+  {
+    "symbol": "PURSE",
+    "meaning": "Treasure: Heart; personal identity; precious; valuable. When empty = Spiritually bankrupt.",
+    "category": "Objects / State",
+    "keywords": [
+      "treasure",
+      "heart",
+      "personal identity",
+      "valuable",
+      "spiritually bankrupt"
+    ]
+  },
+  {
+    "symbol": "RABBIT",
+    "meaning": "Increase: Fast growth; multiplication.",
+    "category": "Animals / State",
+    "keywords": [
+      "increase",
+      "fast growth",
+      "multiplication"
+    ]
+  },
+  {
+    "symbol": "RACCOON",
+    "meaning": "Mischief: Night raider; rascal; thief; bandit; deceitful.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "mischief",
+      "night raider",
+      "thief",
+      "deceitful"
+    ]
+  },
+  {
+    "symbol": "RADIO",
+    "meaning": "Unceasing: Continuous; contentious; unbelieving; tradition; news; the Gospel being broadcast; unrelenting; sound; signals. Truth; error; witness.",
+    "category": "Objects / Words",
+    "keywords": [
+      "unceasing",
+      "continuous",
+      "news",
+      "Gospel",
+      "signals",
+      "truth",
+      "error"
+    ]
+  },
+  {
+    "symbol": "RAFT",
+    "meaning": "Adrift: Without direction; aimless; powerless; makeshift.",
+    "category": "Objects / State",
+    "keywords": [
+      "adrift",
+      "without direction",
+      "aimless",
+      "powerless",
+      "makeshift"
+    ]
+  },
+  {
+    "symbol": "RAILING ON STAIRS OR PORCH",
+    "meaning": "Steady: Safety; barrier; boundary; protection.",
+    "category": "Objects / Protection",
+    "keywords": [
+      "steady",
+      "safety",
+      "barrier",
+      "boundary",
+      "protection"
+    ]
+  },
+  {
+    "symbol": "RAILROAD TRACK",
+    "meaning": "Tradition: Unchanging; habit; stubborn; Gospel; caution; danger; hindrance; parallel; unending works. Way or road of revival.",
+    "category": "Objects / Way",
+    "keywords": [
+      "tradition",
+      "unchanging",
+      "stubborn",
+      "Gospel",
+      "hindrance",
+      "unending works",
+      "revival"
+    ]
+  },
+  {
+    "symbol": "RAIN",
+    "meaning": "Life: Revival; Holy Spirit; Word of God; depression; trial; disappointment.",
+    "category": "Weather / Spirit",
+    "keywords": [
+      "life",
+      "revival",
+      "Holy Spirit",
+      "Word of God",
+      "depression",
+      "trial"
+    ]
+  },
+  {
+    "symbol": "RAINBOW",
+    "meaning": "Covenant: Promise; good; protection.",
+    "category": "Celestial / Covenant",
+    "keywords": [
+      "covenant",
+      "promise",
+      "good",
+      "protection"
+    ]
+  },
+  {
+    "symbol": "RAPE",
+    "meaning": "Violation: Abuse of authority; forcing one's will on another; hate; desire for revenge; murder.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "violation",
+      "abuse of authority",
+      "forcing will",
+      "hate",
+      "revenge",
+      "murder"
+    ]
+  },
+  {
+    "symbol": "RAPTURE",
+    "meaning": "Revival: Spiritual awakening; warning of unpreparedness if left behind; suddenly; unexpected rescue.",
+    "category": "Events / Spiritual",
+    "keywords": [
+      "revival",
+      "spiritual awakening",
+      "unpreparedness",
+      "sudden",
+      "rescue"
+    ]
+  },
+  {
+    "symbol": "RAT",
+    "meaning": "Unclean: Wicked person; devourer; plague; betrayer. (see MICE)",
+    "category": "Animals / Negative",
+    "keywords": [
+      "unclean",
+      "wicked person",
+      "devourer",
+      "plague",
+      "betrayer"
+    ]
+  },
+  {
+    "symbol": "REARVIEW MIRROR",
+    "meaning": "Legalism; Looking back; paranoia.",
+    "category": "Objects / State",
+    "keywords": [
+      "legalism",
+      "looking back",
+      "paranoia"
+    ]
+  },
+  {
+    "symbol": "RED",
+    "meaning": "Passion: Emotion; anger; hatred; lust; sin; enthusiasm; zeal.",
+    "category": "Colors / Emotion",
+    "keywords": [
+      "passion",
+      "emotion",
+      "anger",
+      "hatred",
+      "lust",
+      "sin",
+      "zeal"
+    ]
+  },
+  {
+    "symbol": "REED",
+    "meaning": "Weak: A spiritually weak person; opposition that comes through the weakness of the flesh; affliction.",
+    "category": "Plants / State",
+    "keywords": [
+      "weak",
+      "spiritually weak person",
+      "opposition",
+      "weakness of the flesh",
+      "affliction"
+    ]
+  },
+  {
+    "symbol": "REFRIGERATOR",
+    "meaning": "Heart: Motive; attitude; thoughts. Stored food = Memories stored in the heart. Spoiled food = Harbouring a grudge; unclean thoughts or desires.",
+    "category": "Objects / State",
+    "keywords": [
+      "heart",
+      "motive",
+      "attitude",
+      "thoughts",
+      "memories",
+      "grudge",
+      "unclean desires"
+    ]
+  },
+  {
+    "symbol": "REPAIR SHOP",
+    "meaning": "Ministry of Restoration: Restoration for ministries or individuals. Body shop = Place where people's characters and lives are molded in preparation for ministry.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "ministry of restoration",
+      "restoration",
+      "characters moulded"
+    ]
+  },
+  {
+    "symbol": "RESTAURANT",
+    "meaning": "Church: Ministry; teaching; meeting place; public; gathering place.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "church",
+      "ministry",
+      "teaching",
+      "gathering place"
+    ]
+  },
+  {
+    "symbol": "RIGHT",
+    "meaning": "Natural: Authority; power; the strength of man (flesh) or the power of God revealed through flesh; accepted.",
+    "category": "Direction / State",
+    "keywords": [
+      "natural",
+      "authority",
+      "power",
+      "strength of man",
+      "power of God",
+      "accepted"
+    ]
+  },
+  {
+    "symbol": "RIGHT TURN",
+    "meaning": "Natural Change: Power or strength of man; correct.",
+    "category": "Direction / Action",
+    "keywords": [
+      "natural change",
+      "power of man",
+      "correct"
+    ]
+  },
+  {
+    "symbol": "RING",
+    "meaning": "Covenant: Authority; eternity; unending; prestige. Wedding Ring = Covenant. Engagement Ring = Promise.",
+    "category": "Objects / Covenant",
+    "keywords": [
+      "covenant",
+      "authority",
+      "eternity",
+      "prestige",
+      "promise"
+    ]
+  },
+  {
+    "symbol": "RIVER",
+    "meaning": "Spirit or Life (the Spirit of God, the spirit of man, or the world): Sin; wickedness; judgment; righteousness; trial. Deep, wide, or muddy river = Difficulty; obstacle; impassable; incomprehensible. DRY RIVERBED – Barren: Tradition; backslidden condiTion; repented (as when Israel obeyed and crossed the Jordan\non dry ground after their forefathers refused to go in and possess the land).",
+    "category": "Places / Spirit",
+    "keywords": [
+      "spirit",
+      "life",
+      "sin",
+      "righteousness",
+      "trial",
+      "difficulty",
+      "obstacle"
+    ]
+  },
+  {
+    "symbol": "ROACHES",
+    "meaning": "Unclean spirit: Uncleanness; infestation; plague; hidden sin.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "unclean spirit",
+      "uncleanness",
+      "infestation",
+      "plague",
+      "hidden sin"
+    ]
+  },
+  {
+    "symbol": "ROAD",
+    "meaning": "Way: Christian life or walk. Types of road condition can provide added insight.",
+    "category": "Places / Way",
+    "keywords": [
+      "way",
+      "Christian life",
+      "walk",
+      "road condition"
+    ]
+  },
+  {
+    "symbol": "ROBBERY",
+    "meaning": "Theft: Stealing promise, blessing, or provision.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "theft",
+      "stealing promise",
+      "stealing blessing",
+      "stealing provision"
+    ]
+  },
+  {
+    "symbol": "ROCKET",
+    "meaning": "Power: Powerful ministry; swift progress; swift destruction; sudden, unexpected attack; war.",
+    "category": "Objects / Power",
+    "keywords": [
+      "power",
+      "powerful ministry",
+      "swift progress",
+      "destruction",
+      "sudden attack",
+      "war"
+    ]
+  },
+  {
+    "symbol": "ROCKING CHAIR",
+    "meaning": "Past Memories: Meditation; retirement; rest.",
+    "category": "Objects / Time",
+    "keywords": [
+      "past memories",
+      "meditation",
+      "retirement",
+      "rest"
+    ]
+  },
+  {
+    "symbol": "ROLLER COASTER",
+    "meaning": "Unstable: Emotional instability; unfaithfulness; wavering; depression; trials; excitement.Unstable: Emotional instability; unfaithfulness; wavering; manic-depressive; bipolar; depression; trials; excitement.",
+    "category": "Actions / State",
+    "keywords": [
+      "unstable",
+      "emotional instability",
+      "unfaithfulness",
+      "depression",
+      "trials",
+      "excitement"
+    ]
+  },
+  {
+    "symbol": "ROLLER SKATES",
+    "meaning": "Speed: Fast; swift advancement or progress; skillful.",
+    "category": "Actions / State",
+    "keywords": [
+      "speed",
+      "fast",
+      "swift advancement",
+      "skillful"
+    ]
+  },
+  {
+    "symbol": "ROOF",
+    "meaning": "Covering: Protection; mind; thought; oversight; government or covenant (good or evil); Holy Spirit.",
+    "category": "Places / Authority",
+    "keywords": [
+      "covering",
+      "protection",
+      "mind",
+      "government",
+      "covenant",
+      "Holy Spirit"
+    ]
+  },
+  {
+    "symbol": "ROOFTOP",
+    "meaning": "Revealed: Manifest.",
+    "category": "Places / State",
+    "keywords": [
+      "revealed",
+      "manifest"
+    ]
+  },
+  {
+    "symbol": "ROOSTER",
+    "meaning": "Boasting: Bragging; proud.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "boasting",
+      "bragging",
+      "proud"
+    ]
+  },
+  {
+    "symbol": "ROOT",
+    "meaning": "Attitude: Hidden sin; right and wrong attitudes or values; hidden cause or source; giving strength and stability.",
+    "category": "Plants / State",
+    "keywords": [
+      "attitude",
+      "hidden sin",
+      "values",
+      "hidden cause",
+      "strength",
+      "stability"
+    ]
+  },
+  {
+    "symbol": "ROPE/CORD",
+    "meaning": "Bondage: Sin; covenant; vow; hindrances; rescue; salvation.",
+    "category": "Objects / State",
+    "keywords": [
+      "bondage",
+      "sin",
+      "covenant",
+      "vow",
+      "hindrances",
+      "rescue",
+      "salvation"
+    ]
+  },
+  {
+    "symbol": "ROSE",
+    "meaning": "Romance: Love; courtship. Red rose = Passion. Yellow rose garden = Marriage counseling.",
+    "category": "Plants / Emotion",
+    "keywords": [
+      "romance",
+      "love",
+      "courtship",
+      "passion",
+      "marriage counseling"
+    ]
+  },
+  {
+    "symbol": "ROUND (SHAPE)",
+    "meaning": "Spiritual: Grace; mercy; compassion; forgiveness; approximate; unending; continuous work.",
+    "category": "State / Spiritual",
+    "keywords": [
+      "spiritual",
+      "grace",
+      "mercy",
+      "compassion",
+      "unending",
+      "continuous work"
+    ]
+  },
+  {
+    "symbol": "ROWBOAT",
+    "meaning": "Small Ministry or Life: Man's power; striving.",
+    "category": "Travel / Calling",
+    "keywords": [
+      "small ministry",
+      "man's power",
+      "striving"
+    ]
+  },
+  {
+    "symbol": "ROWING",
+    "meaning": "Work: Working out life's problems; earnest prayer; spiritual labour. (see BICYCLE)",
+    "category": "Actions / Work",
+    "keywords": [
+      "work",
+      "life's problems",
+      "earnest prayer",
+      "spiritual labour"
+    ]
+  },
+  {
+    "symbol": "RUG",
+    "meaning": "Covering: Covenant; Holy Spirit; deception or covering things up.",
+    "category": "Objects / State",
+    "keywords": [
+      "covering",
+      "covenant",
+      "Holy Spirit",
+      "deception"
+    ]
+  },
+  {
+    "symbol": "RUNNING",
+    "meaning": "Striving: Working out one's salvation; faith; haste; trial.",
+    "category": "Actions / State",
+    "keywords": [
+      "striving",
+      "working out salvation",
+      "faith",
+      "haste",
+      "trial"
+    ]
+  },
+  {
+    "symbol": "RUT",
+    "meaning": "Tradition: Habit; addiction.",
+    "category": "Places / Negative",
+    "keywords": [
+      "tradition",
+      "habit",
+      "addiction"
+    ]
+  },
+  {
+    "symbol": "SABOTAGE",
+    "meaning": "Hindrance: Demonic spirits working against you, hindering God's will or fulfillment for your life.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "hindrance",
+      "demonic spirits",
+      "hindering God's will"
+    ]
+  },
+  {
+    "symbol": "SALT",
+    "meaning": "Seasoning or Preservative: Covenant; acceptable; memorial; rejected.",
+    "category": "Objects / State",
+    "keywords": [
+      "seasoning",
+      "preservative",
+      "covenant",
+      "acceptable",
+      "rejected"
+    ]
+  },
+  {
+    "symbol": "SALTWATER",
+    "meaning": "Spirit of the World: Unclean; source of evil.",
+    "category": "Places / Negative",
+    "keywords": [
+      "spirit of the world",
+      "unclean",
+      "source of evil"
+    ]
+  },
+  {
+    "symbol": "SAND",
+    "meaning": "Flesh: Improper foundation; weakness; weariness; drudgery; hindrance. (see SEACOAST)",
+    "category": "Elements / State",
+    "keywords": [
+      "flesh",
+      "improper foundation",
+      "weakness",
+      "weariness",
+      "hindrance"
+    ]
+  },
+  {
+    "symbol": "SCALES",
+    "meaning": "Justice: Judgment; balance; fair; true; wisdom; law.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "justice",
+      "judgment",
+      "balance",
+      "wisdom",
+      "law"
+    ]
+  },
+  {
+    "symbol": "SCHOOL",
+    "meaning": "Teaching or Learning: Church; people or work; teaching ministry; training.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "teaching",
+      "learning",
+      "church",
+      "teaching ministry",
+      "training"
+    ]
+  },
+  {
+    "symbol": "SCHOOL BUS",
+    "meaning": "Church: School; youth group; children's ministry.",
+    "category": "Travel / Ministry",
+    "keywords": [
+      "church",
+      "school",
+      "youth group",
+      "children's ministry"
+    ]
+  },
+  {
+    "symbol": "SCORPION",
+    "meaning": "Sin Nature: Lust of the flesh; temptation; deception; accusation; destruction; danger; deadly.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "sin nature",
+      "lust of the flesh",
+      "temptation",
+      "deception",
+      "destruction",
+      "danger"
+    ]
+  },
+  {
+    "symbol": "SEA",
+    "meaning": "Humanity: People; nations; gentiles; barrier.",
+    "category": "Places / People",
+    "keywords": [
+      "humanity",
+      "people",
+      "nations",
+      "gentiles",
+      "barrier"
+    ]
+  },
+  {
+    "symbol": "SEACOAST",
+    "meaning": "Boundary: Heart or soul; flesh; limitations.",
+    "category": "Places / Limits",
+    "keywords": [
+      "boundary",
+      "heart",
+      "soul",
+      "flesh",
+      "limitations"
+    ]
+  },
+  {
+    "symbol": "SEAL",
+    "meaning": "Authority; closed; protected; final. Specialized military unit (Navy SEALS) = Undercover, special tactics; elite; spiritual warfare.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "authority",
+      "closed",
+      "protected",
+      "final",
+      "spiritual warfare",
+      "elite"
+    ]
+  },
+  {
+    "symbol": "SEAT BELT",
+    "meaning": "Security: Safety; assurance. Unfastened = Unsafe (lack of prayer, commitment, attention to detail; rebellion or error.).",
+    "category": "Objects / Protection",
+    "keywords": [
+      "security",
+      "safety",
+      "assurance",
+      "unsafe",
+      "lack of commitment",
+      "rebellion"
+    ]
+  },
+  {
+    "symbol": "SEED",
+    "meaning": "Word: Word of God; saints; faith; word of man; revealing the heart; Christ; fullness of iniquity. Offering; multiplication; preparation for and expectation of the harvest; duplication; anointing.",
+    "category": "Objects / Word",
+    "keywords": [
+      "word",
+      "Word of God",
+      "faith",
+      "offering",
+      "multiplication",
+      "harvest",
+      "anointing"
+    ]
+  },
+  {
+    "symbol": "SEESAW/TEETER-TOTTER",
+    "meaning": "Balance: Up and down; back and forth; try; double-minded; innocent.",
+    "category": "Objects / State",
+    "keywords": [
+      "balance",
+      "up and down",
+      "double-minded",
+      "try"
+    ]
+  },
+  {
+    "symbol": "SEWAGE",
+    "meaning": "Corruption: Filthiness of the flesh; sin; evil; corrupt authority; abuse of authority; waste.",
+    "category": "Objects / Negative",
+    "keywords": [
+      "corruption",
+      "filthiness of the flesh",
+      "sin",
+      "corrupt authority",
+      "abuse of authority"
+    ]
+  },
+  {
+    "symbol": "SEWING",
+    "meaning": "Joining: Union; reunion; counseling; reconciliation.",
+    "category": "Actions / Relationship",
+    "keywords": [
+      "joining",
+      "union",
+      "reunion",
+      "counseling",
+      "reconciliation"
+    ]
+  },
+  {
+    "symbol": "SEX",
+    "meaning": "Agreement: Covenant; unity; taken advantage of or “used”; abuse of authority. When naturally interpreted = Love or fornication. Masturbation = Self-gratification; inordinate self-love; selfishness; wasting your seed. Genitals = Secret; private matter; shame.",
+    "category": "Actions / Relationship",
+    "keywords": [
+      "agreement",
+      "covenant",
+      "unity",
+      "abuse of authority",
+      "love",
+      "fornication",
+      "self-gratification"
+    ]
+  },
+  {
+    "symbol": "SHAVING",
+    "meaning": "Cleansing: Repentance.",
+    "category": "Actions / Change",
+    "keywords": [
+      "cleansing",
+      "repentance"
+    ]
+  },
+  {
+    "symbol": "SHEEP",
+    "meaning": "Innocent: Saints; unsaved persons; easily led; not self-directed; children of God; members of a church. Lamb = Sacrifice",
+    "category": "Animals / People",
+    "keywords": [
+      "innocent",
+      "saints",
+      "unsaved persons",
+      "easily led",
+      "children of God",
+      "sacrifice"
+    ]
+  },
+  {
+    "symbol": "SHIP",
+    "meaning": "Life or Ministry: Vessel. Type and size of ship will give more clarity. (e.g., ocean liner, party boat, tugboat, barge).",
+    "category": "Travel / Calling",
+    "keywords": [
+      "life",
+      "ministry",
+      "vessel",
+      "ship type"
+    ]
+  },
+  {
+    "symbol": "SHIRT",
+    "meaning": "Covering or Protection: Heart = Righteousness or sin. Without a shirt = Self-righteousness (self-justification); legalism; shame; temptation; seduction, lust of the flesh.",
+    "category": "Clothing / State",
+    "keywords": [
+      "covering",
+      "protection",
+      "righteousness",
+      "sin",
+      "self-righteousness",
+      "temptation",
+      "lust of the flesh"
+    ]
+  },
+  {
+    "symbol": "SHOES/BOOTS",
+    "meaning": "Words: Gospel; covenant; preparation. New shoes = New ministry or way of life. House slippers = Self-examination. Loafers = Casual; at ease; unconcern; hypocrisy; loafing. Combat or heavy boots = Spiritual warfare. Steel-toed boots = Protection. (See FEET)",
+    "category": "Clothing / Ministry",
+    "keywords": [
+      "words",
+      "Gospel",
+      "covenant",
+      "preparation",
+      "new ministry",
+      "spiritual warfare",
+      "protection"
+    ]
+  },
+  {
+    "symbol": "SHOULDERS",
+    "meaning": "Support: Bearer; government; authority; responsibility; stubborn. Broad shoulders = Strength; consolation. Drooped shoulders = Tired; overburdened; discouraged; hopelessness. Bare female shoulders = Seduction; temptation; witchcraft.",
+    "category": "Body / Authority",
+    "keywords": [
+      "support",
+      "government",
+      "authority",
+      "responsibility",
+      "stubborn",
+      "discouraged",
+      "seduction",
+      "temptation"
+    ]
+  },
+  {
+    "symbol": "SHOVEL",
+    "meaning": "Tongue: Prayer; confession; gossip; slander; dig; search; inquire.",
+    "category": "Objects / Words",
+    "keywords": [
+      "tongue",
+      "prayer",
+      "confession",
+      "gossip",
+      "slander",
+      "search"
+    ]
+  },
+  {
+    "symbol": "SHOWER",
+    "meaning": "Cleansing: Repentance; deliverance; refreshing; revival.",
+    "category": "Actions / Change",
+    "keywords": [
+      "cleansing",
+      "repentance",
+      "deliverance",
+      "refreshing",
+      "revival"
+    ]
+  },
+  {
+    "symbol": "SIGN",
+    "meaning": "Directions: Stop sign = Stop. Yield sign = Yield. Detour sign = Change of Direction. Intersection sign= Decision or change. Keep off the grass = Give no man offence; Boundary; limit.",
+    "category": "Objects / Guidance",
+    "keywords": [
+      "directions",
+      "stop",
+      "yield",
+      "change of direction",
+      "decision",
+      "boundary"
+    ]
+  },
+  {
+    "symbol": "SILVER",
+    "meaning": "Knowledge: Wealth; power; worldly; redemption; revelation knowledge.",
+    "category": "Objects / State",
+    "keywords": [
+      "knowledge",
+      "wealth",
+      "power",
+      "worldly",
+      "redemption",
+      "revelation knowledge"
+    ]
+  },
+  {
+    "symbol": "SISTER",
+    "meaning": "Self: Natural or spiritual sister; someone she reminds you of (same name, initials, character, etc.) the Church.",
+    "category": "People / Relationship",
+    "keywords": [
+      "self",
+      "natural sister",
+      "spiritual sister",
+      "Church"
+    ]
+  },
+  {
+    "symbol": "SISTER-IN-LAW",
+    "meaning": "Someone she reminds you of or she may represent her family, herself, or woman minister or church. Other possibilities are: Your brother’s wife = Spiritual or natural.",
+    "category": "People / Relationship",
+    "keywords": [
+      "reminder",
+      "family",
+      "woman minister",
+      "church"
+    ]
+  },
+  {
+    "symbol": "SKATEBOARD",
+    "meaning": "Balance: Skillful maneuvering; skillful ministry; risky; danger; fast; moving in the Spirit; free-spirited.",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "balance",
+      "skillful ministry",
+      "risky",
+      "fast",
+      "moving in the Spirit",
+      "free-spirited"
+    ]
+  },
+  {
+    "symbol": "SKIING (WATER or SNOW SKIING)",
+    "meaning": "Faith: Supported by God's power through faith; fast progress. Flowing in the Spirit; worshiping.",
+    "category": "Actions / Spirit",
+    "keywords": [
+      "faith",
+      "God's power",
+      "fast progress",
+      "flowing in the Spirit",
+      "worshiping"
+    ]
+  },
+  {
+    "symbol": "SKIRT",
+    "meaning": "Covering: Natural or spiritual; protection; covering shame or embarrassment; grace. (see CLOTHING)",
+    "category": "Clothing / Protection",
+    "keywords": [
+      "covering",
+      "protection",
+      "shame",
+      "grace"
+    ]
+  },
+  {
+    "symbol": "SLEEP",
+    "meaning": "Unconscious: Unaware; hidden or covered; ignorant; danger; death; rest; laziness.",
+    "category": "State / Negative",
+    "keywords": [
+      "unconscious",
+      "unaware",
+      "ignorant",
+      "danger",
+      "death",
+      "rest",
+      "laziness"
+    ]
+  },
+  {
+    "symbol": "SLOTHFUL",
+    "meaning": "Lazy: Lethargic; lifeless; slow; without energy or motive; aimless.",
+    "category": "State / Negative",
+    "keywords": [
+      "lazy",
+      "lethargic",
+      "lifeless",
+      "without energy",
+      "aimless"
+    ]
+  },
+  {
+    "symbol": "SMILE",
+    "meaning": "Friendly: Kindness; benevolent; greeting; goodwill; without offense; seduction.",
+    "category": "Actions / Emotion",
+    "keywords": [
+      "friendly",
+      "kindness",
+      "goodwill",
+      "without offense",
+      "seduction"
+    ]
+  },
+  {
+    "symbol": "SMOKE",
+    "meaning": "Manifest Presence: Evidence (as in “where there’s smoke, there’s fire”); glory of God; prayer; lying or boasting; offense; temporary; cover-up.",
+    "category": "Elements / State",
+    "keywords": [
+      "manifest presence",
+      "glory of God",
+      "prayer",
+      "lying",
+      "boasting",
+      "cover-up"
+    ]
+  },
+  {
+    "symbol": "SMOKE DETECTOR",
+    "meaning": "Alarm: Protection; safety. When sounding = Warning; impending danger.",
+    "category": "Objects / Warning",
+    "keywords": [
+      "alarm",
+      "protection",
+      "safety",
+      "warning",
+      "impending danger"
+    ]
+  },
+  {
+    "symbol": "SMOKING",
+    "meaning": "Pride: Smoking cigarettes = Pride or bitterness; bitter memories; offense; unforgiving; envy; jealousy; self-righteousness. Smoking a cigar = Haughty; arrogant; boastful. Smoking a pipe = Intellectual; pride; dignitary.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "pride",
+      "bitterness",
+      "offense",
+      "unforgiving",
+      "envy",
+      "self-righteousness",
+      "haughty",
+      "arrogant"
+    ]
+  },
+  {
+    "symbol": "SNAKE",
+    "meaning": "Curse: Demon; deception; threat; danger; hatred; slander; critical spirit; witchcraft. Fangs = Evil intent; danger. Rattles = Words; threats; warning; alarm.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "curse",
+      "demon",
+      "deception",
+      "danger",
+      "hatred",
+      "slander",
+      "witchcraft",
+      "evil intent",
+      "warning"
+    ]
+  },
+  {
+    "symbol": "SNOW",
+    "meaning": "Word: White snow = Pure; grace; covered; unrevealed; unfulfilled. Dirty snow = Impure. Snowdrift = Barrier; hindrance; opposition; snare.",
+    "category": "Weather / State",
+    "keywords": [
+      "word",
+      "pure",
+      "grace",
+      "covered",
+      "impure",
+      "barrier",
+      "hindrance",
+      "opposition"
+    ]
+  },
+  {
+    "symbol": "SNOWSHOES",
+    "meaning": "Faith: Walking in the Spirit; supported by faith in the Word of God.",
+    "category": "Objects / Spirit",
+    "keywords": [
+      "faith",
+      "walking in the Spirit",
+      "supported by faith",
+      "Word of God"
+    ]
+  },
+  {
+    "symbol": "SOAP",
+    "meaning": "Cleansing: Conviction; forgiveness; prayer; repentance.",
+    "category": "Objects / Change",
+    "keywords": [
+      "cleansing",
+      "conviction",
+      "forgiveness",
+      "prayer",
+      "repentance"
+    ]
+  },
+  {
+    "symbol": "SOCKS",
+    "meaning": "Covering (Same as UNDERGARMENTS): Socks without shoes = Without full preparation. White socks = Pure heart. Black or dirty socks = Impure heart.",
+    "category": "Clothing / State",
+    "keywords": [
+      "covering",
+      "intimate",
+      "protection",
+      "pure heart",
+      "impure heart"
+    ]
+  },
+  {
+    "symbol": "SOLDIER",
+    "meaning": "Warfare: Spiritual warfare; angel (protection); demon (accuser or opponent): persecution. (see GUNS/BULLETS)",
+    "category": "People / Warfare",
+    "keywords": [
+      "warfare",
+      "spiritual warfare",
+      "angel",
+      "demon",
+      "persecution"
+    ]
+  },
+  {
+    "symbol": "SON",
+    "meaning": "Spiritual or Natural Son: One with same or similar name, initials, characteristics, or career; oneself.",
+    "category": "People / Relationship",
+    "keywords": [
+      "spiritual son",
+      "natural son",
+      "oneself",
+      "characteristics"
+    ]
+  },
+  {
+    "symbol": "SOUTH",
+    "meaning": "Natural: World; sin; temptation; trial; flesh; corruption; deception or the natural south in direction; Mexico, south of the border.",
+    "category": "Direction / Negative",
+    "keywords": [
+      "natural",
+      "world",
+      "sin",
+      "temptation",
+      "trial",
+      "flesh",
+      "corruption",
+      "deception",
+      "Mexico"
+    ]
+  },
+  {
+    "symbol": "SPORTING EVENTS",
+    "meaning": "Ministry Work in Progress: Competition; striving for victory; team concept. If spectator = Watching or observing some event of life or ministry; unfolding. Excited for = Encouraging or cheering one on. Events within the event = Penalty; score; equipment failure. Coach = Teacher; helper.",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "ministry work",
+      "competition",
+      "striving for victory",
+      "team concept",
+      "spectator",
+      "observing"
+    ]
+  },
+  {
+    "symbol": "SPIDER (WEB)",
+    "meaning": "Evil: Sin; deception; false doctrine; temptation; snare; lies; entanglement; setting a trap. BLACK WIDOW – Danger: Great danger; deadly; evil; slander.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "evil",
+      "sin",
+      "deception",
+      "false doctrine",
+      "temptation",
+      "snare",
+      "lies",
+      "trap"
+    ]
+  },
+  {
+    "symbol": "SPRING",
+    "meaning": "(New) Beginning: Revival; fresh start; renewal; forward; regeneration; salvation; refreshing. Start of a church ministry or season.",
+    "category": "Time / Beginning",
+    "keywords": [
+      "new beginning",
+      "revival",
+      "fresh start",
+      "renewal",
+      "regeneration",
+      "salvation",
+      "refreshing"
+    ]
+  },
+  {
+    "symbol": "SQUARE (SHAPE)",
+    "meaning": "Legalistic: Religious or religion (speaking the truth without love); no mercy; hard or harsh; of the world; box or limit.",
+    "category": "State / Negative",
+    "keywords": [
+      "legalistic",
+      "religious",
+      "no mercy",
+      "hard",
+      "harsh",
+      "limit"
+    ]
+  },
+  {
+    "symbol": "STAIRS",
+    "meaning": "Promotion: Ambition (self-promotion); procedure. Stairs going down = Demotion; backslide; failure. Guardrail = Safety; precaution; warning to be careful.",
+    "category": "Objects / State",
+    "keywords": [
+      "promotion",
+      "ambition",
+      "demotion",
+      "backslide",
+      "safety",
+      "warning"
+    ]
+  },
+  {
+    "symbol": "STAR",
+    "meaning": "Person: Christian; apostle; saint; preacher; minister; angel; leader or role model; hero or movie star.",
+    "category": "Celestial / People",
+    "keywords": [
+      "person",
+      "Christian",
+      "apostle",
+      "preacher",
+      "minister",
+      "angel",
+      "leader",
+      "hero"
+    ]
+  },
+  {
+    "symbol": "STONE",
+    "meaning": "Word: Building block; individual church member; testimony; person; precept; condemnation; accusation; persecution; punishment.",
+    "category": "Objects / Word",
+    "keywords": [
+      "word",
+      "building block",
+      "church member",
+      "testimony",
+      "condemnation",
+      "persecution"
+    ]
+  },
+  {
+    "symbol": "STORK",
+    "meaning": "Expectant: New birth; new baby; new experience; that which is forthcoming; delivery of blessings or message or promise.",
+    "category": "Animals / State",
+    "keywords": [
+      "expectant",
+      "new birth",
+      "new baby",
+      "forthcoming",
+      "delivery of blessings",
+      "promise"
+    ]
+  },
+  {
+    "symbol": "STORM",
+    "meaning": "Disturbance: Change; spiritual warfare; judgment; sudden calamity or destruction; trial; persecution; opposition; witchcraft. White storm = God's power; revival.",
+    "category": "Weather / Warfare",
+    "keywords": [
+      "disturbance",
+      "change",
+      "spiritual warfare",
+      "judgment",
+      "destruction",
+      "trial",
+      "opposition",
+      "God's power",
+      "revival"
+    ]
+  },
+  {
+    "symbol": "STOVE",
+    "meaning": "Something Cooking: Thought; imagination; heart.",
+    "category": "Objects / State",
+    "keywords": [
+      "something cooking",
+      "thought",
+      "imagination",
+      "heart"
+    ]
+  },
+  {
+    "symbol": "STRAIGHT",
+    "meaning": "Spiritual Progression: Righteousness; walking in alignment; sound doctrine.",
+    "category": "State / Spiritual",
+    "keywords": [
+      "spiritual progression",
+      "righteousness",
+      "alignment",
+      "sound doctrine"
+    ]
+  },
+  {
+    "symbol": "STREET",
+    "meaning": "Way: Christian walk; size of construction and other factors will help to determine meaning.",
+    "category": "Places / Way",
+    "keywords": [
+      "way",
+      "Christian walk",
+      "construction",
+      "factors"
+    ]
+  },
+  {
+    "symbol": "STUMBLE",
+    "meaning": "Fail: Sin; backslide; mistake; become deceived; to be overcome; obstacle; ignorance.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "fail",
+      "sin",
+      "backslide",
+      "mistake",
+      "deceived",
+      "overcome",
+      "obstacle",
+      "ignorance"
+    ]
+  },
+  {
+    "symbol": "STUMP",
+    "meaning": "A Person: Life or ministry that has been cut down; no life; memory of what once was; repentance; judgment.",
+    "category": "Plants / State",
+    "keywords": [
+      "person",
+      "life cut down",
+      "no life",
+      "memory",
+      "repentance",
+      "judgment"
+    ]
+  },
+  {
+    "symbol": "SUGAR",
+    "meaning": "Sweetener: Power; anointing; pleasant experience. When negative: deception (as in \"sugar-coating the truth\")",
+    "category": "Food / Spirit",
+    "keywords": [
+      "sweetener",
+      "power",
+      "anointing",
+      "pleasant experience"
+    ]
+  },
+  {
+    "symbol": "SUICIDE",
+    "meaning": "Self-destruction: Self-hatred; grief; remorse; foolish action; selfish; error; self-inflicted; judgment.",
+    "category": "Actions / Negative",
+    "keywords": [
+      "self-destruction",
+      "self-hatred",
+      "grief",
+      "foolish action",
+      "selfish",
+      "judgment"
+    ]
+  },
+  {
+    "symbol": "SUITCASE",
+    "meaning": "Personal: Heart; travel; move; temporary (as in, \"living out of a suitcase\").",
+    "category": "Objects / State",
+    "keywords": [
+      "personal",
+      "heart",
+      "travel",
+      "move",
+      "temporary"
+    ]
+  },
+  {
+    "symbol": "SUMMER",
+    "meaning": "Growing Season: Turning up the heat; long days; slow days; trial; heat of affliction. (see SUN)",
+    "category": "Time / Season",
+    "keywords": [
+      "growing season",
+      "turning up the heat",
+      "trial",
+      "affliction"
+    ]
+  },
+  {
+    "symbol": "SUN",
+    "meaning": "God: Light; goodness; affliction; persecution; trial; god of this world; idol worship.",
+    "category": "Celestial / Role",
+    "keywords": [
+      "God",
+      "light",
+      "goodness",
+      "affliction",
+      "persecution",
+      "trial",
+      "idol worship"
+    ]
+  },
+  {
+    "symbol": "SWEEPING",
+    "meaning": "Cleaning: Repentance; change (as in “a sweeping change”); removing obstacles; rebuking evildoers; all, encompassing move; wide turn; risky decision.",
+    "category": "Actions / Change",
+    "keywords": [
+      "cleaning",
+      "repentance",
+      "sweeping change",
+      "removing obstacles",
+      "rebuking evildoers",
+      "risky decision"
+    ]
+  },
+  {
+    "symbol": "SWIMMING",
+    "meaning": "Spiritual: Serving God; worshiping; operating in the gifts of the Spirit; prophesying. Working or striving; competition when appropriate.",
+    "category": "Actions / Spirit",
+    "keywords": [
+      "spiritual",
+      "serving God",
+      "worshiping",
+      "gifts of the Spirit",
+      "prophesying",
+      "striving"
+    ]
+  },
+  {
+    "symbol": "SWINE",
+    "meaning": "Unclean: Selfish; backslider; unbeliever; glutton; fornicator; hypocrite; idolater.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "unclean",
+      "selfish",
+      "backslider",
+      "unbeliever",
+      "glutton",
+      "hypocrite",
+      "idolater"
+    ]
+  },
+  {
+    "symbol": "SWING",
+    "meaning": "Peaceful: Rest; quietness; romance; fellowship. Swinging high (park swing) = Danger; immorality; infidelity; risky thrill-seeking; double-minded; back and forth.",
+    "category": "Actions / State",
+    "keywords": [
+      "peaceful",
+      "rest",
+      "romance",
+      "fellowship",
+      "danger",
+      "immorality",
+      "risky thrill",
+      "double-minded"
+    ]
+  },
+  {
+    "symbol": "SWORD",
+    "meaning": "Sharp Words: Word of God; weapon of honour; critical words; personal attack or conflict; evil intent; threat; strife; war; persecution.",
+    "category": "Objects / Warfare",
+    "keywords": [
+      "sharp words",
+      "Word of God",
+      "weapon",
+      "critical words",
+      "attack",
+      "strife",
+      "persecution"
+    ]
+  },
+  {
+    "symbol": "TABLE",
+    "meaning": "Communion: Agreement; covenant; conference; provision. Under the table = Deceitful dealings; hidden motives; evil intent.",
+    "category": "Objects / Covenant",
+    "keywords": [
+      "communion",
+      "agreement",
+      "covenant",
+      "provision",
+      "deceitful dealings",
+      "hidden motives"
+    ]
+  },
+  {
+    "symbol": "TAIL",
+    "meaning": "Last in Time, Rank or Importance: That which follows; afterward; least. Wagging tail = Friendly. Tucked tail = Guilt, shame; cowardly.",
+    "category": "Body / State",
+    "keywords": [
+      "last",
+      "least",
+      "friendly",
+      "guilt",
+      "shame",
+      "cowardly"
+    ]
+  },
+  {
+    "symbol": "TAN",
+    "meaning": "Death: Dull; without power or purpose.",
+    "category": "Colors / State",
+    "keywords": [
+      "death",
+      "dull",
+      "without power",
+      "without purpose"
+    ]
+  },
+  {
+    "symbol": "TAR",
+    "meaning": "Covering: Repair; patch bitterness; offense; hatred; grudge.",
+    "category": "Objects / Negative",
+    "keywords": [
+      "covering",
+      "repair",
+      "patch",
+      "bitterness",
+      "offense",
+      "hatred",
+      "grudge"
+    ]
+  },
+  {
+    "symbol": "TASTING",
+    "meaning": "Experience: Discern; try; test; judge.",
+    "category": "Actions / State",
+    "keywords": [
+      "experience",
+      "discern",
+      "try",
+      "test",
+      "judge"
+    ]
+  },
+  {
+    "symbol": "TEA",
+    "meaning": "Refreshing: Grace; good news; salvation; time of refreshing; revival. English; proper; break; fellowship or rest.",
+    "category": "Food / State",
+    "keywords": [
+      "refreshing",
+      "grace",
+      "good news",
+      "salvation",
+      "revival",
+      "fellowship",
+      "rest"
+    ]
+  },
+  {
+    "symbol": "TEARS",
+    "meaning": "Grief: Sorrow; anguish; repentance; prayer; judgment; joy; cleansing.",
+    "category": "Actions / Emotion",
+    "keywords": [
+      "grief",
+      "sorrow",
+      "anguish",
+      "repentance",
+      "prayer",
+      "joy",
+      "cleansing"
+    ]
+  },
+  {
+    "symbol": "TEETER-TOTTER",
+    "meaning": "Up and Down: Unstable; unsure; procrastinator; not able to make decisions.",
+    "category": "Objects / State",
+    "keywords": [
+      "up and down",
+      "unstable",
+      "unsure",
+      "procrastinator",
+      "no decisions"
+    ]
+  },
+  {
+    "symbol": "TEETH",
+    "meaning": "Experience: Work; meditate (as in “to chew up”). Brushing Teeth = Cleaning one’s thoughts or words; meditation. Animal Teeth (when an animal in the dream bares its teeth) = Danger. BABY TEETH – Immaturity: Without experience; without wisdom or knowledge; innocent. FALSE TEETH – False Doctrine/False Wisdom or Knowledge: Worldly logic; tradition; error. Wisdom or knowledge gained through experience or previous failures; logical reasoning; without wisdom.",
+    "category": "Body / State",
+    "keywords": [
+      "experience",
+      "work",
+      "meditate",
+      "cleaning thoughts",
+      "words",
+      "danger"
+    ]
+  },
+  {
+    "symbol": "TELEPHONE",
+    "meaning": "Communication: Prayer; message from God; counsel; gossip. Phone inoperative or busy = Prayer hindered; interference, lack of revelation or prayer; busyness.",
+    "category": "Objects / Communication",
+    "keywords": [
+      "communication",
+      "prayer",
+      "message from God",
+      "counsel",
+      "gossip",
+      "prayer hindered",
+      "lack of revelation"
+    ]
+  },
+  {
+    "symbol": "TELESCOPE",
+    "meaning": "Future: Prophetic vision of the future; at a distance; far away in time.",
+    "category": "Objects / Vision",
+    "keywords": [
+      "future",
+      "prophetic vision",
+      "far away in time"
+    ]
+  },
+  {
+    "symbol": "TELEVISION",
+    "meaning": "Vision: Message; prophecy; preaching; news; evil influence; wickedness.",
+    "category": "Media / Vision",
+    "keywords": [
+      "vision",
+      "message",
+      "prophecy",
+      "preaching",
+      "news",
+      "evil influence"
+    ]
+  },
+  {
+    "symbol": "TENNIS GAME",
+    "meaning": "Worship: Play; sports; individual ministry. Back and forth (depending which side of the net the ball is on); decision (as in “the ball is in your court).”",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "worship",
+      "play",
+      "sports",
+      "individual ministry",
+      "back and forth",
+      "decision"
+    ]
+  },
+  {
+    "symbol": "TERMITES",
+    "meaning": "Corruption: Hidden destruction; secret sin; deception; demon spirits.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "corruption",
+      "hidden destruction",
+      "secret sin",
+      "deception",
+      "demon spirits"
+    ]
+  },
+  {
+    "symbol": "TEST (EXAM)",
+    "meaning": "Trial: Examination; opportunity for promotion; God could be testing you; difficult season; stretching; temptation.",
+    "category": "Events / State",
+    "keywords": [
+      "trial",
+      "examination",
+      "promotion opportunity",
+      "testing",
+      "difficult season",
+      "temptation"
+    ]
+  },
+  {
+    "symbol": "THIEF",
+    "meaning": "Hidden: Deceiver, deception; fraud; destruction; Satan; evil intent; works of the flesh; unexpected loss.",
+    "category": "People / Negative",
+    "keywords": [
+      "hidden",
+      "deceiver",
+      "deception",
+      "fraud",
+      "destruction",
+      "Satan",
+      "unexpected loss"
+    ]
+  },
+  {
+    "symbol": "THIGH",
+    "meaning": "Flesh: The natural man; works of the flesh; lust; seduction; power; strength of man.",
+    "category": "Body / State",
+    "keywords": [
+      "flesh",
+      "natural man",
+      "works of the flesh",
+      "lust",
+      "seduction",
+      "power",
+      "strength of man"
+    ]
+  },
+  {
+    "symbol": "THORNS",
+    "meaning": "Hindrance: Gossip; evil circumstance; persecution; cares of this life; curse.",
+    "category": "Plants / Negative",
+    "keywords": [
+      "hindrance",
+      "gossip",
+      "evil circumstance",
+      "persecution",
+      "curse"
+    ]
+  },
+  {
+    "symbol": "THUMB",
+    "meaning": "Grip: Hold; victory (as in “thumbs up”).",
+    "category": "Body / Action",
+    "keywords": [
+      "grip",
+      "hold",
+      "victory"
+    ]
+  },
+  {
+    "symbol": "THUNDER",
+    "meaning": "Power: Signs; wonders; powerful preaching; a voice for change. Dispensational change; a warning of impending judgment or trouble.",
+    "category": "Sound / Power",
+    "keywords": [
+      "power",
+      "signs",
+      "wonders",
+      "powerful preaching",
+      "warning of judgment",
+      "trouble"
+    ]
+  },
+  {
+    "symbol": "TICK",
+    "meaning": "Hidden: Oblivious of one's true self; hidden unclean spirit; parasite; pest.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "hidden",
+      "oblivious",
+      "hidden unclean spirit",
+      "parasite",
+      "pest"
+    ]
+  },
+  {
+    "symbol": "TIGER/LEOPARD",
+    "meaning": "Danger: Powerful minister; evil; dangerous person.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "danger",
+      "powerful minister",
+      "evil",
+      "dangerous person"
+    ]
+  },
+  {
+    "symbol": "TIME/TIMING",
+    "meaning": "Clock: Time. If sense of pressure = Decision. Specific numbers will further help clarify meaning. THIRD HOUR – Nine o’clock. SIXTH HOUR – Noon. ELEVENTH HOUR – Final hour; last days ministry. HIGH NOON – Time of Confrontation; important encounter; time to bring the fullness of government or authority; joining together.",
+    "category": "Objects / Time",
+    "keywords": [
+      "clock",
+      "time",
+      "pressure",
+      "decision",
+      "numbers"
+    ]
+  },
+  {
+    "symbol": "TIN",
+    "meaning": "Dross: Waste; worthless; cheap; purification; hot. Tin roof = Covering.",
+    "category": "Objects / State",
+    "keywords": [
+      "dross",
+      "waste",
+      "worthless",
+      "purification",
+      "covering"
+    ]
+  },
+  {
+    "symbol": "TIRES",
+    "meaning": "Spirit: Life; prayer; work on the move. Deflated/flat tire = Discouragement; dismay; hindrance; lack of prayer; spiritual condition.",
+    "category": "Objects / Spirit",
+    "keywords": [
+      "spirit",
+      "life",
+      "prayer",
+      "on the move",
+      "discouragement",
+      "hindrance",
+      "lack of prayer"
+    ]
+  },
+  {
+    "symbol": "TITLE/DEED",
+    "meaning": "Ownership: Authorization; possession; authority; rule; government; approval.",
+    "category": "Objects / Authority",
+    "keywords": [
+      "ownership",
+      "authorization",
+      "possession",
+      "authority",
+      "government",
+      "approval"
+    ]
+  },
+  {
+    "symbol": "TOOLS",
+    "meaning": "Gifts: Talents; ability; enablement; works; help.",
+    "category": "Objects / Resource",
+    "keywords": [
+      "gifts",
+      "talents",
+      "ability",
+      "enablement",
+      "works",
+      "help"
+    ]
+  },
+  {
+    "symbol": "TONGUE",
+    "meaning": "Words: Weapon; gossip; rebellion (untamed).",
+    "category": "Body / Words",
+    "keywords": [
+      "words",
+      "weapon",
+      "gossip",
+      "rebellion"
+    ]
+  },
+  {
+    "symbol": "TRACTOR (FARM)",
+    "meaning": "Powerful work: Preaching; ploughing; church or ministry; preparing for the harvest; making progress.",
+    "category": "Travel / Ministry",
+    "keywords": [
+      "powerful work",
+      "preaching",
+      "ministry",
+      "preparing for harvest",
+      "making progress"
+    ]
+  },
+  {
+    "symbol": "TRACTOR-TRAILER",
+    "meaning": "Large burden: Ministry; powerful and/or large work; the Church. Tractor-trailer without trailer = Free; liberated in or with power; no responsibility.",
+    "category": "Travel / Ministry",
+    "keywords": [
+      "large burden",
+      "ministry",
+      "powerful work",
+      "Church",
+      "free",
+      "no responsibility"
+    ]
+  },
+  {
+    "symbol": "TRACK",
+    "meaning": "Unending Work: On track or on target; in proper alignment; course set; parallel or similar work.",
+    "category": "Places / Work",
+    "keywords": [
+      "unending work",
+      "on target",
+      "alignment",
+      "course set",
+      "parallel work"
+    ]
+  },
+  {
+    "symbol": "TRAIN",
+    "meaning": "Continuous: Unceasing work; the Church; revival; fast.",
+    "category": "Travel / Ministry",
+    "keywords": [
+      "continuous",
+      "unceasing work",
+      "Church",
+      "revival",
+      "fast"
+    ]
+  },
+  {
+    "symbol": "TRAIN STATION",
+    "meaning": "Revival church or ministry center: Place of unending work of God; a temporary location or stop along the way; rest; a resting place in your particular ministry or life; waiting; place to make a connection.",
+    "category": "Places / Ministry",
+    "keywords": [
+      "revival church",
+      "ministry center",
+      "temporary location",
+      "rest",
+      "waiting",
+      "connection"
+    ]
+  },
+  {
+    "symbol": "TRANSMISSION",
+    "meaning": "Change: Steps; change of direction; change of purpose or intensity of ministry; transformation.",
+    "category": "Objects / Change",
+    "keywords": [
+      "change",
+      "steps",
+      "change of direction",
+      "transformation",
+      "ministry intensity"
+    ]
+  },
+  {
+    "symbol": "TREE(S)",
+    "meaning": "Person or Covering: Leader; life; shelter; false worship; evil influence. Oak tree = Strong shelter; promise fulfilled. Willow tree = Sorrow; sadness; weeping. Evergreen tree = Eternal life; protection. Maple tree = Canada; sweet; healing.Person or Covering: Leader; pick up the pace; life; shelter; false worship; evil influence. Oak tree = Strong shelter; promise fulfilled; long-lasting work; life; multiplication. Willow\ntree = Sorrow; sadness; crying; weeping; placed for revival (planted by the water). Evergreen tree = Eternal life; protection; immortal; always in season; Christmas. Maple tree or maple leaf = Canada; sweet; solid; healing; anointed ministry or person. Sugar maple tree = Promise or opportunity for wealth.",
+    "category": "Plants / State",
+    "keywords": [
+      "person",
+      "leader",
+      "life",
+      "shelter",
+      "false worship",
+      "evil influence",
+      "strong",
+      "sorrow",
+      "eternal life",
+      "Canada"
+    ]
+  },
+  {
+    "symbol": "TREE STUMP",
+    "meaning": "Cut off: Stop; hindered; roots; tenacious; obstacle/unmovable; memory of what once was.",
+    "category": "Plants / State",
+    "keywords": [
+      "cut off",
+      "stop",
+      "hindered",
+      "roots",
+      "obstacle",
+      "memory"
+    ]
+  },
+  {
+    "symbol": "TROPHY",
+    "meaning": "Memorial: Evidence of victory; award; competition; victory in spiritual warfare; prize; striving.",
+    "category": "Objects / State",
+    "keywords": [
+      "memorial",
+      "evidence of victory",
+      "award",
+      "spiritual warfare",
+      "prize",
+      "striving"
+    ]
+  },
+  {
+    "symbol": "TRUCK",
+    "meaning": "Ministry or Life: Type of truck describes the work. Pickup = work. Tractor-trailer = heavy; powerful. Milk truck = New believers; discipleship. Bread truck = Teaching; solid foundation.",
+    "category": "Travel / Ministry",
+    "keywords": [
+      "ministry",
+      "life",
+      "truck type",
+      "new believers",
+      "discipleship",
+      "teaching",
+      "solid foundation"
+    ]
+  },
+  {
+    "symbol": "TRUMPET",
+    "meaning": "Announcement: Preaching; prophesying; warning; call to assemble; worship; the rapture; wake up. Playing taps = End; finished; death; sadness; mourning; grief. Type of sound describes the nature of the call or work: Reveille = Birth; beginning.",
+    "category": "Objects / Message",
+    "keywords": [
+      "announcement",
+      "preaching",
+      "prophesying",
+      "warning",
+      "worship",
+      "rapture",
+      "wake up"
+    ]
+  },
+  {
+    "symbol": "TUNNEL",
+    "meaning": "Transition: Way of escape; troubling experience; trial; hope; faith; darkness to light; transformation.",
+    "category": "Places / Change",
+    "keywords": [
+      "transition",
+      "way of escape",
+      "trial",
+      "hope",
+      "faith",
+      "darkness to light",
+      "transformation"
+    ]
+  },
+  {
+    "symbol": "TURKEY",
+    "meaning": "Foolish: Dumb; clumsy; thanksgiving; pride; struts.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "foolish",
+      "dumb",
+      "clumsy",
+      "thanksgiving",
+      "pride"
+    ]
+  },
+  {
+    "symbol": "TURTLE",
+    "meaning": "Sure: Steady; sure; guaranteed victory; finish; armour. If native symbol = Blessing.",
+    "category": "Animals / State",
+    "keywords": [
+      "sure",
+      "steady",
+      "guaranteed victory",
+      "finish",
+      "armour",
+      "blessing"
+    ]
+  },
+  {
+    "symbol": "U-TURN",
+    "meaning": "Repentance: Salvation; changed life; change in direction.",
+    "category": "Actions / Change",
+    "keywords": [
+      "repentance",
+      "salvation",
+      "changed life",
+      "change in direction"
+    ]
+  },
+  {
+    "symbol": "UNDERTOW",
+    "meaning": "Undercurrent: Discontent; murmuring; danger of being taken away or taken over; suddenly or unexpected. Hidden danger; behind the scenes; hidden sin.",
+    "category": "Water / Negative",
+    "keywords": [
+      "undercurrent",
+      "discontent",
+      "danger",
+      "hidden danger",
+      "hidden sin"
+    ]
+  },
+  {
+    "symbol": "UNDERWEAR",
+    "meaning": "Covering: Intimate; shame; protection; revealed; uncovered.",
+    "category": "Clothing / State",
+    "keywords": [
+      "covering",
+      "intimate",
+      "shame",
+      "protection",
+      "revealed",
+      "uncovered"
+    ]
+  },
+  {
+    "symbol": "UP",
+    "meaning": "Promotion (Spiritual or Natural): Enthusiasm; indication of mood; pride; self-exaltation.",
+    "category": "Direction / State",
+    "keywords": [
+      "promotion",
+      "enthusiasm",
+      "mood",
+      "pride",
+      "self-exaltation"
+    ]
+  },
+  {
+    "symbol": "UPSTAIRS",
+    "meaning": "Spiritual: Thought; prayer; spiritual service; promotion.",
+    "category": "Places / Spiritual",
+    "keywords": [
+      "spiritual",
+      "thought",
+      "prayer",
+      "spiritual service",
+      "promotion"
+    ]
+  },
+  {
+    "symbol": "URINATING",
+    "meaning": "Relief of Pressure: Compelling urge; free; uninhibited; embarrassment if in public view.",
+    "category": "Actions / State",
+    "keywords": [
+      "relief of pressure",
+      "compelling urge",
+      "free",
+      "uninhibited",
+      "embarrassment"
+    ]
+  },
+  {
+    "symbol": "VAN",
+    "meaning": "Family: Natural or church family; family ministry; fellowship.",
+    "category": "Travel / Ministry",
+    "keywords": [
+      "family",
+      "church family",
+      "family ministry",
+      "fellowship"
+    ]
+  },
+  {
+    "symbol": "VACUUM CLEANER",
+    "meaning": "Repentance: Cleansing; deliverance ministry; cleaning up the mess; putting in order; preparing a covering.",
+    "category": "Objects / Change",
+    "keywords": [
+      "repentance",
+      "cleansing",
+      "deliverance ministry",
+      "putting in order",
+      "preparing a covering"
+    ]
+  },
+  {
+    "symbol": "VEIL",
+    "meaning": "Concealment: Hidden; concealed; covering; deception; without understanding; revealed if curtains are opened or removed.",
+    "category": "Objects / State",
+    "keywords": [
+      "concealment",
+      "hidden",
+      "covering",
+      "deception",
+      "without understanding",
+      "revealed"
+    ]
+  },
+  {
+    "symbol": "VEGETABLES",
+    "meaning": "Fruit of One's Labour: Teaching ministry; healthy and balanced spiritual diet; balanced work of service.",
+    "category": "Food / Work",
+    "keywords": [
+      "fruit of labour",
+      "teaching ministry",
+      "spiritual diet",
+      "balanced work of service"
+    ]
+  },
+  {
+    "symbol": "VIDEO",
+    "meaning": "Announce: Copy; reproduce; save; store; remember.",
+    "category": "Media / Message",
+    "keywords": [
+      "announce",
+      "copy",
+      "reproduce",
+      "save",
+      "remember"
+    ]
+  },
+  {
+    "symbol": "VINE",
+    "meaning": "Source: Christ; person; family; city; nation; flesh; entanglement; snare; alive; growing; spreading.",
+    "category": "Plants / State",
+    "keywords": [
+      "source",
+      "Christ",
+      "family",
+      "flesh",
+      "entanglement",
+      "snare",
+      "growing"
+    ]
+  },
+  {
+    "symbol": "VOLCANO",
+    "meaning": "Eruption: Sudden violent reaction to pressure; emotionally unstable; trouble erupting; God's judgment.",
+    "category": "Events / Change",
+    "keywords": [
+      "eruption",
+      "sudden violent reaction",
+      "emotionally unstable",
+      "trouble erupting",
+      "God's judgment"
+    ]
+  },
+  {
+    "symbol": "VOLLEYBALL GAME",
+    "meaning": "Worship: Play; sports; team ministry. Back and forth; decision (as in \"the ball is in your court\").",
+    "category": "Actions / Ministry",
+    "keywords": [
+      "worship",
+      "play",
+      "sports",
+      "team ministry",
+      "back and forth",
+      "decision"
+    ]
+  },
+  {
+    "symbol": "VULTURE",
+    "meaning": "Scavenger: Unclean; impure; an evil person; awaiting an opportunity to ravish or raid.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "scavenger",
+      "unclean",
+      "evil person",
+      "awaiting opportunity",
+      "raid"
+    ]
+  },
+  {
+    "symbol": "WALKING",
+    "meaning": "Progress: Living in the Spirit; living in sin. Making progress; your Christian walk or ministry; walking in the way.",
+    "category": "Actions / Way",
+    "keywords": [
+      "progress",
+      "living in the Spirit",
+      "living in sin",
+      "Christian walk",
+      "ministry"
+    ]
+  },
+  {
+    "symbol": "WALL",
+    "meaning": "Barrier: Obstacle; defense; limitation; hindrance; unbelief; protection; restriction; safety; contained. (see FENCE)",
+    "category": "Objects / Limits",
+    "keywords": [
+      "barrier",
+      "obstacle",
+      "defense",
+      "limitation",
+      "hindrance",
+      "unbelief",
+      "protection",
+      "safety"
+    ]
+  },
+  {
+    "symbol": "WALLET",
+    "meaning": "Safe Place: Power; authority; prosperity.",
+    "category": "Objects / Resource",
+    "keywords": [
+      "safe place",
+      "power",
+      "authority",
+      "prosperity"
+    ]
+  },
+  {
+    "symbol": "WASHBASIN",
+    "meaning": "Prayer: Repentance; petition (to God); self-justification (as when Pilate washed his hands at Christ's trial).",
+    "category": "Objects / Action",
+    "keywords": [
+      "prayer",
+      "repentance",
+      "petition",
+      "self-justification"
+    ]
+  },
+  {
+    "symbol": "WASHBOARD",
+    "meaning": "Rough: Hard correction; cleansing; weariness; hard work; manual labour. Tradition; old-fashioned; old method.",
+    "category": "Objects / Work",
+    "keywords": [
+      "rough",
+      "hard correction",
+      "cleansing",
+      "hard work",
+      "manual labour",
+      "tradition"
+    ]
+  },
+  {
+    "symbol": "WASHCLOTH",
+    "meaning": "Truth: Doctrine; understanding. Dirty cloth = False doctrine; insincere apology; error.",
+    "category": "Objects / Word",
+    "keywords": [
+      "truth",
+      "doctrine",
+      "understanding",
+      "false doctrine",
+      "error"
+    ]
+  },
+  {
+    "symbol": "WASP",
+    "meaning": "See HORNET",
+    "category": "Animals / Negative",
+    "keywords": [
+      "affliction",
+      "stinging words",
+      "slander",
+      "strife",
+      "curse",
+      "persecution",
+      "demonic spirits"
+    ]
+  },
+  {
+    "symbol": "WATER",
+    "meaning": "Spirit: Word; anointing; refreshing. Muddy or polluted water = Man’s doctrines and ways; iniquity; haughty spirit unkind. Troubled water = Trouble; worry; sorrow; unclean spirit; healing.",
+    "category": "Elements / Spirit",
+    "keywords": [
+      "spirit",
+      "word",
+      "anointing",
+      "refreshing",
+      "man's doctrines",
+      "trouble",
+      "healing"
+    ]
+  },
+  {
+    "symbol": "WATER FOUNTAIN",
+    "meaning": "Spirit: Words; spirit of man; Holy Spirit; salvation; source; revival center; place of refreshing.",
+    "category": "Objects / Spirit",
+    "keywords": [
+      "spirit",
+      "words",
+      "Holy Spirit",
+      "salvation",
+      "source",
+      "revival center",
+      "refreshing"
+    ]
+  },
+  {
+    "symbol": "WATERMELON",
+    "meaning": "Fruit: Refreshing; picnic; reproduction; duplication.",
+    "category": "Food / State",
+    "keywords": [
+      "fruit",
+      "refreshing",
+      "picnic",
+      "reproduction",
+      "duplication"
+    ]
+  },
+  {
+    "symbol": "WATER WELL",
+    "meaning": "Source: Heart; spirit of man; the Holy Spirit; refreshing; revival; prayer; hope; wish.",
+    "category": "Objects / Spirit",
+    "keywords": [
+      "source",
+      "heart",
+      "Holy Spirit",
+      "refreshing",
+      "revival",
+      "prayer",
+      "hope"
+    ]
+  },
+  {
+    "symbol": "WEASEL",
+    "meaning": "Wicked: Renege on a promise; betrayer; traitor; informant; division; separate.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "wicked",
+      "renege on promise",
+      "betrayer",
+      "traitor",
+      "division"
+    ]
+  },
+  {
+    "symbol": "WEDDING",
+    "meaning": "Covenant: Relationship; agreement; celebrate; unity; becoming one.",
+    "category": "Actions / Covenant",
+    "keywords": [
+      "covenant",
+      "relationship",
+      "agreement",
+      "celebrate",
+      "unity"
+    ]
+  },
+  {
+    "symbol": "WEEDS",
+    "meaning": "Unkempt: Works of the flesh; sin; neglect; laziness; worry; the fullness of iniquity; hindrance; work of the devil; evil thoughts.",
+    "category": "Plants / Negative",
+    "keywords": [
+      "unkempt",
+      "works of the flesh",
+      "sin",
+      "neglect",
+      "laziness",
+      "hindrance",
+      "evil thoughts"
+    ]
+  },
+  {
+    "symbol": "WEST",
+    "meaning": "End: Grace; death; last; conformed; sunset of or final stages.",
+    "category": "Direction / Time",
+    "keywords": [
+      "end",
+      "grace",
+      "death",
+      "last",
+      "final stages"
+    ]
+  },
+  {
+    "symbol": "WESTERN",
+    "meaning": "Frontier: Pioneering spirit; spiritual warfare; boldness; challenge; opportunity; wild or rowdy; without boundaries.",
+    "category": "Events / State",
+    "keywords": [
+      "frontier",
+      "pioneering spirit",
+      "spiritual warfare",
+      "boldness",
+      "challenge",
+      "opportunity",
+      "without boundaries"
+    ]
+  },
+  {
+    "symbol": "WHALE",
+    "meaning": "Special or Large Harvest: Big; large. Belly of the whale = Hiding from assignment or call in ministry.",
+    "category": "Animals / Ministry",
+    "keywords": [
+      "special harvest",
+      "large",
+      "hiding from assignment",
+      "call in ministry"
+    ]
+  },
+  {
+    "symbol": "WHEELS",
+    "meaning": "Unending Work: Movement; role; ease; mobile; car; transportation; forward or backward. Wheel within a wheel = Spirit-driven; parallel works; unity of the Spirit.",
+    "category": "Objects / Work",
+    "keywords": [
+      "unending work",
+      "movement",
+      "transportation",
+      "Spirit-driven",
+      "unity of the Spirit"
+    ]
+  },
+  {
+    "symbol": "WHITE",
+    "meaning": "Pure: Unblemished; spotless; blameless; righteousness; truth; innocence; plain, without colour. Pure: Unblemished; spotless; blameless; righteousness; truth; innocence; plain, without colour. Whitewash = Cover-up; hidden. WHITE OUT – Correction: glory. WHITEWASH – Cover up; water down.",
+    "category": "Colors / State",
+    "keywords": [
+      "pure",
+      "spotless",
+      "blameless",
+      "righteousness",
+      "truth",
+      "innocence"
+    ]
+  },
+  {
+    "symbol": "WIFE",
+    "meaning": "Covenant: Joined; job; business; hobby; Church; dedicated involvement in any activity, such as a job, business, church; help; she may represent herself; helpmate; partner.",
+    "category": "People / Covenant",
+    "keywords": [
+      "covenant",
+      "joined",
+      "job",
+      "business",
+      "Church",
+      "helpmate",
+      "partner"
+    ]
+  },
+  {
+    "symbol": "WILD GAME",
+    "meaning": "Work: Seeking or doing God's Word and work; sorcery; unbridled or rebellious work.",
+    "category": "Animals / Work",
+    "keywords": [
+      "work",
+      "God's Word",
+      "sorcery",
+      "rebellious work"
+    ]
+  },
+  {
+    "symbol": "WIND",
+    "meaning": "Spirit: Holy Spirit; spirit of the word or doctrine; demonic or strong opposition; idle words; storm; freedom; unseen power.",
+    "category": "Elements / Spirit",
+    "keywords": [
+      "spirit",
+      "Holy Spirit",
+      "doctrine",
+      "demonic opposition",
+      "storm",
+      "freedom",
+      "unseen power"
+    ]
+  },
+  {
+    "symbol": "WINDOW",
+    "meaning": "Revealed: Truth; prophecy; revelation; understanding; avenue of blessing; passage of time or light; vulnerable; protection; transparent. If open = Unprotected (as in “open door”).",
+    "category": "Objects / Vision",
+    "keywords": [
+      "revealed",
+      "truth",
+      "prophecy",
+      "revelation",
+      "understanding",
+      "avenue of blessing",
+      "unprotected"
+    ]
+  },
+  {
+    "symbol": "WINE (or Strong Drink)",
+    "meaning": "Intoxicant: The blood of the Lord; strong emotion (such as joy, anger, hate, or sorrow); Spirit; spiritual fellowship or communion; truth; witchcraft; delusion; mocker.",
+    "category": "Food / Spirit",
+    "keywords": [
+      "intoxicant",
+      "blood of the Lord",
+      "strong emotion",
+      "Spirit",
+      "communion",
+      "truth",
+      "witchcraft",
+      "mocker"
+    ]
+  },
+  {
+    "symbol": "WINGS",
+    "meaning": "Spirit: Minister (Prophet); Holy Spirit; shelter; demon; protection; agent or ability to fly or soar. Broken wing = Hindrance or handicap; flesh; inability to fly or be free.",
+    "category": "Body / Spirit",
+    "keywords": [
+      "spirit",
+      "minister",
+      "Holy Spirit",
+      "demon",
+      "protection",
+      "fly",
+      "hindrance",
+      "inability to be free"
+    ]
+  },
+  {
+    "symbol": "WINTER",
+    "meaning": "Barren: Death; dormant; waiting; cold; long, dry spiritual experience; storage.",
+    "category": "Time / Season",
+    "keywords": [
+      "barren",
+      "death",
+      "dormant",
+      "waiting",
+      "cold",
+      "dry spiritual experience",
+      "storage"
+    ]
+  },
+  {
+    "symbol": "WITCH",
+    "meaning": "Witchcraft: Control; manipulation; evil influence; evil intent; seduction; non-submissive wife; rebellion; slander; gossip; worldly church; evil spirit.",
+    "category": "People / Negative",
+    "keywords": [
+      "witchcraft",
+      "control",
+      "manipulation",
+      "evil influence",
+      "seduction",
+      "rebellion",
+      "slander",
+      "gossip",
+      "evil spirit"
+    ]
+  },
+  {
+    "symbol": "WOLF",
+    "meaning": "Predator: Devourer; Satan; demon of division; sly; group attack; injury or offense; false prophet; evil minister or governor; person seeking his own gain; womanizer. Fangs = Evil motive; danger.",
+    "category": "Animals / Negative",
+    "keywords": [
+      "predator",
+      "devourer",
+      "Satan",
+      "demon of division",
+      "sly",
+      "false prophet",
+      "evil minister"
+    ]
+  },
+  {
+    "symbol": "WOMAN (ANGEL)",
+    "meaning": "Spirit: Seducing spirit; temptation; deception; witchcraft; God's messenger; angel; one's own self. Name, occupation, function, or appearance can further define.",
+    "category": "People / Spirit",
+    "keywords": [
+      "spirit",
+      "seducing spirit",
+      "temptation",
+      "deception",
+      "God's messenger",
+      "angel",
+      "oneself"
+    ]
+  },
+  {
+    "symbol": "WOOD",
+    "meaning": "Life or Death: Temporary; flesh; humanity; carnal reasoning; lust; eternal; spiritual building material; ready for sacrifice or use.",
+    "category": "Objects / State",
+    "keywords": [
+      "life",
+      "death",
+      "temporary",
+      "flesh",
+      "carnal reasoning",
+      "lust",
+      "eternal",
+      "spiritual building material",
+      "sacrifice"
+    ]
+  },
+  {
+    "symbol": "WORM",
+    "meaning": "Filth: Corruption; evil; flesh. Life within; spirit (clean or unclean); sneaky; worthless; bait.",
+    "category": "Animals / State",
+    "keywords": [
+      "filth",
+      "corruption",
+      "evil",
+      "flesh",
+      "spirit",
+      "sneaky",
+      "worthless"
+    ]
+  },
+  {
+    "symbol": "WRESTLING",
+    "meaning": "Striving: Deliverance; resistance; persistence; trial; tribulation; fight; contend for your blessing; controlling spirit attempting to gain control.",
+    "category": "Actions / Warfare",
+    "keywords": [
+      "striving",
+      "deliverance",
+      "resistance",
+      "trial",
+      "fight",
+      "contend for blessing",
+      "controlling spirit"
+    ]
+  },
+  {
+    "symbol": "YARD",
+    "meaning": "Place of ministry or Life: Outreach ministry. Front = Future. Rear = Past. Side = Current.",
+    "category": "Places / Time",
+    "keywords": [
+      "ministry",
+      "life",
+      "outreach ministry",
+      "future",
+      "past",
+      "current"
+    ]
+  },
+  {
+    "symbol": "YELLOW",
+    "meaning": "Gift: A gift of God; marriage; family; honour; timidity; fear; cowardly. Welcome home (a yellow ribbon); caution.",
+    "category": "Colors / State",
+    "keywords": [
+      "gift",
+      "marriage",
+      "family",
+      "honour",
+      "fear",
+      "cowardly",
+      "caution"
+    ]
+  },
+  {
+    "symbol": "ZEBRA",
+    "meaning": "Black and White: Similar to a horse; cut-and-dry; half and half; in compromise; camouflage.",
+    "category": "Animals / State",
+    "keywords": [
+      "black and white",
+      "cut-and-dry",
+      "compromise",
+      "camouflage"
+    ]
+  },
+  {
+    "symbol": "ZOO",
+    "meaning": "Strange: Commotion; confusion; chaos; disarray; circus atmosphere; mixture of people or spirits; very busy place; noisy strife; out of nature; preserve; captivity.",
+    "category": "Places / State",
+    "keywords": [
+      "strange",
+      "commotion",
+      "confusion",
+      "chaos",
+      "mixture of spirits",
+      "noisy strife",
+      "captivity"
+    ]
+  }
+]
