@@ -3,7 +3,6 @@
 import { useState, useEffect, useMemo } from 'react';
 import { DreamSymbol } from '@/types';
 import SymbolCard from '@/components/SymbolCard';
-import CategoryFilter from '@/components/CategoryFilter';
 
 /**
  * Dream Symbols Lookup App - Main Page
@@ -11,7 +10,6 @@ import CategoryFilter from '@/components/CategoryFilter';
  * This is the main page component that handles:
  * - Loading dream symbols data from JSON
  * - Real-time search filtering
- * - Category filtering
  * - Responsive grid layout
  */
 export default function Home() {
@@ -20,8 +18,6 @@ export default function Home() {
   const [symbols, setSymbols] = useState<DreamSymbol[]>([]);
   // Track current search query
   const [searchQuery, setSearchQuery] = useState('');
-  // Track selected category filter
-  const [activeCategory, setActiveCategory] = useState('All');
   // Track loading state
   const [isLoading, setIsLoading] = useState(true);
 
@@ -40,28 +36,10 @@ export default function Home() {
       });
   }, []);
 
-  // EXTRACT UNIQUE CATEGORIES
-  // useMemo ensures this only recalculates when symbols array changes
-  const categories = useMemo(() => {
-    // Get all unique categories from the symbols data
-    const uniqueCategories = Array.from(
-      new Set(symbols.map((symbol) => symbol.category))
-    );
-    // Sort alphabetically for better UX
-    return uniqueCategories.sort();
-  }, [symbols]);
-
-  // FILTER SYMBOLS BASED ON SEARCH AND CATEGORY
+  // FILTER SYMBOLS BASED ON SEARCH
   // useMemo prevents unnecessary recalculations on every render
   const filteredSymbols = useMemo(() => {
     let filtered = symbols;
-
-    // Apply category filter first
-    if (activeCategory !== 'All') {
-      filtered = filtered.filter(
-        (symbol) => symbol.category === activeCategory
-      );
-    }
 
     // Apply search filter
     // Search across symbol name, meaning, and keywords
@@ -82,7 +60,7 @@ export default function Home() {
     }
 
     return filtered;
-  }, [symbols, searchQuery, activeCategory]);
+  }, [symbols, searchQuery]);
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-900 via-purple-800 to-indigo-900">
@@ -106,7 +84,7 @@ export default function Home() {
             <div className="absolute inset-y-0 left-0 pl-4 flex items-center
                           pointer-events-none">
               <svg
-                className="h-5 w-5 text-purple-300"
+                className="h-5 w-5 text-purple-500"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -127,9 +105,9 @@ export default function Home() {
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full pl-12 pr-4 py-4 rounded-xl
-                       bg-purple-800/40 backdrop-blur-sm
-                       border border-purple-600/30
-                       text-white placeholder-purple-300
+                       bg-white
+                       border border-purple-300
+                       text-purple-900 placeholder-purple-400
                        focus:outline-none focus:ring-2 focus:ring-purple-500
                        focus:border-transparent
                        transition-all duration-200"
@@ -140,7 +118,7 @@ export default function Home() {
               <button
                 onClick={() => setSearchQuery('')}
                 className="absolute inset-y-0 right-0 pr-4 flex items-center
-                         text-purple-300 hover:text-white transition-colors"
+                         text-purple-500 hover:text-purple-700 transition-colors"
               >
                 <svg
                   className="h-5 w-5"
@@ -159,15 +137,6 @@ export default function Home() {
             )}
           </div>
         </div>
-
-        {/* CATEGORY FILTER */}
-        {!isLoading && (
-          <CategoryFilter
-            categories={categories}
-            activeCategory={activeCategory}
-            onCategoryChange={setActiveCategory}
-          />
-        )}
 
         {/* LOADING STATE */}
         {isLoading && (
@@ -192,12 +161,11 @@ export default function Home() {
             <button
               onClick={() => {
                 setSearchQuery('');
-                setActiveCategory('All');
               }}
               className="mt-6 px-6 py-3 bg-purple-600 text-white rounded-lg
                        hover:bg-purple-500 transition-colors duration-200"
             >
-              Reset Filters
+              Reset Search
             </button>
           </div>
         )}
@@ -225,7 +193,7 @@ export default function Home() {
         <footer className="mt-16 text-center text-purple-300 text-sm">
           <p>Dream Symbols Lookup App</p>
           <p className="mt-2">
-            {symbols.length} symbols • {categories.length} categories
+            {symbols.length} symbols
           </p>
         </footer>
       </div>
