@@ -57,6 +57,37 @@ export default function Home() {
 
         return matchesSymbol || matchesMeaning || matchesKeywords;
       });
+
+      // Sort results: exact symbol matches first, then partial matches
+      filtered.sort((a, b) => {
+        const aSymbol = a.symbol.toLowerCase();
+        const bSymbol = b.symbol.toLowerCase();
+        const queryLower = query.toLowerCase();
+
+        // Exact match for symbol name gets highest priority
+        const aExactMatch = aSymbol === queryLower;
+        const bExactMatch = bSymbol === queryLower;
+
+        if (aExactMatch && !bExactMatch) return -1;
+        if (!aExactMatch && bExactMatch) return 1;
+
+        // Symbol starts with query gets second priority
+        const aStartsWith = aSymbol.startsWith(queryLower);
+        const bStartsWith = bSymbol.startsWith(queryLower);
+
+        if (aStartsWith && !bStartsWith) return -1;
+        if (!aStartsWith && bStartsWith) return 1;
+
+        // Symbol contains query gets third priority
+        const aContainsInSymbol = aSymbol.includes(queryLower);
+        const bContainsInSymbol = bSymbol.includes(queryLower);
+
+        if (aContainsInSymbol && !bContainsInSymbol) return -1;
+        if (!aContainsInSymbol && bContainsInSymbol) return 1;
+
+        // Otherwise maintain original order
+        return 0;
+      });
     }
 
     return filtered;
